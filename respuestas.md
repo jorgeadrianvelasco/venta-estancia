@@ -27,7 +27,7 @@ automática ni un texto armado. No se pregunta el plazo de compra ni la forma de
 | ¿Cuántas cabezas aguanta? | pendiente | |
 | ¿Qué infraestructura tiene? | pendiente | |
 | ¿Se vende con ganado? | pendiente | |
-| ¿Tiene los papeles en regla? | pendiente (ver `documentacion.md`) | |
+| ¿Tiene los papeles en regla? | **Lo charla Jorge personalmente.** No se mandan documentos ni se detallan en una respuesta automática (`documentacion.md`) | 15/10/2026 |
 | ¿Aceptan pago en cuotas o permuta? | pendiente | |
 | ¿Se puede visitar? | pendiente | |
 

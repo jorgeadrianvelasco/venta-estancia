@@ -23,8 +23,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos. El 2 (abogado) está en manos de Jorge. El 4 (investigación) hecho a
-  medias: sin comparables directos, proxy bloqueó portales. No prometer "se puede construir/lotear" (Ley 2604). **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
+  3 borradores sin aprobar. Faltan fotos de la orilla y el paso 7 (página y WhatsApp). Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -125,3 +125,13 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   público de catastro ni INRA. Hay ordenanzas de 2010-2011 y Ley departamental 017 (2011) sobre la laguna, sin texto.
 - **Qué aprendimos:** desde este entorno no se pueden abrir portales bolivianos. Los comparables reales los tiene que
   aportar Jorge (ventas que conozca) o abrirlos él. Para anuncios: **no prometer construir ni lotear** hasta el abogado.
+
+### 15 de octubre de 2026 — Papeles, construcción y borradores de anuncio (paso 8)
+- **Jorge:** los papeles (folio real, plano, impuestos, Ley 2604) **los charla él en persona**: Claude no los guarda
+  ni los manda. **En la laguna se puede construir pero no lotear** (por eso no se vende a loteadores). Las fotos y el
+  drone ya existen: están en el aviso de Marketplace de 2025.
+- **Fotos por el MCP:** solo hay una del aviso (la vista aérea ya guardada en `fotos/`). La creatividad del boost es
+  una publicación de Marketplace (`709824314797323`, STATUS, sin `image_url`). Las otras 4 imágenes de la cuenta son
+  de feb-2025 y el proxy bloquea `fbcdn.net`. **Ninguna muestra la laguna**: se le pidió a Jorge que las pase.
+- **Borradores:** V1 general, V2 ganadero, V3 laguna (`textos-anuncios.md`), sin aprobar.
+- **Siguiente:** aprobación de textos; fotos de la orilla; paso 7 (página y WhatsApp).

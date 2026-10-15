@@ -58,6 +58,19 @@ sola cuenta del portfolio.
 **Ojo:** **no se intenta mover `64830109` al portfolio** (`reglas.md`, regla 2). La página sigue haciendo falta.
 **Qué la haría cambiar:** que Jorge prefiera separar la venta de su cuenta personal.
 
+## No se le vende a loteadores
+**Decidido:** 15/10/2026, por Jorge (perfiles B, C y D en `comprador.md`).
+**Por qué:** *"en la laguna sí se puede construir pero no lotear"*. Un anuncio que hable de lotear atrae a quien
+no va a poder hacerlo.
+**Qué la haría cambiar:** que cambie la norma de la laguna.
+
+## Los papeles los maneja Jorge en persona
+**Decidido:** 15/10/2026, por Jorge: *"quiero que quede en charla [...] y no los tengas vos para enviárselos
+automáticamente"*.
+**Por qué:** son datos sensibles del predio y del dueño. Folio real, plano, impuestos y Ley 2604 se charlan con cada
+interesado serio; Claude no los guarda ni los manda.
+**Qué la haría cambiar:** que Jorge lo pida.
+
 ## Todo lo de Meta va en el portfolio "Jorge Velasco" (en parte reemplazada)
 **Decidido:** 15/10/2026, por Jorge. **La cuenta publicitaria ya no**: ver la decisión de arriba.
 **Por qué:** ya existe (`160471911857072`), así que no hace falta un portfolio nuevo. La página y la cuenta

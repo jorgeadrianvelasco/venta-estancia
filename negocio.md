@@ -25,7 +25,8 @@ Cuando un dato se confirma, se anota la fecha.
 | Energía y agua de la casa | **Energía a motor (generador); agua de lluvia.** Sin red eléctrica ni agua de red | 15/10/2026 |
 | Capacidad de carga (cabezas o UA) | pendiente | |
 | ¿Se vende con ganado o con equipos? | **Sin ganado** (el ganado se vende aparte). **Todo lo demás queda con el predio** (casa, motor, corrales, alambrado) | 15/10/2026 |
-| Situación de papeles | ver `documentacion.md` | |
+| Qué se puede hacer sobre la laguna | **Se puede construir, no lotear** (Jorge) | 15/10/2026 |
+| Situación de papeles | Según Jorge, "todo perfecto". **Los maneja Jorge en persona** (`documentacion.md`) | 15/10/2026 |
 
 ## Precio y condiciones
 
