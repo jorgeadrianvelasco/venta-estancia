@@ -159,3 +159,12 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **MCP:** `ads_get_pages_for_business` la muestra en el portfolio; `ads_get_user_pages` la muestra junto a la de Kakau
   (puede anunciar). **No hizo falta reconectar el conector.** `ads_get_ad_account_pages` de `64830109` vacío: normal.
 - **Pendiente:** foto de perfil, portada, presentación, primera publicación con V1; conectar WhatsApp Business.
+
+### 15 de octubre de 2026 — WhatsApp: número del padre de Jorge
+- **Jorge** quiere usar el **número de su padre** para la venta y preguntó si hace falta WhatsApp Business.
+- **Ayuda oficial de Meta** ([372008982225441](https://www.facebook.com/business/help/372008982225441)): desde marzo de
+  2024 los anuncios que llevan a WhatsApp **exigen WhatsApp Business**; un número personal no sirve. Se puede **pasar el
+  mismo número** gratis sin perder chats ni contactos, pero los chats personales y los de la venta quedan juntos.
+- **Se le preguntó:** quién responde (la respuesta aprobada dice "Soy Jorge, el dueño") y si ese número ya se usa para
+  los tubos del padre (un número solo se conecta a un negocio; además, regla 7: no mezclar líneas).
+- **Se le dieron** los pasos para cargar la página desde el celular (perfil, portada, presentación, publicación con V1).
