@@ -1,6 +1,6 @@
 # Venta de estancia — agente de venta y marketing
 
-Venta de una estancia en el Beni (Bolivia). Nombre de la estancia: **pendiente**.
+Venta de la estancia **Calocha**, en el Beni (Bolivia).
 Jorge es quien lleva la venta. Quién es dueño y quién decide el precio: **pendiente** (`negocio.md`).
 
 ## Leé esto antes de actuar

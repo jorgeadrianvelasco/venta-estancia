@@ -20,10 +20,12 @@ Ni hectáreas, ni precios, ni contactos, ni resultados. Lo que no se sabe queda 
 Lo investigado lleva fuente y separa lo **verificado** de lo **estimado**. Nunca se mezcla un promedio
 con una estimación.
 
-## 5. Antes de armar un público, verificar la categoría especial de Meta
-Verificar con la ayuda oficial de Meta (`ads_get_help_article`) si los anuncios de venta de inmuebles
-caen en una categoría especial y qué restringe en Bolivia (edad, sexo, ubicación, intereses).
-Hasta verificarlo, no se propone ningún público. Estado: **sin verificar**.
+## 5. Categoría especial de vivienda: solo si el público incluye EE. UU., Canadá o Europa
+Verificado el 15/10/2026 ([Meta: acerca de los anuncios de vivienda](https://www.facebook.com/business/help/1198401317374558)):
+la venta de inmuebles es "anuncio de vivienda", y la categoría especial es **obligatoria solo si el anunciante
+está en EE. UU. o el público está en EE. UU., Canadá o ciertos países de Europa**. Con anunciante y público en
+Bolivia no hace falta. **Si se apunta al comprador extranjero en esos países, la campaña lleva la categoría y
+el público queda restringido**; sin ella, Meta puede rechazar el anuncio.
 
 ## 6. Ante lo irreversible, preguntar
 Borrar, publicar, gastar, compartir datos de la estancia o de interesados con terceros. Se pregunta antes.

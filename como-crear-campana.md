@@ -19,8 +19,10 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 
 ## Antes de la primera campaña de esta línea
 
-- **Categoría especial de inmuebles** (`reglas.md`, regla 5): consultar con `ads_get_help_article` si aplica y qué
-  restringe en Bolivia. Si aplica, la campaña se crea con esa categoría y el público se arma dentro de sus límites.
+- **Categoría especial de vivienda** (`reglas.md`, regla 5): no hace falta con público en Bolivia. Sí, si el público
+  incluye EE. UU., Canadá o ciertos países de Europa.
+- **Hace falta una página de Facebook**: el MCP no puede impulsar publicaciones de Marketplace. Lo que crea por API va
+  con una página (`negocio.md`).
 - Definir con Jorge el objetivo: mensajes por WhatsApp (lo que se usó en Kakau) u otro.
 
 ## Paso a paso (receta de Kakau)
