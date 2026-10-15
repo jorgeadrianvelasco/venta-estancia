@@ -220,3 +220,6 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   posts orgánicos): la hace Jorge desde el celular. Se le dio el paso a paso: V1 + 5 fotos reales en orden (drone
   laguna, orilla, casa y corrales, alambrado, pampa), **"Publicar ahora", nunca "Impulsar"**.
 - **Pendiente:** que Jorge pase el link de la publicación (su ID se usa después como anuncio).
+- **Verificación tras "ya, fijate todo" (15/10/2026):** la página "Venta estancias" sigue con permiso de anunciar;
+  activity log de hoy **vacío** en `64830109` y sin campañas nuevas en la de Kakau → **no se impulsó nada**. El MCP **no
+  puede ver** publicaciones, foto de perfil ni portada de la página: para eso Jorge manda el link o captura.
