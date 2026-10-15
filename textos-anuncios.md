@@ -37,13 +37,13 @@ las publicaciones sin pauta no se ven por API.
 fueron. Con 21 Bs, tres días, todo el público de 18 a 65 años alrededor de Trinidad y un título que decía
 "propiedad urbana", el anuncio llegó a cualquiera y no a quien compra una estancia.
 
-## Borradores nuevos (15/10/2026) — **sin aprobar, no se usan hasta que Jorge diga**
+## Textos nuevos (15/10/2026) — **Jorge eligió V1** ("me gusta más el primero"). V2 y V3 quedan como borradores no elegidos
 
 Reglas que siguen los tres: sin precio; la línea del filtro aprobada (`respuestas.md`) tal cual; **800 m** de frente
 propio (nunca "2,1 km"); nada de "lotear"; nada de papeles (los charla Jorge); dato fuerte en la primera línea;
 voz del dueño. Se sacó "propiedad urbana" del título: **hipótesis** de que atrajo a quien busca un lote en la ciudad.
 
-### V1 — General (los tres perfiles)
+### V1 — General (los tres perfiles) — ✅ APROBADO por Jorge el 15/10/2026
 - **Título:** 530 ha sobre la laguna Suárez, a 6,6 km de Trinidad
 - **Texto:**
   > Vendo Calocha: 530 hectáreas tituladas con 800 metros de frente a la laguna Suárez, a solo 6,6 km de Trinidad.

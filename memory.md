@@ -24,7 +24,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Fotos en `fotos/` (paso 5 hecho). Falta el paso 7 (página y WhatsApp). Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** En curso el paso 7 (página y WhatsApp). Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -142,3 +142,12 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Foto principal:** `2025-drone-laguna-casa-y-camino.jpg` (laguna, casa y camino en una toma). **No usar** la de la
   pampa con agua (puede leerse como que se inunda) ni la nublada.
 - **Pendiente:** originales en mejor calidad; aprobación de textos; WhatsApp y página (paso 7).
+
+### 15 de octubre de 2026 — Texto V1 aprobado y guía para la página (paso 7)
+- **Jorge eligió V1** (el general). V2 y V3 quedan como borradores no elegidos (`textos-anuncios.md`).
+- **Se le dio la guía** para crear la página "Estancia Calocha" en el portfolio "Jorge Velasco" desde Meta Business
+  Suite ([Meta 720478807965744](https://www.facebook.com/business/help/720478807965744)) y conectar el WhatsApp Business
+  desde Configuración → Cuentas vinculadas ([Meta 1583303048513172](https://www.facebook.com/business/help/1583303048513172)).
+- **Ojo para la verificación:** Jorge conectó el MCP cuando armó Kakau. Si la página nueva no aparece en
+  `ads_get_user_pages`, hay que reconectar el conector de Meta en claude.ai y tildar la página nueva **sin destildar
+  la de Kakau** (si no, se rompe el agente de Kakau).
