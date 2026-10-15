@@ -23,8 +23,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos. El 2 (abogado) está en manos de Jorge. El 4 (investigación de
-  mercado) en curso. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos. El 2 (abogado) está en manos de Jorge. El 4 (investigación) hecho a
+  medias: sin comparables directos, proxy bloqueó portales. No prometer "se puede construir/lotear" (Ley 2604). **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -115,3 +115,13 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   diciendo que **él es el dueño**, y **sin preguntar el plazo**. El precio **se puede charlar por mensaje pero no sale
   automático**: lo da él. Con esos cambios, aprobado (`respuestas.md`).
 - **Se lanzó** el agente `investigador-estancia` para el paso 4 (precios de referencia y canales cerca de Trinidad).
+
+### 15 de octubre de 2026 — Resultado de la investigación de mercado (paso 4)
+- **Qué se hizo:** el agente `investigador-estancia` buscó precios, valores oficiales, canales y restricciones de la
+  laguna. Resultado en `investigacion/precios-y-canales-trinidad.md` y 8 filas en `competencia.md`.
+- **Resultado:** **débil**. El proxy bloqueó todos los portales y normas: todo sale de resúmenes de buscador, sin abrir
+  los avisos. **Ningún aviso sobre la laguna Suárez ni la carretera a Loreto.** Estancias del Beni piden de ~10 a
+  2.000 USD/ha (rango inútil); dos cerca de Trinidad con agua, ~1.000-1.100 USD/ha. Un solo periurbano (16 ha). Nada
+  público de catastro ni INRA. Hay ordenanzas de 2010-2011 y Ley departamental 017 (2011) sobre la laguna, sin texto.
+- **Qué aprendimos:** desde este entorno no se pueden abrir portales bolivianos. Los comparables reales los tiene que
+  aportar Jorge (ventas que conozca) o abrirlos él. Para anuncios: **no prometer construir ni lotear** hasta el abogado.

@@ -16,5 +16,5 @@ el abogado o notario de Jorge y anotar acá quién la confirmó.
 | Registro catastral | pendiente | pendiente | |
 | Impuestos al día | Que no herede deudas | pendiente | |
 | Cumplimiento de la función económico-social | pendiente | pendiente | |
-| Restricciones por la laguna Suárez | La [Ley 2604 (2003)](https://www.lexivox.org/norms/BO-L-2604.xhtml) declara la laguna patrimonio ecológico y natural (614,39 ha). Un comprador que quiera construir o lotear va a preguntar qué se puede hacer en la orilla | pendiente: consultar al abogado | |
+| Restricciones por la laguna Suárez | La [Ley 2604 (2003)](https://www.lexivox.org/norms/BO-L-2604.xhtml) declara la laguna patrimonio ecológico y natural (614,39 ha). Un comprador que quiera construir o lotear va a preguntar qué se puede hacer en la orilla | pendiente: consultar al abogado. Según resúmenes de buscador (sin abrir), también hay ordenanzas municipales de 2010-2011 y la Ley departamental 017 (2011) que la declaran área protegida, y notas que citan "regular el uso del suelo" (`investigacion/precios-y-canales-trinidad.md`). **Hasta que el abogado responda, no se promete "se puede construir" ni "se puede lotear"** | |
 | Otros que pida el abogado | | pendiente | |
