@@ -24,7 +24,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. WhatsApp: el del **padre de Jorge** (compartido con tubos), falta conectarlo.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; logo, portada y **primera publicación subidos** (dicho por Jorge, 15/10); falta el link del post y el WhatsApp. Paso 9: borrador de propuesta en `plan.md`, sin aprobar. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; logo, portada y **primera publicación subidos** (dicho por Jorge, 15/10); falta el link del post y el WhatsApp. Paso 9: **segmentación decidida** (`plan.md`): 2 conjuntos Trinidad/Santa Cruz 50-50, 30-65+, 75 Bs en 3 días, sin Marketplace, a WhatsApp. Faltan WhatsApp conectado, link del post y hora de inicio. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -229,3 +229,6 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   25 Bs en total queda debajo del mínimo diario de 11,95 Bs), destino **WhatsApp del padre**, **sin Marketplace**, "sí,
   armala pausada" **pero "primero quiero hacer la segmentación"**. No se creó nada: falta segmentación, aclarar monto,
   conectar el WhatsApp y el link del post.
+- **Segmentación decidida (15/10/2026):** Trinidad 50 % y Santa Cruz 50 % (dos conjuntos de 37,50 Bs), 30-65+, intereses
+  ganadería / bienes raíces e inversión / agro / turismo rural, **75 Bs en total** (25 Bs/día × 3). El MCP no tiene
+  buscador de intereses ni de ciudades: ciudades por coordenadas + radio; intereses los agrega Jorge en el Administrador.

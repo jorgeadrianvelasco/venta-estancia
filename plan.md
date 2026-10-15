@@ -29,8 +29,13 @@ Se arma solo cuando Jorge la pida (`reglas.md`, regla 1). Lo que está acá es p
 | Anuncio | La primera publicación de la página (V1 + fotos reales) | Sin Instagram, el anuncio sale de un post de Facebook | — |
 | Destino del mensaje | **WhatsApp del padre** (Jorge, 15/10/2026). Hay que conectarlo antes de crear la campaña | Responde el padre | ✅ decidido |
 | Ubicaciones | Solo Facebook, **sin Marketplace** (Jorge, 15/10/2026: "probemos esta campaña sin Marketplace") | Sin Instagram; Marketplace trajo curiosos en 2025 (hipótesis) | ✅ decidido |
-| Público | Bolivia: Beni, Santa Cruz, La Paz y Cochabamba; 30 a 65+ años; intereses de ganadería, agro, bienes raíces e inversión; `advantage_audience: 0` | Perfiles B, C y D (`comprador.md`). En 2025 fue cualquiera de 18 a 65 alrededor de Trinidad. **Hipótesis** | Ciudades y edades |
+| Público | **Dos conjuntos, 50 % y 50 %** (Jorge, 15/10/2026): **Trinidad** (radio 40 km, centro aprox. -14.833, -64.900) y **Santa Cruz de la Sierra** (radio 30 km, centro aprox. -17.783, -63.182), con `custom_locations` (el MCP no busca IDs de ciudad). **30 a 65+** años → `advantage_audience: 0` (Advantage+ no respeta un mínimo mayor a 25). Intereses elegidos: ganadería, bienes raíces e inversión, agricultura y agro, turismo rural | Perfiles B, C y D. **Ojo:** el MCP no tiene buscador de intereses y no se inventan IDs: Jorge los agrega en el Administrador de anuncios sobre los conjuntos pausados | ✅ decidido |
 | Categoría de vivienda | No | Público solo en Bolivia (`reglas.md`, regla 5) | — |
 | Duración | **3 días** (Jorge, 15/10/2026) | — | ✅ decidido |
-| Presupuesto | Jorge: "25 Bs por 3 días". **A aclarar:** ¿25 Bs en total (8,33 Bs/día, por debajo del mínimo de 11,95 Bs/día de la cuenta) o 25 Bs por día (75 Bs)? | Mínimo diario de `ads_get_ad_accounts` | **Aclarar** |
+| Presupuesto | **75 Bs en total** (25 Bs/día × 3 días; Jorge, 15/10/2026): **37,50 Bs por conjunto** (12,50 Bs/día, arriba del mínimo de 11,95) | — | ✅ decidido |
 | Cómo se mide | Interesados serios y visitas (`interesados.md`), no conversaciones | `decisiones.md` | — |
+| Ubicación dentro de Facebook | Solo **feed** (inicio) de Facebook | Sin Marketplace ni Instagram; el post es de fotos | a confirmar |
+| Objetivo técnico | `OUTCOME_ENGAGEMENT`, conjuntos `CONVERSATIONS` → `WHATSAPP` (receta de Kakau) | — | — |
+
+**Falta para crear (pausada):** 1) WhatsApp del padre conectado a "Venta estancias"; 2) link de la publicación (o subir las
+fotos como anuncio nuevo con botón de WhatsApp, si el post no admite el botón); 3) día y hora de inicio.
