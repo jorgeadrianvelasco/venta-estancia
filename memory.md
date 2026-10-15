@@ -12,14 +12,14 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 
 ## Estado actual
 <!-- máximo 20 líneas; se reescribe -->
-- **Estancia:** Calocha. Resto de la ficha pendiente (`negocio.md`).
-- **Aviso anterior:** un boost de Marketplace del 17 al 20/10/2025 en la cuenta personal `64830109`: 20,57 Bs y
-  6 conversaciones (`textos-anuncios.md`). **Falta confirmar que sea Calocha** (decía "propiedad urbana a 6.6 km
-  de Trinidad sobre la laguna Suárez") y qué preguntaron esas 6 personas.
-- **Meta:** no hay página ni cuenta publicitaria para esta venta. Propuesta: página nueva y cuenta nueva dentro
-  del portfolio "Jorge Velasco" (`160471911857072`), sin crear otro portfolio. Espera la decisión de Jorge.
-- **Categoría especial de vivienda:** verificada; no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** confirmar lo de arriba y seguir con la ficha, de a 3 o 4 datos por vez.
+- **Estancia:** Calocha, a 6,6 km de Trinidad sobre la laguna Suárez. Resto de la ficha pendiente (`negocio.md`).
+- **Objetivo (Jorge):** compradores serios de estancias, no curiosos. **El precio no se publica** (`decisiones.md`).
+- **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
+  conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
+- **Meta:** todo va en el portfolio "Jorge Velasco" (`160471911857072`), aprobado por Jorge. **Falta que Jorge cree
+  ahí la página y la cuenta publicitaria** (el MCP no puede); después se verifican con `ads_get_ad_accounts`.
+- **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
+- **Próximo paso:** la página y la cuenta; seguir con la ficha de a 3 o 4 datos; definir cómo filtrar curiosos.
 
 ## Bitácora
 
@@ -50,3 +50,12 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   de 18 a 65 alrededor de Trinidad) y el monto (21 Bs en 3 días). Hipótesis hasta saber qué preguntaron las 6.
 - **Pendiente:** que Jorge confirme si era Calocha, qué preguntaron las 6, el texto y el precio del aviso, y si
   acepta la propuesta de página y cuenta dentro del portfolio "Jorge Velasco".
+
+### 15 de octubre de 2026 — Jorge confirma Calocha, el precio oculto y el portfolio
+- **Jorge:** el boost de Marketplace de oct-2025 **es Calocha**; *"la gente pregunta el precio y se va. No me molesta
+  eso, quiero que la gente se interese [...] que no sean curiosos"*. El texto del aviso estaba bien. **El precio no
+  se publica**: es muy elevado y no quiere que se sepa. **Todo lo de Meta va en el portfolio "Jorge Velasco"**.
+- **Qué cambia:** el éxito se mide por interesados serios y visitas, no por conversaciones. El filtro de curiosos va
+  en el anuncio y en la primera respuesta (`decisiones.md`). Ubicación anotada en `negocio.md`.
+- **Pendiente:** que Jorge cree la página y la cuenta publicitaria dentro de "Jorge Velasco"; el WhatsApp de la venta;
+  el resto de la ficha.

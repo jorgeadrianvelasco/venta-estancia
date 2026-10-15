@@ -10,7 +10,8 @@ Cuando un dato se confirma, se anota la fecha.
 | Nombre | **Calocha** | 15/10/2026 |
 | Dueño(s) y quién decide el precio | pendiente | |
 | Provincia / municipio | pendiente | |
-| Distancia y ruta desde la ciudad más cercana | pendiente | |
+| Ubicación | A 6,6 km de Trinidad, sobre la laguna Suárez (según el aviso de 2025, que Jorge confirmó que es Calocha) | 15/10/2026 |
+| Distancia y ruta desde la ciudad más cercana | pendiente (cómo se llega desde Trinidad) | |
 | Acceso en época de lluvia | pendiente | |
 | Superficie total (ha) | pendiente | |
 | Superficie titulada (ha) | pendiente | |
@@ -26,9 +27,9 @@ Cuando un dato se confirma, se anota la fecha.
 
 | Campo | Valor | Confirmado el |
 |---|---|---|
-| Precio pedido (total) | pendiente | |
-| Precio por hectárea | pendiente (se calcula del total y la superficie, no se estima) | |
-| Precio mínimo que Jorge aceptaría | pendiente — **no se publica nunca** | |
+| Precio pedido (total) | **No se publica** (decisión de Jorge, `decisiones.md`). Tampoco se escribe en este repo salvo que Jorge lo pida | 15/10/2026 |
+| Precio por hectárea | No se publica | 15/10/2026 |
+| Precio mínimo que Jorge aceptaría | **No se publica nunca** | |
 | Forma de pago aceptada | pendiente | |
 | Moneda | pendiente | |
 | ¿Hay intermediario o comisión? | pendiente | |
@@ -39,8 +40,9 @@ Cuando un dato se confirma, se anota la fecha.
 |---|---|---|
 | Presupuesto total para publicidad | pendiente | |
 | Costo máximo aceptable por interesado serio | pendiente | |
-| Cuenta publicitaria de Meta | pendiente — **no la de Kakau**. Propuesta: crearla dentro del portfolio "Jorge Velasco" (ver abajo) | |
-| Página de Facebook / Instagram | pendiente — hoy no existe una página para la venta | |
+| Portfolio de Meta | **"Jorge Velasco"** (`160471911857072`). Jorge lo aprobó | 15/10/2026 |
+| Cuenta publicitaria de Meta | pendiente de crear **dentro de "Jorge Velasco"** — **no la de Kakau** | |
+| Página de Facebook / Instagram | pendiente de crear **dentro de "Jorge Velasco"** | |
 | WhatsApp que atiende las consultas | pendiente — **no el de Kakau** | |
 | Quién responde las consultas | pendiente | |
 
@@ -64,4 +66,4 @@ Cuando un dato se confirma, se anota la fecha.
 
 | Fecha | Campaña | Gasto | Consultas | Interesados serios | Visitas |
 |---|---|---|---|---|---|
-| 17 al 20/10/2025 | Boost de Marketplace "En venta propiedad urbana a 6.6 km de trinidad sobre la laguna suarez" (cuenta `64830109`). **Falta confirmar que sea Calocha** | 20,57 Bs | 6 conversaciones | pendiente (Jorge: "no funcionó para nada") | pendiente |
+| 17 al 20/10/2025 | Boost de Marketplace "En venta propiedad urbana a 6.6 km de trinidad sobre la laguna suarez" (cuenta `64830109`). Calocha, confirmado por Jorge | 20,57 Bs | 6 conversaciones | 0 (Jorge: "la gente pregunta el precio y se va") | 0 |

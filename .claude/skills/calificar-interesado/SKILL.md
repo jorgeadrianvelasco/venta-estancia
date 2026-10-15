@@ -22,7 +22,7 @@ corrija, se reescribe esta Skill y se anota en `decisiones.md`.
 | Habla de plazos o de forma de pago | ✔ | |
 | Pide visitar | ✔ | |
 | Decide él o dice quién decide | ✔ | |
-| Solo "precio?" sin nada más | | (no descarta: pedir un dato más) |
+| Solo "precio?" sin nada más | | (no descarta: pedir un dato más. Si se va, es curioso, y a Jorge no le molesta) |
 | Ofrece permuta o pago que Jorge no acepta (`negocio.md`) | | ✔ |
 | No responde a dos mensajes seguidos | | ✔ |
 
@@ -40,7 +40,8 @@ corrija, se reescribe esta Skill y se anota en `decisiones.md`.
 ## 4. Responder
 - Usar solo respuestas de `respuestas.md`. Si la pregunta no tiene respuesta aprobada, **no se inventa**:
   se propone un borrador a Jorge y se espera su aprobación.
-- **Nunca** se dice el precio mínimo que Jorge aceptaría.
+- **El precio no se da por escrito** (`decisiones.md`), y **nunca** se dice el mínimo que Jorge aceptaría.
+- No se persigue a quien solo preguntó el precio: lo que busca Jorge es interés serio, no volumen.
 
 ## 5. Dejarlo escrito
 - Fila nueva (o actualizada) en `interesados.md`.

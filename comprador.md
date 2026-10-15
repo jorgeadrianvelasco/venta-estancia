@@ -9,8 +9,12 @@ completa con lo que pregunten los interesados reales (`interesados.md`) y con in
 | Inversionista | pendiente | pendiente | hipótesis |
 | Comprador extranjero | pendiente | pendiente | hipótesis |
 
+## A quién se busca (Jorge, 15/10/2026)
+**Personas con interés serio en comprar estancias, no curiosos.** No importa que vengan menos consultas.
+
 ## Lo que se aprendió de interesados reales
-(Se llena a medida que llegan consultas. Cada línea con fecha y de qué interesado sale.)
+- **Boost de Marketplace de oct-2025:** 6 conversaciones; según Jorge, *"la gente pregunta el precio y se va"*. El
+  público era cualquiera de 18 a 65 años en ~64 km alrededor de Trinidad, y el aviso decía "propiedad urbana".
 
 ## Para el público de Meta
 No se propone ningún público hasta verificar la categoría especial de inmuebles (`reglas.md`, regla 5).
