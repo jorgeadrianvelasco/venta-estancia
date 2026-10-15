@@ -21,10 +21,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
 - **Meta:** cuenta publicitaria **personal de Jorge, `64830109`** (no se mueve al portfolio). Página **"Venta
-  estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. WhatsApp: el del **padre de Jorge** (compartido con tubos), falta conectarlo.
+  estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. WhatsApp: el del **padre de Jorge** (compartido con tubos), **conectado a la página según Jorge** (15/10; el MCP no lo puede leer).
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; logo, portada y **primera publicación subidos** (dicho por Jorge, 15/10); falta el link del post y el WhatsApp. Paso 9: **segmentación decidida** (`plan.md`): 2 conjuntos Trinidad/Santa Cruz 50-50, 30-65+, 75 Bs en 3 días, sin Marketplace, a WhatsApp. Faltan WhatsApp conectado, link del post y hora de inicio. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; logo, portada y **primera publicación subidos** (dicho por Jorge, 15/10); falta el link del post y el WhatsApp. Paso 9: **segmentación decidida** (`plan.md`): 2 conjuntos Trinidad/Santa Cruz 50-50, 30-65+, 75 Bs en 3 días, sin Marketplace, a WhatsApp. **Campaña creada como BORRADOR** (`52537356511050`, ver bitácora); falta el anuncio (post) y que Jorge agregue intereses. No publicar sin su visto bueno. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -236,3 +236,15 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   **solo a la página** (no al portfolio "Jorge Velasco"): una cuenta de WhatsApp Business va en un solo portfolio. Riesgo
   no verificado de choque entre portfolios: probar y re-verificar después de que tubos lo agregue. La configuración de
   tubos no se hace desde este repo (regla 7).
+
+### 15 de octubre de 2026 — Primera campaña creada como BORRADOR
+- **Jorge:** conectó el WhatsApp del padre a "Venta estancias" (el MCP no tiene cómo leerlo; se prueba al publicar).
+  Pidió: "vos hacés toda y el público, pero me enviás el link para que yo añada más".
+- **Creado por el MCP en modo borrador** (no está publicado, no gasta): campaña **`52537356511050`** "Calocha - WhatsApp -
+  Prueba 3 dias (oct 2026)", `OUTCOME_ENGAGEMENT`, sin categoría especial. Conjuntos (ABO, `CONVERSATIONS` → `WHATSAPP`,
+  page `1445747361945494`, 37,50 Bs de presupuesto total c/u, 16/10 08:00 a 19/10 08:00 -04:00, 30-65, `advantage_audience: 0`,
+  solo feed de Facebook): **Trinidad 40 km** `52537356525250` (-14.8333, -64.9) y **Santa Cruz 30 km** `52537356542650`
+  (-17.7833, -63.1821). Validación del borrador: sin errores.
+- **Falta:** el anuncio (post V1; Jorge puede elegirlo en el Administrador con "usar publicación existente" o pasar el
+  link), los intereses (los agrega Jorge) y **publicar solo con su visto bueno**: al publicar sale ACTIVA.
+- Link: https://adsmanager.facebook.com/adsmanager/manage/adsets?act=64830109&selected_campaign_ids=52537356511050
