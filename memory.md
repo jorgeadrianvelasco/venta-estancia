@@ -252,3 +252,14 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   "Completed"; errores de "no se puede editar" y ubicaciones: normales, es de 2025). Además hay un **borrador viejo**
   "New Leads Campaign" (`6898918260046`, creado por Jorge el 3/3/2026, con categoría HOUSING y errores): **no publicarlo**.
   La campaña nuestra está en borradores con el nombre "Calocha - WhatsApp - Prueba 3 dias (oct 2026)".
+
+### 15 de octubre de 2026 — Revisión del borrador después de los cambios de Jorge
+- **WhatsApp:** ✅ los dos conjuntos ya tienen el número del padre conectado (`page_whatsapp_number_id`
+  `1446613075192256`, número terminado en 629). Queda confirmado que la página tiene WhatsApp.
+- **Intereses que agregó Jorge:** todos agro/ganaderos (granja, ganado, agricultura, agronegocios, ganadería de carne,
+  lechería, caballos, zona rural; empleos de agricultura y "Farm Owner Operator" en Santa Cruz). **No** hay bienes raíces,
+  inversión ni turismo rural: cubre el perfil C, no B ni D.
+- **Cambios de Jorge:** Santa Cruz pasó a **80 km** de radio. Meta agregó `recent` y `frequently_in` a los tipos de
+  ubicación. **Trinidad termina el 18/10 08:00** (Bolivia) y Santa Cruz el 19/10 08:00: Trinidad quedó en 2 días
+  (18,75 Bs/día). Se le preguntó si fue a propósito.
+- **Falta:** ❌ **ningún anuncio** en el borrador (solo campaña y 2 conjuntos): sin anuncio no se puede publicar.
