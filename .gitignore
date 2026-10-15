@@ -1,0 +1,20 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de Office (los crea Excel al abrir un archivo)
+~$*
+*.tmp
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Configuración local de Claude Code (no se comparte)
+.claude/settings.local.json
+
+# Nota: las planillas .xlsx NO se ignoran a propósito.
+# Si alguna vez se suben al repo, tienen datos de clientes — decidir antes
+# si conviene versionarlas o mantenerlas fuera del repositorio.
