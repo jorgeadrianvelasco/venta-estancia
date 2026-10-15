@@ -20,11 +20,11 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Objetivo (Jorge):** compradores serios de estancias, no curiosos. **El precio no se publica** (`decisiones.md`).
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
-- **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
-  portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
+- **Meta:** cuenta publicitaria **personal de Jorge, `64830109`** (no se mueve al portfolio). Página **"Venta
+  estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. Falta WhatsApp.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** En curso el paso 7 (página y WhatsApp). Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada; faltan contenido de la página y WhatsApp. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -151,3 +151,11 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Ojo para la verificación:** Jorge conectó el MCP cuando armó Kakau. Si la página nueva no aparece en
   `ads_get_user_pages`, hay que reconectar el conector de Meta en claude.ai y tildar la página nueva **sin destildar
   la de Kakau** (si no, se rompe el agente de Kakau).
+
+### 15 de octubre de 2026 — Página creada y verificada (paso 7)
+- **Jorge creó la página "Venta estancias"** (`1445747361945494`) en el portfolio "Jorge Velasco" desde Business
+  Suite (en inglés: Settings → Accounts → Pages → + Add). Casi entra en "Ad accounts": se le avisó que no agregue ahí
+  la cuenta `64830109`.
+- **MCP:** `ads_get_pages_for_business` la muestra en el portfolio; `ads_get_user_pages` la muestra junto a la de Kakau
+  (puede anunciar). **No hizo falta reconectar el conector.** `ads_get_ad_account_pages` de `64830109` vacío: normal.
+- **Pendiente:** foto de perfil, portada, presentación, primera publicación con V1; conectar WhatsApp Business.

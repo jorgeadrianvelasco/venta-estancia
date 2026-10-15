@@ -47,7 +47,7 @@ Cuando un dato se confirma, se anota la fecha.
 | Costo máximo aceptable por interesado serio | pendiente | |
 | Portfolio de Meta | **"Jorge Velasco"** (`160471911857072`). Jorge lo aprobó | 15/10/2026 |
 | Cuenta publicitaria de Meta | **La personal de Jorge, `64830109`** (decisión de Jorge; reemplaza la de crear una dentro del portfolio). **No la de Kakau** | 15/10/2026 |
-| Página de Facebook / Instagram | pendiente de crear (Jorge la hace después de la ficha). Hace falta igual: el MCP crea anuncios con una página | |
+| Página de Facebook / Instagram | **"Venta estancias"** (`1445747361945494`), creada por Jorge en el portfolio "Jorge Velasco". El MCP la ve con permiso de anunciar. Instagram: no | 15/10/2026 |
 | WhatsApp que atiende las consultas | pendiente — **no el de Kakau** | |
 | Quién responde las consultas | pendiente | |
 
@@ -57,9 +57,10 @@ Cuando un dato se confirma, se anota la fecha.
 |---|---|---|
 | Cuenta publicitaria personal | `64830109` | De Jorge Velasco Avila. **Sin portfolio**, ACTIVE, en BOB, con forma de pago. Ahí está el boost de Marketplace de oct-2025 |
 | Cuenta publicitaria Kakau | `2193563287857709` | **No se usa** (`reglas.md`, regla 2) |
-| Portfolio "Jorge Velasco" | `160471911857072` | Tiene una sola página: "Perriwos" (`1866464063601665`). El MCP no ve ninguna cuenta publicitaria adentro (reverificado el 15/10/2026) |
+| Portfolio "Jorge Velasco" | `160471911857072` | Páginas: **"Venta estancias" (`1445747361945494`)** y "Perriwos" (`1866464063601665`). Ninguna cuenta publicitaria adentro (a propósito) |
+| Página de la venta | `1445747361945494` | "Venta estancias". Aparece en `ads_get_user_pages` (puede anunciar) junto a la de Kakau. `ads_get_ad_account_pages` de `64830109` todavía vacío: normal hasta el primer anuncio con la página |
 | Portfolio "Kakau" | `1225801277290245` | No se usa |
-| Páginas con permiso de anunciar | `1225792617291111` | Solo la de Kakau. **No hay página para vender la estancia** |
+| Páginas con permiso de anunciar | `1225792617291111`, `1445747361945494` | Kakau (no se usa) y **"Venta estancias"** (la de la venta, desde el 15/10/2026) |
 
 - **El MCP no puede impulsar publicaciones de Marketplace**: no tiene herramienta para eso. Lo que crea por API
   necesita una página de Facebook.
