@@ -71,6 +71,16 @@ automáticamente"*.
 interesado serio; Claude no los guarda ni los manda.
 **Qué la haría cambiar:** que Jorge lo pida.
 
+## El WhatsApp de la venta es el del padre de Jorge, compartido con los tubos
+**Decidido:** 15/10/2026, por Jorge: *"la idea es que lo use para las dos cosas [...] estaríamos mezclando negocios
+pero en dos páginas y dos repos diferentes"*.
+**Por qué:** el padre de Jorge (también Jorge) responde todo; los tubos y la estancia son de su área.
+**Consecuencias:** los chats de tubos y de Calocha llegan al mismo teléfono. Para no confundirlos: etiquetas y
+respuestas rápidas de WhatsApp Business, y un mensaje prellenado en el anuncio que diga "Calocha". **El mensaje de
+bienvenida automático es uno solo por número**: no se usa para Calocha porque también lo verían los de tubos.
+**No verificado:** si Meta deja conectar el mismo número a dos páginas en portfolios distintos. Se prueba al conectarlo.
+**Qué la haría cambiar:** que Meta no lo permita, o que los chats se mezclen al punto de perder consultas.
+
 ## Todo lo de Meta va en el portfolio "Jorge Velasco" (en parte reemplazada)
 **Decidido:** 15/10/2026, por Jorge. **La cuenta publicitaria ya no**: ver la decisión de arriba.
 **Por qué:** ya existe (`160471911857072`), así que no hace falta un portfolio nuevo. La página y la cuenta
@@ -86,7 +96,6 @@ sola cuenta publicitaria ([Meta](https://www.facebook.com/business/help/91588588
 
 | Tema | Por qué importa |
 |---|---|
-| Qué WhatsApp atiende las consultas | No se puede usar el de Kakau (`reglas.md`, regla 2) |
 | Cómo se filtra al curioso antes de que escriba | El precio no se publica: el filtro tiene que estar en el texto del anuncio o en un formulario con preguntas |
 | Si los teléfonos de los interesados se guardan en `interesados.md` | El repo es privado, pero lo que entra a git queda en el historial para siempre |
 | Si la venta se publica también fuera de Meta (portales, grupos, boca a boca) | Define qué canales se miden en `interesados.md` |

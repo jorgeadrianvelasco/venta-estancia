@@ -33,6 +33,8 @@ Borrar, publicar, gastar, compartir datos de la estancia o de interesados con te
 
 ## 7. Una línea de negocio por repositorio
 Esta venta no se mezcla con Kakau, tubos, abanicos, estancias en alquiler, ganado, carne, carteras ni coaching.
+**Única excepción, decidida por Jorge (15/10/2026):** el WhatsApp de su padre atiende los tubos y esta venta. Cada
+línea sigue con su página y su repositorio; solo el teléfono es compartido (`decisiones.md`).
 
 ## 8. Escribir en memory.md lo que una sesión futura necesitaría
 Con fecha, qué se probó, qué resultado dio y qué se aprendió. Entre sesiones no hay memoria, solo archivos.

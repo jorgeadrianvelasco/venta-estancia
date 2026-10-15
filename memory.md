@@ -21,7 +21,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
 - **Meta:** cuenta publicitaria **personal de Jorge, `64830109`** (no se mueve al portfolio). Página **"Venta
-  estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. Falta WhatsApp.
+  estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. WhatsApp: el del **padre de Jorge** (compartido con tubos), falta conectarlo.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
   3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada; faltan contenido de la página y WhatsApp. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
@@ -176,3 +176,13 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Regla:** la imagen con IA es de marca. En anuncios y publicaciones de Calocha van **solo fotos reales**.
 - **Jorge:** el primer logo "se nota muchísimo que es IA". Se hicieron dos más sobrios: **A, líneas** (palmera, orilla,
   verde oscuro, `MAHYFz49kG4`) y **B, marca de ganado** (monograma "VE", marrón sobre crema, `MAHYF1dius4`). Falta que elija.
+
+### 15 de octubre de 2026 — WhatsApp compartido con los tubos
+- **Jorge decidió:** el número de su padre atiende **tubos y Calocha**, conectado a las dos páginas. Responde el padre,
+  que también se llama Jorge: usa la primera respuesta aprobada tal cual. Anotado como excepción en `reglas.md` (regla 7)
+  y en `decisiones.md`.
+- **Meta:** se puede conectar varios números a una página ([228271686945544](https://www.facebook.com/business/help/228271686945544)).
+  Que un mismo número vaya a dos páginas **no está confirmado**: si la de tubos está en otro portfolio puede salir
+  "WhatsApp number linked to another Facebook business" ([2091769220999799](https://www.facebook.com/business/help/2091769220999799)).
+  La salida que da Meta (sacar el número del otro portfolio) **rompería los tubos**: si pasa, se consulta a Jorge.
+- **Pendiente:** conectar el número a "Venta estancias"; que Jorge elija logo (A líneas o B "VE").

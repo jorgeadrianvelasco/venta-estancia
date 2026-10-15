@@ -4,6 +4,7 @@ Respuestas **aprobadas por Jorge**. Una respuesta sin aprobar no se manda.
 Las preguntas de abajo son las previsibles; cuando lleguen consultas reales, se agregan las que falten.
 
 ## Tono (Jorge, 15/10/2026)
+**Responde el padre de Jorge** (también Jorge), desde su WhatsApp Business compartido con los tubos (15/10/2026).
 **Como habla Jorge: camba, pero sin exagerar.** Voseo, frases cortas, cercano. Las respuestas las firma Jorge como
 **el dueño**. Nada de tono de inmobiliaria.
 
