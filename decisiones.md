@@ -84,7 +84,12 @@ pero en dos páginas y dos repos diferentes"*.
 **Consecuencias:** los chats de tubos y de Calocha llegan al mismo teléfono. Para no confundirlos: etiquetas y
 respuestas rápidas de WhatsApp Business, y un mensaje prellenado en el anuncio que diga "Calocha". **El mensaje de
 bienvenida automático es uno solo por número**: no se usa para Calocha porque también lo verían los de tubos.
-**No verificado:** si Meta deja conectar el mismo número a dos páginas en portfolios distintos. Se prueba al conectarlo.
+**Cómo se conecta (15/10/2026):** el número **va a estar en el portfolio de los tubos** (Jorge). Como una cuenta de
+WhatsApp Business puede estar en **un solo portfolio** ([Meta 713785646327651](https://www.facebook.com/business/help/713785646327651)),
+en "Venta estancias" se conecta **solo a la página** (Configuración → Cuentas vinculadas), **no** al portfolio "Jorge Velasco".
+**No verificado:** si Meta deja conectar a "Venta estancias" un número que es activo del portfolio de tubos (puede salir
+"WhatsApp number linked to another Facebook business", [Meta 2091769220999799](https://www.facebook.com/business/help/2091769220999799)).
+Se prueba al conectarlo; y después de que lo agreguen al portfolio de tubos, se verifica que siga conectado.
 **Qué la haría cambiar:** que Meta no lo permita, o que los chats se mezclen al punto de perder consultas.
 
 ## Todo lo de Meta va en el portfolio "Jorge Velasco" (en parte reemplazada)

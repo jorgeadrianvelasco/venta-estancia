@@ -232,3 +232,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Segmentación decidida (15/10/2026):** Trinidad 50 % y Santa Cruz 50 % (dos conjuntos de 37,50 Bs), 30-65+, intereses
   ganadería / bienes raíces e inversión / agro / turismo rural, **75 Bs en total** (25 Bs/día × 3). El MCP no tiene
   buscador de intereses ni de ciudades: ciudades por coordenadas + radio; intereses los agrega Jorge en el Administrador.
+- **WhatsApp (15/10/2026):** el número del padre **va a estar en el portfolio de tubos**. En "Venta estancias" se conecta
+  **solo a la página** (no al portfolio "Jorge Velasco"): una cuenta de WhatsApp Business va en un solo portfolio. Riesgo
+  no verificado de choque entre portfolios: probar y re-verificar después de que tubos lo agregue. La configuración de
+  tubos no se hace desde este repo (regla 7).
