@@ -248,3 +248,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Falta:** el anuncio (post V1; Jorge puede elegirlo en el Administrador con "usar publicación existente" o pasar el
   link), los intereses (los agrega Jorge) y **publicar solo con su visto bueno**: al publicar sale ACTIVA.
 - Link: https://adsmanager.facebook.com/adsmanager/manage/adsets?act=64830109&selected_campaign_ids=52537356511050
+- **Ojo en el Administrador (15/10/2026):** Jorge entró por error al **boost viejo de Marketplace** (`6836819733446`,
+  "Completed"; errores de "no se puede editar" y ubicaciones: normales, es de 2025). Además hay un **borrador viejo**
+  "New Leads Campaign" (`6898918260046`, creado por Jorge el 3/3/2026, con categoría HOUSING y errores): **no publicarlo**.
+  La campaña nuestra está en borradores con el nombre "Calocha - WhatsApp - Prueba 3 dias (oct 2026)".
