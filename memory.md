@@ -17,7 +17,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
 - **Meta:** todo va en el portfolio "Jorge Velasco" (`160471911857072`), aprobado por Jorge. **Falta que Jorge cree
-  ahí la página y la cuenta publicitaria** (el MCP no puede); después se verifican con `ads_get_ad_accounts`.
+  ahí la página y la cuenta publicitaria** (el MCP no puede). Verificado de nuevo el 15/10/2026: todavía no están.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** la página y la cuenta; seguir con la ficha de a 3 o 4 datos; definir cómo filtrar curiosos.
 
@@ -59,3 +59,11 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   en el anuncio y en la primera respuesta (`decisiones.md`). Ubicación anotada en `negocio.md`.
 - **Pendiente:** que Jorge cree la página y la cuenta publicitaria dentro de "Jorge Velasco"; el WhatsApp de la venta;
   el resto de la ficha.
+
+### 15 de octubre de 2026 — Verificación de página y cuenta en "Jorge Velasco"
+- **Qué se hizo:** `ads_get_ad_accounts`, `ads_get_pages_for_business` (`160471911857072`) y `ads_get_user_pages`.
+- **Resultado:** **todavía no están**. Cuentas visibles: `64830109` (personal, sin portfolio) y `2193563287857709`
+  (Kakau, no se usa). Páginas del portfolio "Jorge Velasco": solo "Perriwos" (`1866464063601665`). Páginas con
+  permiso de anunciar: solo la de Kakau.
+- **Pendiente:** que Jorge cree la página y la cuenta dentro de "Jorge Velasco" y se vuelva a verificar; respuestas
+  de la primera tanda de preguntas de la ficha (dueño, superficie, urbano o rural, municipio).

@@ -52,7 +52,7 @@ Cuando un dato se confirma, se anota la fecha.
 |---|---|---|
 | Cuenta publicitaria personal | `64830109` | De Jorge Velasco Avila. **Sin portfolio**, ACTIVE, en BOB, con forma de pago. Ahí está el boost de Marketplace de oct-2025 |
 | Cuenta publicitaria Kakau | `2193563287857709` | **No se usa** (`reglas.md`, regla 2) |
-| Portfolio "Jorge Velasco" | `160471911857072` | Tiene una sola página: "Perriwos". El MCP no ve ninguna cuenta publicitaria adentro |
+| Portfolio "Jorge Velasco" | `160471911857072` | Tiene una sola página: "Perriwos" (`1866464063601665`). El MCP no ve ninguna cuenta publicitaria adentro (reverificado el 15/10/2026) |
 | Portfolio "Kakau" | `1225801277290245` | No se usa |
 | Páginas con permiso de anunciar | `1225792617291111` | Solo la de Kakau. **No hay página para vender la estancia** |
 
