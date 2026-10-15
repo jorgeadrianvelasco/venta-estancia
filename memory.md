@@ -174,3 +174,5 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Se hizo** un logo redondo: "VENTA DE ESTANCIAS · Beni • Bolivia", con pampa, laguna, palmeras, alambrado y
   amanecer (Canva media `MAHYF22URdM`). Sugerido como **foto de perfil**; la portada sigue siendo la orilla real.
 - **Regla:** la imagen con IA es de marca. En anuncios y publicaciones de Calocha van **solo fotos reales**.
+- **Jorge:** el primer logo "se nota muchísimo que es IA". Se hicieron dos más sobrios: **A, líneas** (palmera, orilla,
+  verde oscuro, `MAHYFz49kG4`) y **B, marca de ganado** (monograma "VE", marrón sobre crema, `MAHYF1dius4`). Falta que elija.

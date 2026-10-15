@@ -28,4 +28,6 @@ se guardó solo esa, que tiene mejor calidad.
 
 | Qué | Dónde | Uso |
 |---|---|---|
-| Logo redondo "VENTA DE ESTANCIAS · Beni • Bolivia" (pampa, laguna, palmeras, alambrado, amanecer). **Hecho con IA en Canva** a pedido de Jorge | Canva, media `MAHYF22URdM` (no se guardó acá: el MCP solo devuelve una vista previa de 200 px) | **Foto de perfil** de la página "Venta estancias". **No se usa como foto de Calocha** en anuncios ni publicaciones: ahí van solo fotos reales del predio (`reglas.md`, regla 4) |
+| ~~Logo redondo con amanecer~~ — **descartado por Jorge**: "se nota muchísimo que es IA" | Canva, media `MAHYF22URdM` | No usar |
+| **Versión A — líneas:** una palmera, la orilla y el horizonte en verde oscuro, texto serif "VENTA DE ESTANCIAS · BENI · BOLIVIA" | Canva, media `MAHYFz49kG4` | Opción de foto de perfil (pendiente que Jorge elija) |
+| **Versión B — marca de ganado:** monograma "VE" en marrón sobre crema, mismo texto | Canva, media `MAHYF1dius4` (no se guardó acá: el MCP solo devuelve una vista previa de 200 px) | **Foto de perfil** de la página "Venta estancias". **No se usa como foto de Calocha** en anuncios ni publicaciones: ahí van solo fotos reales del predio (`reglas.md`, regla 4) |
