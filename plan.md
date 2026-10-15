@@ -15,7 +15,22 @@ responder a un comprador serio.
 | 4 | **Investigar el mercado** | Agente `investigador-estancia`: precios de referencia de terrenos periurbanos y estancias cerca de Trinidad, con fuente; dónde se publican; inmobiliarias de la zona. **No se publica nada**: es para que Jorge sepa dónde está su precio | Claude | 3 | **hecho a medias 15/10/2026**: el proxy bloqueó los portales; ningún comparable directo (`investigacion/precios-y-canales-trinidad.md`). Falta que Jorge abra los avisos o aporte ventas que conozca |
 | 5 | **Fotos, drone y plano** | Vuelo de drone por la orilla, la casa, el alambrado, las pozas y la entrada desde la carretera a Loreto; un plano simple con el frente marcado. Van a `fotos/` | Jorge | 2 | **hecho 15/10/2026**: 8 fotos en `fotos/` (catálogo en `fotos/README.md`). Son capturas: para la campaña, pedir originales |
 | 6 | **El filtro de curiosos y las respuestas** | 3 o 4 preguntas de calificación (para qué lo quiere, en qué plazo, cómo pagaría, si puede visitar) y las respuestas de `respuestas.md` **aprobadas por Jorge** | Claude redacta, Jorge aprueba | 3 | **hecho 15/10/2026** (`respuestas.md`) |
-| 7 | **WhatsApp y página de Facebook** | Número de WhatsApp de la venta (no el de Kakau) y página nueva, con fotos y datos. Se verifica con el MCP que la página aparezca para la cuenta `64830109` | Jorge crea, Claude verifica | 5, 6 | **en curso**: página **"Venta estancias"** creada y verificada con el MCP (15/10/2026). Falta cargarle fotos, presentación y primera publicación, y conectar el WhatsApp |
+| 7 | **WhatsApp y página de Facebook** | Número de WhatsApp de la venta (no el de Kakau) y página nueva, con fotos y datos. Se verifica con el MCP que la página aparezca para la cuenta `64830109` | Jorge crea, Claude verifica | 5, 6 | **en curso**: página **"Venta estancias"** creada y verificada (15/10/2026); logo elegido (B2). Falta que Jorge suba logo, portada, presentación y la **primera publicación con V1** (es la que se usaría como anuncio). WhatsApp: después, por decisión de Jorge |
 | 8 | **Textos de anuncio** | 2 o 3 versiones en `textos-anuncios.md`: los 800 m sobre la laguna, 530 ha tituladas, a 6,6 km de Trinidad. Sin precio y con el filtro del paso 6 | Claude redacta, Jorge aprueba | 6, 7 | **hecho 15/10/2026**: Jorge eligió V1 (`textos-anuncios.md`) |
 | 9 | **Primera campaña de prueba** | **Solo cuando Jorge la pida** (`reglas.md`, regla 1): monto, público y días que él defina. Se crea pausada y se activa con su visto bueno. Decidir también si se publica fuera de Meta (portales, inmobiliarias) | Jorge decide, Claude crea | 8 | pendiente |
 | 10 | **Seguimiento de interesados** | Cada consulta calificada en `interesados.md` (skill `calificar-interesado`); a los 7 días, revisar cuántos serios y cuántas visitas, y ajustar | Claude, con Jorge | 9 | pendiente |
+
+## Propuesta para la primera campaña (paso 9) — **borrador del 15/10/2026, sin aprobar, no se crea nada**
+
+Se arma solo cuando Jorge la pida (`reglas.md`, regla 1). Lo que está acá es para que decida.
+
+| Qué | Propuesta | Por qué | Decide Jorge |
+|---|---|---|---|
+| Anuncio | La primera publicación de la página (V1 + fotos reales) | Sin Instagram, el anuncio sale de un post de Facebook | — |
+| Destino del mensaje | WhatsApp del padre (cuando esté conectado) o, mientras tanto, Messenger de la página | El WhatsApp se conecta después | **Esperar el WhatsApp o salir con Messenger; y quién responde Messenger** |
+| Ubicaciones | Solo Facebook | Decisión de Jorge: sin Instagram | **Con o sin Marketplace** (en 2025 trajo solo curiosos; hipótesis, no probado) |
+| Público | Bolivia: Beni, Santa Cruz, La Paz y Cochabamba; 30 a 65+ años; intereses de ganadería, agro, bienes raíces e inversión; `advantage_audience: 0` | Perfiles B, C y D (`comprador.md`). En 2025 fue cualquiera de 18 a 65 alrededor de Trinidad. **Hipótesis** | Ciudades y edades |
+| Categoría de vivienda | No | Público solo en Bolivia (`reglas.md`, regla 5) | — |
+| Duración | 7 días | Da tiempo a que lleguen consultas y a que el padre responda | Días |
+| Presupuesto | Pendiente. Mínimo diario de la cuenta: 11,95 Bs. Ejemplos para pensar: 7 días × 30 Bs = 210 Bs; 7 × 50 Bs = 350 Bs | Sin números no hay propuesta (`crear-campana`) | **Monto total** |
+| Cómo se mide | Interesados serios y visitas (`interesados.md`), no conversaciones | `decisiones.md` | — |

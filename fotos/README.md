@@ -47,4 +47,4 @@ Jorge dijo que las versiones de líneas y "VE" eran "muy básicas y feas". Se ge
 | Qué | Canva media | Lectura |
 |---|---|---|
 | **B1 — igual a la B**, texto "BOLIVIA" | `MAHYF0zLHG4` | Mismo símbolo (sigue pareciendo escalera) |
-| **B2 — alambrado corregido**: postes de distinta altura, alambres que siguen y un puntal, texto "BOLIVIA" | `MAHYF5H25mc` | Se lee como alambrado. Recomendada |
+| **B2 — alambrado corregido**: postes de distinta altura, alambres que siguen y un puntal, texto "BOLIVIA" | `MAHYF5H25mc` | ✅ **ELEGIDA por Jorge el 15/10/2026**: foto de perfil de "Venta estancias" |

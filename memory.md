@@ -24,7 +24,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. WhatsApp: el del **padre de Jorge** (compartido con tubos), falta conectarlo.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada; faltan contenido de la página y WhatsApp. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; falta que Jorge suba logo, portada, bio y primera publicación; WhatsApp después. Paso 9: borrador de propuesta en `plan.md`, sin aprobar. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -208,3 +208,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Jorge eligió la B** (alambrado ocre sobre azul marino), "aunque ninguna me encantó". Que diga **"BOLIVIA"**, no
   "Beni · Bolivia". **Sin Instagram por ahora**: se vende mejor en Facebook (`decisiones.md`).
 - **Cuarta ronda:** B1 igual con "BOLIVIA" (`MAHYF0zLHG4`) y **B2 con alambrado corregido** (`MAHYF5H25mc`, recomendada).
+
+### 15 de octubre de 2026 — Logo elegido y propuesta de primera campaña
+- **Jorge eligió la B2** (alambrado corregido, ocre sobre azul marino, "BOLIVIA"; Canva `MAHYF5H25mc`).
+- **Se armó un borrador de propuesta** para la primera campaña en `plan.md` (sin aprobar, no se creó nada): post V1 de
+  la página, solo Facebook, público Bolivia (Beni, Santa Cruz, La Paz, Cochabamba) 30-65+, 7 días. Faltan de Jorge:
+  monto, destino (esperar WhatsApp o Messenger), con o sin Marketplace.
