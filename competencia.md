@@ -14,8 +14,10 @@ que casi nunca es público.
 | 15/10/2026 | Huacaraje | 245 | 490.000 USD | 2.000 USD/ha (cálculo) | no visto. **No abierto** | https://bolivia.inmobiliaria.com/beni/estancias/ |
 | 15/10/2026 | Rurrenabaque | 200 | 200.000 USD | 1.000 USD/ha (cálculo) | no visto. **No abierto** | https://bolivia.inmobiliaria.com/beni/estancias/ |
 | 15/10/2026 | Santa Rosa | 2.000 | 1.600.000 USD | 800 USD/ha (cálculo) | no visto. **No abierto** | https://bolivia.inmobiliaria.com/beni/campos+venta/ |
+| 15/10/2026 | Municipio de San Javier, Cercado, Beni ("a 15 minutos de Trinidad" según resumen) | ~100 (según resumen) | ~324.114 USD (según resumen) | ~3.241 USD/ha (cálculo sobre superficie aproximada) | uso arroz y ganadería según resumen. El aviso trae datos inconsistentes (2 dormitorios y 1 baño en un terreno). **No abierto.** Publica Century 21 Amazonía | https://c21global.immobel.com/property/s-n-municipio-de-san-javier-cercado-beni-bolivia-C21136439329-USD |
+| 15/10/2026 | Carretera Trinidad - Santa Cruz, Cercado (uso urbano, con pasto cultivado según resumen) | ~6 (según resumen) | ~375.661 USD (según resumen) | ~62.610 USD/ha (cálculo sobre superficie aproximada) | no visto. **No abierto.** Publica Century 21 Amazonía. Lote chico sobre ruta: no comparable con 530 ha | https://c21global.immobel.com/property/s-n-carretera-tdd-scz-cercado-beni-bolivia-C21136438477-USD |
 
-Todos son precios **pedidos**, sacados de resúmenes de buscador (el proxy bloqueó los portales); ninguno se abrió ni tiene fecha de aviso. Sin cerrados. Detalle y contradicciones en `investigacion/precios-y-canales-trinidad.md`. Ninguno está sobre la laguna Suárez ni la carretera a Loreto.
+Todos son precios **pedidos**, sacados de resúmenes de buscador (el proxy bloqueó los portales); ninguno se abrió ni tiene fecha de aviso. Sin cerrados. Detalle y contradicciones en `investigacion/precios-y-canales-trinidad.md`. Ninguno está sobre la laguna Suárez ni la carretera a Loreto. Las 2 últimas filas (Century 21 Amazonía) salieron de `investigacion/identidad-visual-competidores.md`, con el mismo límite: resumen de buscador, aviso no abierto.
 
 ## Lectura
 pendiente — hay filas, pero **ninguna es comparable directa** (nada sobre la laguna Suárez ni la carretera a Loreto) y ninguna se abrió. Se escribe una lectura cuando alguien las verifique desde una conexión sin bloqueo.
