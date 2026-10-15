@@ -14,15 +14,16 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 <!-- máximo 20 líneas; se reescribe -->
 - **Estancia:** Calocha, **530 ha tituladas** (500 de arrocillo natural, 30 de monte), predio **urbano** de gran
   extensión en Cercado, sobre la laguna Suárez (**800 m colindantes + 1,3 km a 10 m de la orilla**), a 6,6 km de
-  Trinidad, 600 m de la carretera a Loreto, acceso todo el año. Alambrado perimetral, 4 pozas, casa (motor, agua de
-  lluvia). **Se vende sin ganado.** **Dueño y quien decide el precio: Jorge.**
+  Trinidad, 600 m de la carretera a Loreto, acceso todo el año. Alambrado perimetral, 4 pozas, corral con brete,
+  corralón, casa (motor, agua de lluvia). **Se vende sin ganado; todo lo demás queda.** La franja de 10 m es de un
+  vecino: **frente propio = 800 m.** Pago negociable, sin intermediario. **Dueño y quien decide el precio: Jorge.**
 - **Objetivo (Jorge):** compradores serios de estancias, no curiosos. **El precio no se publica** (`decisiones.md`).
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
 - **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Va por el paso 1.
+- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Paso 1 (ficha) hecho; sigue el 2 (papeles y abogado) y el 3 (a quién se vende).
 
 ## Bitácora
 
@@ -93,3 +94,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   **naturales de arrocillo**. **Alambrado perimetral** en buen estado, **4 pozas** y la laguna. **Se vende sin ganado.**
 - **Jorge pidió** los 10 próximos pasos en orden cronológico: quedaron en `plan.md`.
 - **Pendiente:** de quién es la franja de 10 m; corrales, brete y potreros; forma de pago y moneda; equipos.
+
+### 15 de octubre de 2026 — Cierre de la ficha (paso 1 del plan)
+- **Jorge:** la franja de 10 m del tramo de 1,3 km **es de un vecino**. Hay **corral con brete y un corralón**. Pago
+  **negociable** en forma y monto. **Sin intermediario.** Todo queda en el predio menos los animales.
+- **Consecuencia para los anuncios:** el frente propio sobre la laguna son **800 m**; no se puede decir "2,1 km de
+  orilla". El 1,3 km se describe como "a 10 m de la laguna".
+- **Pendiente:** capacidad de carga (opcional); paso 2 (abogado) y paso 3 (perfil de comprador).

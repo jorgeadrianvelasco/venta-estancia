@@ -9,8 +9,8 @@ responder a un comprador serio.
 
 | # | Paso | Qué sale de este paso | Quién | Depende de | Estado |
 |---|---|---|---|---|---|
-| 1 | **Cerrar la ficha** | `negocio.md` completo: de quién es la franja de 10 m, corrales/brete/potreros, forma de pago y moneda, si hay comisión, equipos | Jorge responde, Claude anota | — | en curso |
-| 2 | **Papeles y lo que se puede hacer en el predio** | Folio real, plano georreferenciado (que muestre los 800 m y el 1,3 km), impuestos al día. El abogado responde: qué restricciones pone la Ley 2604 en la orilla y qué uso de suelo urbano tiene el predio (si se puede lotear) | Jorge y su abogado | 1 | pendiente |
+| 1 | **Cerrar la ficha** | `negocio.md` completo: de quién es la franja de 10 m, corrales/brete/potreros, forma de pago y moneda, si hay comisión, equipos | Jorge responde, Claude anota | — | **hecho 15/10/2026** (solo falta la capacidad de carga, que no frena nada) |
+| 2 | **Papeles y lo que se puede hacer en el predio** | Folio real, plano georreferenciado (que muestre los 800 m y el 1,3 km), impuestos al día. El abogado responde: qué restricciones pone la Ley 2604 en la orilla y qué uso de suelo urbano tiene el predio (si se puede lotear) | Jorge y su abogado | 1 | **siguiente** |
 | 3 | **Definir a quién se le vende** | 1 o 2 perfiles de comprador en `comprador.md` (p. ej. desarrollador que lotea, inversionista que guarda tierra, empresa o ganadero que quiere campo pegado a la ciudad). Cambia todo el anuncio | Jorge decide, Claude propone | 1, 2 | pendiente |
 | 4 | **Investigar el mercado** | Agente `investigador-estancia`: precios de referencia de terrenos periurbanos y estancias cerca de Trinidad, con fuente; dónde se publican; inmobiliarias de la zona. **No se publica nada**: es para que Jorge sepa dónde está su precio | Claude | 3 | pendiente |
 | 5 | **Fotos, drone y plano** | Vuelo de drone por la orilla, la casa, el alambrado, las pozas y la entrada desde la carretera a Loreto; un plano simple con el frente marcado. Van a `fotos/` | Jorge | 2 | pendiente |
