@@ -195,3 +195,13 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Pendiente para la campaña:** presupuesto total y costo máximo por interesado serio (`negocio.md`, sin definir).
 - El agente `investigador-estancia` está investigando la identidad visual de competidores (BO, BR, AR) para mejores
   prompts de logo en Canva.
+
+### 15 de octubre de 2026 — Identidad visual: investigación y tercera ronda de logos
+- **Jorge:** las versiones de líneas y "VE" eran "muy básicas y feas"; pidió un agente que mire competidores (BO, BR, AR)
+  y arme prompts para Canva. Resultado en `investigacion/identidad-visual-competidores.md` (débil: el proxy bloqueó
+  todos los sitios; solo resúmenes de buscador). Patrones: nombre propio y datos dan confianza; foto real del campo;
+  2-3 colores; marca simple que funcione chica; serif sobria. Agregó 2 filas de Century 21 Amazonía a `competencia.md`.
+- **Generadas:** A "E" serif verde y crema (`MAHYF5P7CNo`), B alambrado ocre y azul (`MAHYF57Fd4k`, parece escalera),
+  C portada verde (`MAHYF5qCAE8`). Falta que Jorge elija.
+- **Sugerencia del investigador (decide Jorge):** el nombre "Venta estancias" es genérico; las firmas serias usan un
+  nombre propio.
