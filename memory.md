@@ -12,16 +12,17 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 
 ## Estado actual
 <!-- máximo 20 líneas; se reescribe -->
-- **Estancia:** Calocha, **530 ha tituladas** (500 pastura, 30 monte), predio **urbano** de gran extensión en Cercado,
-  sobre la laguna Suárez (800 m / 1,3 km de orilla), a 6,6 km de Trinidad, 600 m de la carretera a Loreto, acceso todo
-  el año. Con ganado; casa con motor y agua de lluvia. **Dueño y quien decide el precio: Jorge.**
+- **Estancia:** Calocha, **530 ha tituladas** (500 de arrocillo natural, 30 de monte), predio **urbano** de gran
+  extensión en Cercado, sobre la laguna Suárez (**800 m colindantes + 1,3 km a 10 m de la orilla**), a 6,6 km de
+  Trinidad, 600 m de la carretera a Loreto, acceso todo el año. Alambrado perimetral, 4 pozas, casa (motor, agua de
+  lluvia). **Se vende sin ganado.** **Dueño y quien decide el precio: Jorge.**
 - **Objetivo (Jorge):** compradores serios de estancias, no curiosos. **El precio no se publica** (`decisiones.md`).
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
 - **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** seguir la ficha de a 3 o 4 datos; la página; definir cómo filtrar curiosos.
+- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Va por el paso 1.
 
 ## Bitácora
 
@@ -86,3 +87,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   **Con ganado**, 500 ha de pastura y **30 ha de monte**. **Casa** con energía a motor y **agua de lluvia**.
 - **Pendiente:** aclarar el frente a la laguna; pasturas (especie), aguadas, corrales y alambrado, si se vende con
   ganado.
+
+### 15 de octubre de 2026 — Tercera tanda de la ficha y plan de 10 pasos
+- **Jorge:** el frente son **dos tramos**: 800 m colindantes con la laguna y 1,3 km a 10 m de la orilla. Pasturas
+  **naturales de arrocillo**. **Alambrado perimetral** en buen estado, **4 pozas** y la laguna. **Se vende sin ganado.**
+- **Jorge pidió** los 10 próximos pasos en orden cronológico: quedaron en `plan.md`.
+- **Pendiente:** de quién es la franja de 10 m; corrales, brete y potreros; forma de pago y moneda; equipos.
