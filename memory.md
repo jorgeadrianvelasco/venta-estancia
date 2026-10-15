@@ -23,7 +23,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Paso 1 (ficha) hecho; sigue el 2 (papeles y abogado) y el 3 (a quién se vende).
+- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1 y 3 hechos. El 2 (abogado) está en manos de Jorge. El 6 (filtro) tiene borrador
+  propuesto en el chat del 15/10, sin aprobar: hay que mostrárselo de nuevo si no respondió.
 
 ## Bitácora
 
@@ -101,3 +102,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Consecuencia para los anuncios:** el frente propio sobre la laguna son **800 m**; no se puede decir "2,1 km de
   orilla". El 1,3 km se describe como "a 10 m de la laguna".
 - **Pendiente:** capacidad de carga (opcional); paso 2 (abogado) y paso 3 (perfil de comprador).
+
+### 15 de octubre de 2026 — Perfiles de comprador (paso 3 del plan)
+- **Jorge eligió:** B (inversionista que guarda tierra), C (ganadero o empresa que quiere campo cerca de la ciudad) y
+  D (quinta o turismo). **No eligió** A (desarrollador que lotea). Anotado en `comprador.md`.
+- **Se propuso** el borrador del filtro de curiosos (paso 6): una línea en el anuncio + 3 preguntas en la primera
+  respuesta (uso, plazo, visita), y el precio solo en persona o por llamada. **Sin aprobar**: no va a `respuestas.md`.
+- **Pendiente:** aprobación del filtro; paso 2 (abogado).
