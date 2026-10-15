@@ -23,3 +23,9 @@ negros). Para la campaña conviene pedirle los **originales** (más calidad). So
 
 La captura de casa y corrales que mandó Jorge es la misma toma que `2025-10-17-boost-marketplace-vista-aerea.jpg`:
 se guardó solo esa, que tiene mejor calidad.
+
+## Imagen de marca de la página (15/10/2026)
+
+| Qué | Dónde | Uso |
+|---|---|---|
+| Logo redondo "VENTA DE ESTANCIAS · Beni • Bolivia" (pampa, laguna, palmeras, alambrado, amanecer). **Hecho con IA en Canva** a pedido de Jorge | Canva, media `MAHYF22URdM` (no se guardó acá: el MCP solo devuelve una vista previa de 200 px) | **Foto de perfil** de la página "Venta estancias". **No se usa como foto de Calocha** en anuncios ni publicaciones: ahí van solo fotos reales del predio (`reglas.md`, regla 4) |

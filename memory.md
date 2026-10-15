@@ -168,3 +168,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Se le preguntó:** quién responde (la respuesta aprobada dice "Soy Jorge, el dueño") y si ese número ya se usa para
   los tubos del padre (un número solo se conecta a un negocio; además, regla 7: no mezclar líneas).
 - **Se le dieron** los pasos para cargar la página desde el celular (perfil, portada, presentación, publicación con V1).
+
+### 15 de octubre de 2026 — Logo con IA para la página
+- **Jorge pidió** una imagen hecha con IA en Canva para la página "Venta estancias" (es la primera publicación/imagen).
+- **Se hizo** un logo redondo: "VENTA DE ESTANCIAS · Beni • Bolivia", con pampa, laguna, palmeras, alambrado y
+  amanecer (Canva media `MAHYF22URdM`). Sugerido como **foto de perfil**; la portada sigue siendo la orilla real.
+- **Regla:** la imagen con IA es de marca. En anuncios y publicaciones de Calocha van **solo fotos reales**.
