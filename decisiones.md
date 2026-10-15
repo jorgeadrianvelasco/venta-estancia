@@ -50,6 +50,12 @@ Una conversación barata no vale nada si no es de un comprador.
 **Cómo se mide:** por interesados **serios** y **visitas** (`interesados.md`), no por conversaciones ni por costo por
 conversación.
 
+## Sin Instagram por ahora: la venta va por Facebook
+**Decidido:** 15/10/2026, por Jorge: *"No voy a usar Instagram en principio, se vende mejor en Facebook"*.
+**Consecuencia:** no se crea cuenta de Instagram para "Venta estancias". Al armar la primera campaña, proponer
+ubicaciones **solo en Facebook** y confirmarlo con Jorge.
+**Qué la haría cambiar:** que Jorge quiera probar Instagram, o que los interesados serios lleguen por ahí.
+
 ## La cuenta publicitaria es la personal de Jorge (`64830109`)
 **Decidido:** 15/10/2026, por Jorge: *"la cuenta publicitaria quiero que sea directamente desde la mía"*.
 **Reemplaza** lo de crear una cuenta nueva dentro del portfolio "Jorge Velasco" (decisión de abajo, mismo día).

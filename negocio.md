@@ -47,7 +47,7 @@ Cuando un dato se confirma, se anota la fecha.
 | Costo máximo aceptable por interesado serio | pendiente | |
 | Portfolio de Meta | **"Jorge Velasco"** (`160471911857072`). Jorge lo aprobó | 15/10/2026 |
 | Cuenta publicitaria de Meta | **La personal de Jorge, `64830109`** (decisión de Jorge; reemplaza la de crear una dentro del portfolio). **No la de Kakau** | 15/10/2026 |
-| Página de Facebook / Instagram | **"Venta estancias"** (`1445747361945494`), creada por Jorge en el portfolio "Jorge Velasco". El MCP la ve con permiso de anunciar. Instagram: no | 15/10/2026 |
+| Página de Facebook / Instagram | **"Venta estancias"** (`1445747361945494`), creada por Jorge en el portfolio "Jorge Velasco". El MCP la ve con permiso de anunciar. Instagram: **no se usa por ahora** (decisión de Jorge: "se vende mejor en Facebook") | 15/10/2026 |
 | WhatsApp que atiende las consultas | **El número del padre de Jorge, compartido con los tubos** (decisión de Jorge, `decisiones.md`). Tiene que ser **WhatsApp Business** ([Meta 372008982225441](https://www.facebook.com/business/help/372008982225441)). Falta conectarlo a "Venta estancias" y ver si Meta lo deja estando ya en la página de tubos. **No el de Kakau** | 15/10/2026 |
 | Quién responde las consultas | **El padre de Jorge** (también se llama Jorge). Usa la primera respuesta aprobada tal cual ("Soy Jorge, el dueño de Calocha") | 15/10/2026 |
 

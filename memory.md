@@ -205,3 +205,5 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   C portada verde (`MAHYF5qCAE8`). Falta que Jorge elija.
 - **Sugerencia del investigador (decide Jorge):** el nombre "Venta estancias" es genérico; las firmas serias usan un
   nombre propio.
+- **Jorge eligió la B** (alambrado ocre sobre azul marino), "aunque ninguna me encantó". Que diga **"BOLIVIA"**, no
+  "Beni · Bolivia". **Sin Instagram por ahora**: se vende mejor en Facebook (`decisiones.md`).
