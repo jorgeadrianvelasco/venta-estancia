@@ -27,10 +27,10 @@ Se arma solo cuando Jorge la pida (`reglas.md`, regla 1). Lo que está acá es p
 | Qué | Propuesta | Por qué | Decide Jorge |
 |---|---|---|---|
 | Anuncio | La primera publicación de la página (V1 + fotos reales) | Sin Instagram, el anuncio sale de un post de Facebook | — |
-| Destino del mensaje | WhatsApp del padre (cuando esté conectado) o, mientras tanto, Messenger de la página | El WhatsApp se conecta después | **Esperar el WhatsApp o salir con Messenger; y quién responde Messenger** |
-| Ubicaciones | Solo Facebook | Decisión de Jorge: sin Instagram | **Con o sin Marketplace** (en 2025 trajo solo curiosos; hipótesis, no probado) |
+| Destino del mensaje | **WhatsApp del padre** (Jorge, 15/10/2026). Hay que conectarlo antes de crear la campaña | Responde el padre | ✅ decidido |
+| Ubicaciones | Solo Facebook, **sin Marketplace** (Jorge, 15/10/2026: "probemos esta campaña sin Marketplace") | Sin Instagram; Marketplace trajo curiosos en 2025 (hipótesis) | ✅ decidido |
 | Público | Bolivia: Beni, Santa Cruz, La Paz y Cochabamba; 30 a 65+ años; intereses de ganadería, agro, bienes raíces e inversión; `advantage_audience: 0` | Perfiles B, C y D (`comprador.md`). En 2025 fue cualquiera de 18 a 65 alrededor de Trinidad. **Hipótesis** | Ciudades y edades |
 | Categoría de vivienda | No | Público solo en Bolivia (`reglas.md`, regla 5) | — |
-| Duración | 7 días | Da tiempo a que lleguen consultas y a que el padre responda | Días |
-| Presupuesto | Pendiente. Mínimo diario de la cuenta: 11,95 Bs. Ejemplos para pensar: 7 días × 30 Bs = 210 Bs; 7 × 50 Bs = 350 Bs | Sin números no hay propuesta (`crear-campana`) | **Monto total** |
+| Duración | **3 días** (Jorge, 15/10/2026) | — | ✅ decidido |
+| Presupuesto | Jorge: "25 Bs por 3 días". **A aclarar:** ¿25 Bs en total (8,33 Bs/día, por debajo del mínimo de 11,95 Bs/día de la cuenta) o 25 Bs por día (75 Bs)? | Mínimo diario de `ads_get_ad_accounts` | **Aclarar** |
 | Cómo se mide | Interesados serios y visitas (`interesados.md`), no conversaciones | `decisiones.md` | — |

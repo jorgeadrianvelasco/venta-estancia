@@ -225,3 +225,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   puede ver** publicaciones, foto de perfil ni portada de la página: para eso Jorge manda el link o captura.
 - **Jorge (15/10/2026):** "ya está la publicación, la foto de perfil y de cover. Confiá en mí". Se le preguntaron las
   decisiones de la primera campaña (monto, destino, Marketplace) antes de crear nada.
+- **Respuestas de Jorge para la primera campaña (15/10/2026):** "25 Bs por 3 días" (a aclarar si es total o por día:
+  25 Bs en total queda debajo del mínimo diario de 11,95 Bs), destino **WhatsApp del padre**, **sin Marketplace**, "sí,
+  armala pausada" **pero "primero quiero hacer la segmentación"**. No se creó nada: falta segmentación, aclarar monto,
+  conectar el WhatsApp y el link del post.
