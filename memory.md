@@ -24,7 +24,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. WhatsApp: el del **padre de Jorge** (compartido con tubos), falta conectarlo.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; falta que Jorge suba logo, portada, bio y primera publicación; WhatsApp después. Paso 9: borrador de propuesta en `plan.md`, sin aprobar. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; logo, portada y **primera publicación subidos** (dicho por Jorge, 15/10); falta el link del post y el WhatsApp. Paso 9: borrador de propuesta en `plan.md`, sin aprobar. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -223,3 +223,5 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Verificación tras "ya, fijate todo" (15/10/2026):** la página "Venta estancias" sigue con permiso de anunciar;
   activity log de hoy **vacío** en `64830109` y sin campañas nuevas en la de Kakau → **no se impulsó nada**. El MCP **no
   puede ver** publicaciones, foto de perfil ni portada de la página: para eso Jorge manda el link o captura.
+- **Jorge (15/10/2026):** "ya está la publicación, la foto de perfil y de cover. Confiá en mí". Se le preguntaron las
+  decisiones de la primera campaña (monto, destino, Marketplace) antes de crear nada.
