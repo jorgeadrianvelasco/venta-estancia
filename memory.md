@@ -214,3 +214,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Se armó un borrador de propuesta** para la primera campaña en `plan.md` (sin aprobar, no se creó nada): post V1 de
   la página, solo Facebook, público Bolivia (Beni, Santa Cruz, La Paz, Cochabamba) 30-65+, 7 días. Faltan de Jorge:
   monto, destino (esperar WhatsApp o Messenger), con o sin Marketplace.
+
+### 15 de octubre de 2026 — Primera publicación de la página
+- **Jorge** quiere hacer ya la primera publicación. **El MCP no puede publicar en la página** (no hay herramienta para
+  posts orgánicos): la hace Jorge desde el celular. Se le dio el paso a paso: V1 + 5 fotos reales en orden (drone
+  laguna, orilla, casa y corrales, alambrado, pampa), **"Publicar ahora", nunca "Impulsar"**.
+- **Pendiente:** que Jorge pase el link de la publicación (su ID se usa después como anuncio).
