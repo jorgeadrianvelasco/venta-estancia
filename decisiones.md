@@ -49,8 +49,16 @@ Una conversación barata no vale nada si no es de un comprador.
 **Cómo se mide:** por interesados **serios** y **visitas** (`interesados.md`), no por conversaciones ni por costo por
 conversación.
 
-## Todo lo de Meta va en el portfolio "Jorge Velasco"
-**Decidido:** 15/10/2026, por Jorge.
+## La cuenta publicitaria es la personal de Jorge (`64830109`)
+**Decidido:** 15/10/2026, por Jorge: *"la cuenta publicitaria quiero que sea directamente desde la mía"*.
+**Reemplaza** lo de crear una cuenta nueva dentro del portfolio "Jorge Velasco" (decisión de abajo, mismo día).
+**Por qué:** ya existe, está activa, en BOB, con forma de pago y el MCP la puede usar. No gasta el cupo de una
+sola cuenta del portfolio.
+**Ojo:** **no se intenta mover `64830109` al portfolio** (`reglas.md`, regla 2). La página sigue haciendo falta.
+**Qué la haría cambiar:** que Jorge prefiera separar la venta de su cuenta personal.
+
+## Todo lo de Meta va en el portfolio "Jorge Velasco" (en parte reemplazada)
+**Decidido:** 15/10/2026, por Jorge. **La cuenta publicitaria ya no**: ver la decisión de arriba.
 **Por qué:** ya existe (`160471911857072`), así que no hace falta un portfolio nuevo. La página y la cuenta
 publicitaria de la venta se crean adentro. No se usa la cuenta personal `64830109`: está fuera de todo portfolio y
 el MCP no puede impulsar publicaciones de Marketplace.

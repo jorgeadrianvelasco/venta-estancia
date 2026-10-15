@@ -8,13 +8,14 @@ Cuando un dato se confirma, se anota la fecha.
 | Campo | Valor | Confirmado el |
 |---|---|---|
 | Nombre | **Calocha** | 15/10/2026 |
-| Dueño(s) y quién decide el precio | pendiente | |
-| Provincia / municipio | pendiente | |
+| Dueño(s) y quién decide el precio | **Jorge** es el dueño y decide el precio | 15/10/2026 |
+| Provincia / municipio | **A confirmar con el título.** Jorge creía Marbán; la laguna Suárez está en la **provincia Cercado, municipio Trinidad** ([Wikipedia](https://en.wikipedia.org/wiki/Su%C3%A1rez_Lake), [Ley 2604](https://www.lexivox.org/norms/BO-L-2604.xhtml)). Marbán (Loreto, San Andrés) limita con Trinidad al sur y sureste, así que el predio no se da por ubicado hasta ver el folio real | |
 | Ubicación | A 6,6 km de Trinidad, sobre la laguna Suárez (según el aviso de 2025, que Jorge confirmó que es Calocha) | 15/10/2026 |
 | Distancia y ruta desde la ciudad más cercana | pendiente (cómo se llega desde Trinidad) | |
 | Acceso en época de lluvia | pendiente | |
-| Superficie total (ha) | pendiente | |
-| Superficie titulada (ha) | pendiente | |
+| Tipo de predio | **Urbano, de gran extensión.** Según Jorge, es urbano por estar sobre la laguna Suárez, uno de los lugares más conocidos de Trinidad y del Beni | 15/10/2026 |
+| Superficie total (ha) | **530 ha** | 15/10/2026 |
+| Superficie titulada (ha) | **530 ha (todas)**, según Jorge. Verificar con el título antes de mostrarlo a un comprador (`documentacion.md`) | 15/10/2026 |
 | Tipo de campo (pampa, monte, bajío, altura) | pendiente | |
 | Pasturas (naturales / cultivadas, ha y especie) | pendiente | |
 | Aguadas (atajados, pozos, ríos, curichis) | pendiente | |
@@ -41,8 +42,8 @@ Cuando un dato se confirma, se anota la fecha.
 | Presupuesto total para publicidad | pendiente | |
 | Costo máximo aceptable por interesado serio | pendiente | |
 | Portfolio de Meta | **"Jorge Velasco"** (`160471911857072`). Jorge lo aprobó | 15/10/2026 |
-| Cuenta publicitaria de Meta | pendiente de crear **dentro de "Jorge Velasco"** — **no la de Kakau** | |
-| Página de Facebook / Instagram | pendiente de crear **dentro de "Jorge Velasco"** | |
+| Cuenta publicitaria de Meta | **La personal de Jorge, `64830109`** (decisión de Jorge; reemplaza la de crear una dentro del portfolio). **No la de Kakau** | 15/10/2026 |
+| Página de Facebook / Instagram | pendiente de crear (Jorge la hace después de la ficha). Hace falta igual: el MCP crea anuncios con una página | |
 | WhatsApp que atiende las consultas | pendiente — **no el de Kakau** | |
 | Quién responde las consultas | pendiente | |
 

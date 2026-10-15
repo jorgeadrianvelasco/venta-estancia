@@ -9,8 +9,9 @@ pida con esas palabras. Cuando lo pida, todo se crea **pausado** y no se activa 
 
 ## 2. Nada de Kakau
 No se usa la cuenta publicitaria, la página, el Instagram ni el WhatsApp de Kakau. Antes de la primera
-campaña se define con Jorge qué cuenta y qué página usa esta línea. La cuenta publicitaria se crea
-**dentro del portfolio comercial**; nunca se intenta migrar una cuenta personal (lección de Kakau, 8/9/2026).
+campaña se define con Jorge qué cuenta y qué página usa esta línea. Esta venta usa la cuenta
+personal de Jorge, `64830109` (decisión de Jorge, 15/10/2026); nunca se intenta migrar una cuenta personal a un
+portfolio (lección de Kakau, 8/9/2026).
 
 ## 3. Antes de diagnosticar un problema en Meta, verificar con qué identidad está conectado el MCP
 Primero `ads_get_ad_accounts`, después teorías. En Kakau se perdieron horas mirando desde el perfil equivocado.

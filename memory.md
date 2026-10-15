@@ -12,14 +12,15 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 
 ## Estado actual
 <!-- máximo 20 líneas; se reescribe -->
-- **Estancia:** Calocha, a 6,6 km de Trinidad sobre la laguna Suárez. Resto de la ficha pendiente (`negocio.md`).
+- **Estancia:** Calocha, **530 ha tituladas**, predio **urbano** de gran extensión sobre la laguna Suárez, a 6,6 km de
+  Trinidad. **Dueño y quien decide el precio: Jorge.** Provincia a confirmar con el título (la laguna está en Cercado).
 - **Objetivo (Jorge):** compradores serios de estancias, no curiosos. **El precio no se publica** (`decisiones.md`).
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
-- **Meta:** todo va en el portfolio "Jorge Velasco" (`160471911857072`), aprobado por Jorge. **Falta que Jorge cree
-  ahí la página y la cuenta publicitaria** (el MCP no puede). Verificado de nuevo el 15/10/2026: todavía no están.
+- **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
+  portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** la página y la cuenta; seguir con la ficha de a 3 o 4 datos; definir cómo filtrar curiosos.
+- **Próximo paso:** seguir la ficha de a 3 o 4 datos; la página; definir cómo filtrar curiosos.
 
 ## Bitácora
 
@@ -67,3 +68,13 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   permiso de anunciar: solo la de Kakau.
 - **Pendiente:** que Jorge cree la página y la cuenta dentro de "Jorge Velasco" y se vuelva a verificar; respuestas
   de la primera tanda de preguntas de la ficha (dueño, superficie, urbano o rural, municipio).
+
+### 15 de octubre de 2026 — Primera tanda de la ficha y cambio de cuenta publicitaria
+- **Jorge:** es **el dueño y decide el precio**; **530 ha, todas tituladas**; es un **predio urbano de gran extensión**
+  por estar sobre la laguna Suárez. La cuenta publicitaria **es la suya, `64830109`**, no una nueva en el portfolio.
+  Prefiere terminar la ficha antes de crear la página en business.facebook.com.
+- **Provincia:** Jorge creía Marbán. La laguna Suárez está en **Cercado, municipio Trinidad** (Wikipedia, Ley 2604);
+  Marbán limita con Trinidad al sur y sureste. Queda a confirmar con el folio real.
+- **Hallazgo:** la Ley 2604 (2003) declara la laguna patrimonio ecológico (614,39 ha). Anotado en `documentacion.md`
+  para consultar al abogado qué restricciones tiene la orilla.
+- **Pendiente:** segunda tanda de la ficha; la página; el WhatsApp de la venta.
