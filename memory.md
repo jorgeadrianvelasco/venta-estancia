@@ -23,8 +23,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Meta:** la cuenta publicitaria es **la personal de Jorge, `64830109`** (decidido el 15/10/2026; no se mueve al
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1 y 3 hechos. El 2 (abogado) está en manos de Jorge. El 6 (filtro) tiene borrador
-  propuesto en el chat del 15/10, sin aprobar: hay que mostrárselo de nuevo si no respondió.
+- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos. El 2 (abogado) está en manos de Jorge. El 4 (investigación de
+  mercado) en curso. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -109,3 +109,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Se propuso** el borrador del filtro de curiosos (paso 6): una línea en el anuncio + 3 preguntas en la primera
   respuesta (uso, plazo, visita), y el precio solo en persona o por llamada. **Sin aprobar**: no va a `respuestas.md`.
 - **Pendiente:** aprobación del filtro; paso 2 (abogado).
+
+### 15 de octubre de 2026 — Filtro de curiosos aprobado (paso 6) e investigación (paso 4)
+- **Jorge:** aprobó la línea del anuncio. La primera respuesta la quiso **en camba, como él habla, sin exagerar**,
+  diciendo que **él es el dueño**, y **sin preguntar el plazo**. El precio **se puede charlar por mensaje pero no sale
+  automático**: lo da él. Con esos cambios, aprobado (`respuestas.md`).
+- **Se lanzó** el agente `investigador-estancia` para el paso 4 (precios de referencia y canales cerca de Trinidad).

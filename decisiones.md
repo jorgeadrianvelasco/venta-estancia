@@ -36,7 +36,8 @@ países de Europa. Para Bolivia no se exige, y el público se arma sin las restr
 ## El precio no se publica
 **Decidido:** 15/10/2026, por Jorge.
 **Por qué:** *"es un valor muy elevado y no tengo interés en que se sepa el precio"*. No va en anuncios, ni en
-respuestas automáticas, ni en este repositorio salvo que Jorge lo pida.
+respuestas automáticas, ni en este repositorio salvo que Jorge lo pida. **Aclaración del 15/10/2026:** Jorge sí puede
+charlarlo por mensaje con un interesado, pero lo da él personalmente; nunca sale de una respuesta automática.
 **Consecuencia:** quien solo pregunta el precio y se va es un curioso, y a Jorge **no le molesta** que se vaya. El
 filtro entre curioso y comprador serio tiene que estar en el anuncio y en la primera respuesta, no en el precio.
 **Qué la haría cambiar:** que Jorge decida publicarlo.
