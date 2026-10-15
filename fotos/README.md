@@ -41,3 +41,10 @@ Jorge dijo que las versiones de líneas y "VE" eran "muy básicas y feas". Se ge
 | **A — "E" serif grande**, crema sobre verde bosque, "VENTA DE ESTANCIAS · BENI · BOLIVIA" | `MAHYF5P7CNo` | La más institucional; se lee bien en el círculo |
 | **B — alambrado geométrico** ocre sobre azul marino | `MAHYF57Fd4k` | Ojo: el símbolo puede leerse como una **escalera** |
 | **C — portada** verde con curvas de nivel y el nombre a la derecha | `MAHYF5qCAE8` | Hace juego con A |
+
+### Cuarta ronda (15/10/2026): Jorge eligió la B, con "BOLIVIA" solo
+
+| Qué | Canva media | Lectura |
+|---|---|---|
+| **B1 — igual a la B**, texto "BOLIVIA" | `MAHYF0zLHG4` | Mismo símbolo (sigue pareciendo escalera) |
+| **B2 — alambrado corregido**: postes de distinta altura, alambres que siguen y un puntal, texto "BOLIVIA" | `MAHYF5H25mc` | Se lee como alambrado. Recomendada |

@@ -207,3 +207,4 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   nombre propio.
 - **Jorge eligió la B** (alambrado ocre sobre azul marino), "aunque ninguna me encantó". Que diga **"BOLIVIA"**, no
   "Beni · Bolivia". **Sin Instagram por ahora**: se vende mejor en Facebook (`decisiones.md`).
+- **Cuarta ronda:** B1 igual con "BOLIVIA" (`MAHYF0zLHG4`) y **B2 con alambrado corregido** (`MAHYF5H25mc`, recomendada).
