@@ -186,3 +186,12 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   "WhatsApp number linked to another Facebook business" ([2091769220999799](https://www.facebook.com/business/help/2091769220999799)).
   La salida que da Meta (sacar el número del otro portfolio) **rompería los tubos**: si pasa, se consulta a Jorge.
 - **Pendiente:** conectar el número a "Venta estancias"; que Jorge elija logo (A líneas o B "VE").
+
+### 15 de octubre de 2026 — Pago y lo que falta para anunciar
+- **Jorge:** el WhatsApp se conecta después; primero quiere dejar listo el método de pago "y demás".
+- **MCP (`ads_get_ad_accounts`):** `64830109` ACTIVE, **ya tiene forma de pago**, moneda BOB, presupuesto diario mínimo
+  11,95 Bs. El MCP no muestra qué tarjeta es ni si está vencida: Jorge la revisa en Facturación.
+- **Instagram:** `ads_get_ig_accounts` de `64830109` vacío: no hay Instagram vinculado (opcional).
+- **Pendiente para la campaña:** presupuesto total y costo máximo por interesado serio (`negocio.md`, sin definir).
+- El agente `investigador-estancia` está investigando la identidad visual de competidores (BO, BR, AR) para mejores
+  prompts de logo en Canva.
