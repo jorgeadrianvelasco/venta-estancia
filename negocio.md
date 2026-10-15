@@ -9,17 +9,20 @@ Cuando un dato se confirma, se anota la fecha.
 |---|---|---|
 | Nombre | **Calocha** | 15/10/2026 |
 | Dueño(s) y quién decide el precio | **Jorge** es el dueño y decide el precio | 15/10/2026 |
-| Provincia / municipio | **A confirmar con el título.** Jorge creía Marbán; la laguna Suárez está en la **provincia Cercado, municipio Trinidad** ([Wikipedia](https://en.wikipedia.org/wiki/Su%C3%A1rez_Lake), [Ley 2604](https://www.lexivox.org/norms/BO-L-2604.xhtml)). Marbán (Loreto, San Andrés) limita con Trinidad al sur y sureste, así que el predio no se da por ubicado hasta ver el folio real | |
+| Provincia / municipio | **Cercado, municipio Trinidad.** Jorge lo confirmó (sin el título a mano); coincide con la ubicación de la laguna Suárez ([Wikipedia](https://en.wikipedia.org/wiki/Su%C3%A1rez_Lake), [Ley 2604](https://www.lexivox.org/norms/BO-L-2604.xhtml)). Cotejar con el folio real cuando esté | 15/10/2026 |
 | Ubicación | A 6,6 km de Trinidad, sobre la laguna Suárez (según el aviso de 2025, que Jorge confirmó que es Calocha) | 15/10/2026 |
-| Distancia y ruta desde la ciudad más cercana | pendiente (cómo se llega desde Trinidad) | |
-| Acceso en época de lluvia | pendiente | |
+| Distancia y ruta desde la ciudad más cercana | A 6,6 km de Trinidad; se entra **600 m desde la carretera a Loreto** | 15/10/2026 |
+| Frente a la laguna | Jorge: *"800 metros sobre la laguna y 1,3 km bordeando la laguna"* (pendiente aclarar si son dos tramos distintos) | 15/10/2026 |
+| Acceso en época de lluvia | **Acceso todo el año** | 15/10/2026 |
 | Tipo de predio | **Urbano, de gran extensión.** Según Jorge, es urbano por estar sobre la laguna Suárez, uno de los lugares más conocidos de Trinidad y del Beni | 15/10/2026 |
 | Superficie total (ha) | **530 ha** | 15/10/2026 |
 | Superficie titulada (ha) | **530 ha (todas)**, según Jorge. Verificar con el título antes de mostrarlo a un comprador (`documentacion.md`) | 15/10/2026 |
-| Tipo de campo (pampa, monte, bajío, altura) | pendiente | |
+| Tipo de campo (pampa, monte, bajío, altura) | **500 ha de pastura y 30 ha de monte** | 15/10/2026 |
+| Uso actual | **Ganadero**: Jorge lo trabaja con ganado | 15/10/2026 |
 | Pasturas (naturales / cultivadas, ha y especie) | pendiente | |
 | Aguadas (atajados, pozos, ríos, curichis) | pendiente | |
-| Infraestructura (casa, corrales, brete, potreros, alambrado, pista) | pendiente | |
+| Infraestructura (casa, corrales, brete, potreros, alambrado, pista) | **Casa.** Lo demás (corrales, brete, potreros, alambrado) pendiente | 15/10/2026 |
+| Energía y agua de la casa | **Energía a motor (generador); agua de lluvia.** Sin red eléctrica ni agua de red | 15/10/2026 |
 | Capacidad de carga (cabezas o UA) | pendiente | |
 | ¿Se vende con ganado o con equipos? | pendiente | |
 | Situación de papeles | ver `documentacion.md` | |

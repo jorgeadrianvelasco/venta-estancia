@@ -12,8 +12,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 
 ## Estado actual
 <!-- máximo 20 líneas; se reescribe -->
-- **Estancia:** Calocha, **530 ha tituladas**, predio **urbano** de gran extensión sobre la laguna Suárez, a 6,6 km de
-  Trinidad. **Dueño y quien decide el precio: Jorge.** Provincia a confirmar con el título (la laguna está en Cercado).
+- **Estancia:** Calocha, **530 ha tituladas** (500 pastura, 30 monte), predio **urbano** de gran extensión en Cercado,
+  sobre la laguna Suárez (800 m / 1,3 km de orilla), a 6,6 km de Trinidad, 600 m de la carretera a Loreto, acceso todo
+  el año. Con ganado; casa con motor y agua de lluvia. **Dueño y quien decide el precio: Jorge.**
 - **Objetivo (Jorge):** compradores serios de estancias, no curiosos. **El precio no se publica** (`decisiones.md`).
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
@@ -78,3 +79,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Hallazgo:** la Ley 2604 (2003) declara la laguna patrimonio ecológico (614,39 ha). Anotado en `documentacion.md`
   para consultar al abogado qué restricciones tiene la orilla.
 - **Pendiente:** segunda tanda de la ficha; la página; el WhatsApp de la venta.
+
+### 15 de octubre de 2026 — Segunda tanda de la ficha
+- **Jorge:** provincia **Cercado** (sin el título a mano; dice que los papeles están "todo perfecto"). *"800 metros sobre
+  la laguna y 1,3 km bordeando la laguna"* (falta aclarar). Acceso **todo el año**, a **600 m de la carretera a Loreto**.
+  **Con ganado**, 500 ha de pastura y **30 ha de monte**. **Casa** con energía a motor y **agua de lluvia**.
+- **Pendiente:** aclarar el frente a la laguna; pasturas (especie), aguadas, corrales y alambrado, si se vende con
+  ganado.

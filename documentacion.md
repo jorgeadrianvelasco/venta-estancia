@@ -3,7 +3,9 @@
 Lo que un comprador va a pedir y en qué estado está. **Acá va el estado, no los documentos**: no se suben
 copias de títulos ni planos al repositorio.
 
-**Esta lista es un borrador sin verificar** (15/10/2026). Antes de usarla con un comprador, confirmarla con
+**Esta lista es un borrador sin verificar** (15/10/2026). Jorge dice que los papeles están "todo perfecto" (15/10/2026); no tiene el título a mano.
+
+Antes de usarla con un comprador, confirmarla con
 el abogado o notario de Jorge y anotar acá quién la confirmó.
 
 | Documento | Para qué lo pide el comprador | Estado | Confirmado el |
