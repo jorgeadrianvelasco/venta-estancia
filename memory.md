@@ -24,7 +24,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   portfolio). **Falta la página** de la venta: Jorge la crea después de terminar la ficha.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Faltan fotos de la orilla y el paso 7 (página y WhatsApp). Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+  3 borradores sin aprobar. Fotos en `fotos/` (paso 5 hecho). Falta el paso 7 (página y WhatsApp). Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -135,3 +135,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   de feb-2025 y el proxy bloquea `fbcdn.net`. **Ninguna muestra la laguna**: se le pidió a Jorge que las pase.
 - **Borradores:** V1 general, V2 ganadero, V3 laguna (`textos-anuncios.md`), sin aprobar.
 - **Siguiente:** aprobación de textos; fotos de la orilla; paso 7 (página y WhatsApp).
+
+### 15 de octubre de 2026 — Fotos del predio (paso 5)
+- **Jorge mandó 9 fotos por el chat** (capturas de celular de las del aviso de 2025). Se guardaron 7 en `fotos/`,
+  recortadas sin bordes negros (una era repetida y otra igual a la que ya estaba). Catálogo y uso en `fotos/README.md`.
+- **Foto principal:** `2025-drone-laguna-casa-y-camino.jpg` (laguna, casa y camino en una toma). **No usar** la de la
+  pampa con agua (puede leerse como que se inunda) ni la nublada.
+- **Pendiente:** originales en mejor calidad; aprobación de textos; WhatsApp y página (paso 7).

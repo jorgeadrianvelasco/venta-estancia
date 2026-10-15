@@ -79,8 +79,11 @@ voz del dueño. Se sacó "propiedad urbana" del título: **hipótesis** de que a
 ### Foto principal sugerida
 | Versión | Foto | ¿La tenemos? |
 |---|---|---|
-| V1 y V3 | Drone sobre la orilla: la laguna y el predio en la misma toma | **No**: falta que Jorge la pase |
+| V1 y V3 | Drone: laguna, casa y camino en una toma | **Sí** (`fotos/2025-drone-laguna-casa-y-camino.jpg`, captura; pedir original) |
+| V3 (segunda) | Pasto a la orilla de la laguna | **Sí** (`fotos/2025-orilla-pasto-y-laguna.jpg`) |
 | V2 | La vista aérea de casa, corrales y pampa | Sí (`fotos/2025-10-17-boost-marketplace-vista-aerea.jpg`) |
+
+Catálogo completo y cuáles no usar: `fotos/README.md`.
 
 ## Textos usados en campañas
 
