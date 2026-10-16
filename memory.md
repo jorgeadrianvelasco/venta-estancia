@@ -30,7 +30,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   **Trinidad** `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, feed de Facebook, **37,50 Bs c/u
   (75 Bs total)**, a WhatsApp, intereses agro. **Corre del viernes 16/10 08:00 al domingo 18/10 23:59** (hora de Bolivia).
 - **Anuncios:** carrusel de las **8 láminas cuadradas** + texto V1 + botón de WhatsApp (Trinidad `52537366868250`, Santa Cruz
-  `52537366894650`). **Controles programados** (send_later): 16/10 07:30 y 09:30, 17/10 12:00, 19/10 00:30 (Bolivia).
+  `52537366894650`). **Controles** (send_later): 16/10 07:30 ✅, 09:30 ✅ (Santa Cruz en 0), **13:00 extra**, 17/10 12:00, 19/10 00:30.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
