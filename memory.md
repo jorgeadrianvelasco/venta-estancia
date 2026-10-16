@@ -372,3 +372,14 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Receta para el próximo repo** (pedido de Jorge, para los tubos): `receta-repo-nuevo.md`.
 - **Pendiente:** "publicala" → activar la campaña. Después: controles (antes del arranque, 1,5 h después, al cierre).
 
+### 16 de octubre de 2026 (21:50 en Bolivia) — Revisión del borrador y búsqueda de "la otra" publicación
+- **PR [#2](https://github.com/jorgeadrianvelasco/venta-estancia/pull/2) mergeado a `main`** (pedido de Jorge). La rama se
+  rehízo desde `main` para seguir.
+- **Jorge:** "revisá la publicación, la campaña y sobre todo pausá la otra. No quiero gastar en otra publicación que está mala".
+- **Cuenta `64830109`:** **nada gastando**. Lo único publicado es el boost de Marketplace de 2025 (`6836819733446`, PAUSED,
+  0 Bs en 7 días). Registro de actividad vacío. Cuentas visibles: `64830109` y Kakau (regla 2: no se toca sin pedido expreso).
+- **Si Jorge impulsó su publicación desde la página**, ese gasto no está en `64830109`: o no hay gasto (post orgánico) o se pagó
+  con otra cuenta. Se le preguntó.
+- **Borrador revisado:** campaña, 2 conjuntos y 2 anuncios **VALIDATED, sin errores**. WhatsApp +591 7139…629. Se corrigió
+  el nombre del conjunto de Santa Cruz a **"80 km"** (decía 30). Intereses solo agro (cubren perfil C; B y D no).
+
