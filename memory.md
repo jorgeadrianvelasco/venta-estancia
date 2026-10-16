@@ -352,3 +352,12 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   (subidas con los links temporales de GitHub). **El control de seguridad de la sesión frenó el resto por "fuga de
   credenciales"** (el link lleva un token de acceso al repo privado): **no volver a usar ese camino**.
 
+### 16 de octubre de 2026 — "Quiero publicar desde aquí": repo público para las imágenes y carrusel cuadrado
+- **Jorge:** quiere publicar desde la sesión y que los links de GitHub "queden disponibles siempre".
+- **Respuesta:** los links con token de un repo privado vencen por diseño; hacer público `venta-estancia` expondría las notas
+  de venta. **Propuesta:** repo público aparte **`calocha-imagenes`** solo con imágenes de anuncios (links `raw` fijos, sin
+  token). La integración de GitHub de la sesión **no puede crear repos** (403): lo crea Jorge y después `add_repo`.
+- **Publicar en la página:** el MCP de Meta no publica posts orgánicos. Desde acá la publicación sale como **anuncio en
+  carrusel**, que en Facebook exige 1:1 → se hicieron las **8 láminas cuadradas** (`presentacion/cuadradas/`,
+  `presentacion/fuente/laminas_cuadradas.py`).
+
