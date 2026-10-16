@@ -33,7 +33,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537366894650`). **Controles** (send_later): 16/10 07:30 ✅, 09:30 ✅, **17/10 09:00 recordatorio de saldo**, 17/10 12:00, 19/10 00:30.
 - **⚠️ FRENADA DESDE ~10:00 DEL 16/10: SIN SALDO.** La cuenta `64830109` es **prepaga (fondos disponibles)**: tenía 21 Bs
   cargados en 2025, se gastaron 20,57 en el boost y los 0,43 que quedaban hoy. Jorge tiene que **agregar fondos** (75 Bs);
-  el MCP no puede. Al cargar, los anuncios vuelven solos. **Jorge lo hace el sábado 17** ("estoy en mi celu, lo hacemos mañana").
+  el MCP no puede. Al cargar, los anuncios vuelven solos. Jorge cambió de idea: **lo hace hoy 16/10** (13:55). Link de pagos: `business.facebook.com/billing_hub/payment_settings/?asset_id=64830109`.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
