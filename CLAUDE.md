@@ -10,6 +10,7 @@ Jorge es quien lleva la venta. Quién es dueño y quién decide el precio: **pen
 | **`reglas.md`** | **Siempre, antes de cualquier acción.** Son las reglas que no se negocian |
 | `negocio.md` | Antes de proponer algo: ficha de la estancia, precio, forma de pago, presupuesto de publicidad |
 | `decisiones.md` | Antes de sugerir una idea "nueva" — puede estar descartada con motivo |
+| `plan.md` | Para saber qué sigue: los 10 pasos de la venta en orden y en cuál vamos |
 | `memory.md` | Al empezar: el bloque "Estado actual" dice en qué está la venta. Abajo, qué se probó y qué dio |
 | `como-trabaja-jorge.md` | Para entender cómo responderle y cómo decide |
 | `comprador.md` | Antes de armar un público o escribir un anuncio: quién compra y qué le importa |
@@ -20,6 +21,7 @@ Jorge es quien lleva la venta. Quién es dueño y quién decide el precio: **pen
 | `documentacion.md` | Cuando un interesado pide papeles, o antes de prometer que algo está en regla |
 | `como-crear-campana.md` | Antes de crear, activar o cambiar una campaña: la receta del MCP de Meta y sus trampas |
 | `skills.md` | Índice de las skills de `.claude/skills/` |
+| `receta-repo-nuevo.md` | Para armar el repo de otra línea (tubos, abanicos…) sin repetir lo que acá costó horas |
 
 ## Lo mínimo que no se puede olvidar
 

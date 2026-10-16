@@ -61,3 +61,20 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 - **Fase de aprendizaje:** cada conjunto nuevo aprende desde cero y sale con unas 50 conversaciones en una semana
   ([Meta](https://www.facebook.com/business/help/112167992830700)). Con pocas consultas, no sale nunca.
 - **Meta cuenta conversaciones, no interesados serios.** Esos los dice Jorge y van a `interesados.md`.
+
+## Trampas de esta línea (venta de la estancia)
+- **Subir fotos por el MCP no anda en la cuenta `64830109`** (16/10/2026): `ads_creative_upload_local_image` dice que se
+  está habilitando de a poco; `ads_creative_upload_media` necesita una URL pública, y el proxy de la sesión bloquea Canva
+  y `fbcdn`. Salidas: que Jorge suba la foto a la biblioteca de imágenes de la cuenta (después se lee el `image_hash` con
+  `ads_get_ad_images`) o que pase el link de una publicación de la página (`object_story_id` = `1445747361945494_<postID>`).
+- **Desde el 16/10/2026 el entorno tiene acceso completo a la red** (lo cambió Jorge): la subida a Moda (`agents.moda.app`)
+  y los pines de Google Maps ya funcionan. Probar de nuevo `fbcdn` y Canva antes de dar algo por bloqueado.
+- **Imágenes a la cuenta, lo que funciona (16/10/2026):** repo público + `ads_creative_upload_media` (`URL`) con
+  `https://raw.githubusercontent.com/jorgeadrianvelasco/venta-estancia/<commit>/<ruta>`. Los links con `?token=` de un repo
+  privado los frena el control de seguridad ("fuga de credenciales"): no usarlos.
+- **Carrusel:** en Facebook solo 1:1 (o 9:16); 4:5 es solo para catálogo. JSON que funcionó: `link_data.child_attachments`
+  (una tarjeta por lámina con `image_hash`, `name` y CTA `WHATSAPP_MESSAGE` con `app_destination: WHATSAPP` y link
+  `https://api.whatsapp.com/send`), `multi_share_optimized: false`, `multi_share_end_card: false`, texto en `message`.
+- **El MCP no publica ni lista las publicaciones de la página**: la "publicación" sale como anuncio.
+- **El MCP no lista las publicaciones de la página**: el ID del post solo sale del link que pasa Jorge.
+- **Horas:** el MCP da la hora en UTC. Bolivia = UTC − 4. No confundir "ya es 16/10" en UTC con el día en Bolivia.

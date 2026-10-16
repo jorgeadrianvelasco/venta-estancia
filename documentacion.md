@@ -3,7 +3,13 @@
 Lo que un comprador va a pedir y en qué estado está. **Acá va el estado, no los documentos**: no se suben
 copias de títulos ni planos al repositorio.
 
-**Esta lista es un borrador sin verificar** (15/10/2026). Antes de usarla con un comprador, confirmarla con
+**Regla de Jorge (15/10/2026):** los papeles (folio real, plano georreferenciado, impuestos, Ley 2604) **los charla
+Jorge personalmente** con cada interesado. Claude no los tiene ni los manda, y ninguna respuesta automática los
+promete ni los adjunta. Esta lista sirve solo para que Jorge sepa qué le van a pedir.
+
+**Esta lista es un borrador sin verificar** (15/10/2026). Jorge dice que los papeles están "todo perfecto" (15/10/2026); no tiene el título a mano.
+
+Antes de usarla con un comprador, confirmarla con
 el abogado o notario de Jorge y anotar acá quién la confirmó.
 
 | Documento | Para qué lo pide el comprador | Estado | Confirmado el |
@@ -14,4 +20,5 @@ el abogado o notario de Jorge y anotar acá quién la confirmó.
 | Registro catastral | pendiente | pendiente | |
 | Impuestos al día | Que no herede deudas | pendiente | |
 | Cumplimiento de la función económico-social | pendiente | pendiente | |
+| Restricciones por la laguna Suárez | La [Ley 2604 (2003)](https://www.lexivox.org/norms/BO-L-2604.xhtml) declara la laguna patrimonio ecológico y natural (614,39 ha). Un comprador que quiera construir o lotear va a preguntar qué se puede hacer en la orilla | pendiente: consultar al abogado. Según resúmenes de buscador (sin abrir), también hay ordenanzas municipales de 2010-2011 y la Ley departamental 017 (2011) que la declaran área protegida, y notas que citan "regular el uso del suelo" (`investigacion/precios-y-canales-trinidad.md`). **Jorge (15/10/2026): en la laguna sí se puede construir, pero no lotear.** Por eso no se le vende a loteadores. En los anuncios: se puede hablar de casa de campo; **nunca de lotear** | 15/10/2026 (dicho por Jorge) |
 | Otros que pida el abogado | | pendiente | |
