@@ -70,6 +70,9 @@ copia de este** y se salta todo lo que acá costó horas. Cada línea va en su p
   - Links con `?token=` de un repo privado: los frena el control de seguridad.
 - **Lo que el MCP no hace:** publicar posts comunes en la página, listarlos o pagar. La publicación sale como anuncio.
 - **Vista previa:** `ads_get_ad_preview` con el `ad_id` del borrador, y pasarle el link a Jorge.
+- **Antes de publicar:** confirmar con Jorge el monto exacto, el día y la hora (la receta lo exige) y **verificar el día de
+  la semana con `date`** (con Calocha se dijo "domingo 19" y el 19 era lunes). Publicar con `ads_activate_entity`
+  (`object_ids` de todo + `publish_as_active`) y programar controles con `send_later`.
 
 ## 4. Imágenes: qué funcionó y qué no
 

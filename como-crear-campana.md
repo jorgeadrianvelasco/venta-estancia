@@ -78,3 +78,7 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 - **El MCP no publica ni lista las publicaciones de la página**: la "publicación" sale como anuncio.
 - **El MCP no lista las publicaciones de la página**: el ID del post solo sale del link que pasa Jorge.
 - **Horas:** el MCP da la hora en UTC. Bolivia = UTC − 4. No confundir "ya es 16/10" en UTC con el día en Bolivia.
+- **Días de la semana: verificarlos con `TZ=America/La_Paz date -d 2026-10-18 +%A` antes de escribir "el domingo"** (16/10/2026:
+  se dijo "domingo 19" cuando el 19 era lunes; Jorge lo corrigió antes de publicar).
+- **Publicar un borrador:** `ads_activate_entity` con `object_ids` = campaña + conjuntos + anuncios y `publish_as_active: true`;
+  devuelve PUBLISHING → confirmar con `ads_get_ad_entities` en vivo (ACTIVE / IN_PROCESS es normal antes del arranque).
