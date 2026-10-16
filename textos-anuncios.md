@@ -116,3 +116,27 @@ que está cerca, qué se puede hacer ahí.
 
 **Pendiente de Jorge:** aprobar los textos (sobre todo la lámina 6) y subir las fotos a Canva → "Subidos": este entorno no
 puede subir archivos a Canva (el proxy bloquea `www.canva.com`).
+
+### Versión en Moda (16/10/2026) — reemplaza a la de Canva
+
+- **Canva, descartado:** generó 7 láminas con **fotos de stock que no son de Calocha** (palmeras, casas con techo de teja,
+  atardeceres). Jorge: "la primera imagen es falsa, cosa que no puede ser así". Al pasarlas a vertical, el diseño se desarmó.
+  Los borradores siguen en su Canva (`DAHYIBt3tR8` horizontal y `DAHYIPRhqsE` vertical): **no usar**.
+- **Moda:** lienzo **"Calocha — presentación de venta"** (`cvs_26PX3C3T1297QS1XFB0R6P9YER`),
+  https://moda.app/canvas/46b746c1-e822-49ef-90f5-eb060d64f9d8. 8 láminas 1080×1350, sin kit de marca (colores del logo B2:
+  azul marino `#18222F`, ocre `#C8963E`, crema `#F2ECE1`; títulos Cormorant Garamond, texto Work Sans; motivo de alambrado
+  abajo). Sirve para la publicación de varias fotos en Facebook y, exportado a PDF, para mandar por WhatsApp a interesados.
+- **Las fotos todavía no están:** cada lugar de foto dice "FOTO REAL DE CALOCHA" y cuál va. El proxy de la sesión bloquea
+  `agents.moda.app` (igual que Canva): **Jorge las sube en moda.app → Drive → Subir**, y después se colocan con `file_…`.
+
+| # | Lámina | Texto | Foto (de `fotos/`) |
+|---|---|---|---|
+| 1 | Portada | EN VENTA · TRINIDAD, BENI · **530 hectáreas sobre la laguna Suárez** · Propiedad urbana de gran extensión / a 6,6 km de Trinidad | `2025-drone-laguna-casa-y-camino.jpg` |
+| 2 | Ubicación | **6,6 km** de Trinidad, capital del Beni · mapa real (Mapbox) centrado en la laguna Suárez (14°53′S 64°52′O, [Wikipedia](https://en.wikipedia.org/wiki/Su%C3%A1rez_Lake)) con Trinidad a la vista · 01 Entrada a 600 m de la carretera a Loreto · 02 Acceso todo el año | Mapa, sin foto |
+| 3 | La laguna | **800 metros** de frente propio sobre la laguna Suárez · Uno de los lugares más conocidos de Trinidad y del Beni | `2025-orilla-pasto-y-laguna.jpg` |
+| 4 | El campo | El campo, en números: 530 ha tituladas · 500 ha de pasto natural (arrocillo) · 30 ha de monte · 4 pozas de agua, más la laguna | `2025-drone-pampa.jpg` |
+| 5 | Infraestructura | Lista para trabajar: 01 Casa · 02 Alambrado perimetral en buen estado · 03 Corral con brete y corralón · *Se vende sin ganado: todo lo demás queda con el predio* | `2025-10-17-boost-marketplace-vista-aerea.jpg` |
+| 6 | Galería | ASÍ ES CALOCHA · Pampa abierta, monte y laguna · Fotos reales del predio, tomadas con drone | `2025-drone-alambrado-hacia-la-laguna.jpg` + `2025-drone-camino-interno-y-pampa.jpg` |
+| 7 | Usos | ¿Qué se puede hacer en Calocha? 01 Producir · 02 Vivir o descansar · 03 Invertir | — |
+| 8 | Cierre | VISITAS CON CITA · **Venta directa del dueño** · Atendemos a interesados en invertir, en producir o en tener su casa de campo sobre la laguna · botón "Escribinos por WhatsApp" · VENTA ESTANCIAS · CALOCHA | Drone de la laguna (otra parte de la foto principal u otra que suba Jorge) |
+

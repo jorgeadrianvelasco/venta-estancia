@@ -29,8 +29,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Paso 9 — campaña en BORRADOR** `52537356511050` (sin publicar, 0 Bs gastados): conjuntos **Trinidad**
   `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, solo feed de Facebook, 37,50 Bs cada
   uno, a WhatsApp, intereses agro que puso Jorge. **Inicio 16/10 08:00, fin domingo 19/10 08:00** (hora de Bolivia).
-- **Falta: los anuncios.** Jorge dijo "hacelos vos". Necesito **el link de la publicación** o que Jorge suba la foto
-  `fotos/2025-drone-laguna-casa-y-camino-4x5.jpg` a la biblioteca de la cuenta: el MCP no puede subir imágenes acá.
+- **Falta: los anuncios.** Jorge dijo "hacelos vos", pero **no le gustó la primera publicación**: pidió una presentación
+  profesional. Está en **Moda** (`textos-anuncios.md`, 16/10): 8 láminas listas, **faltan las fotos** (Jorge las sube en
+  moda.app → Drive; el proxy no deja subirlas desde acá). **Solo fotos reales**: Canva metió stock y Jorge lo rechazó.
   **No publicar sin su "publicala".** Construir sí, lotear no. **Tono: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
@@ -290,4 +291,17 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   sin cielo de más): entran la laguna, la casa y el camino.
 - **Se le pidió a Jorge una de dos:** (A) el link de la publicación → anuncio con el post (`object_story_id`); o (B) subir
   la foto 4:5 a la biblioteca de la cuenta → anuncio nuevo con V1 y botón de WhatsApp (`image_hash`).
+
+### 16 de octubre de 2026 (noche del 15/10 en Bolivia) — Presentación profesional: Canva descartado, Moda armada
+- **Jorge:** "no me gustó para nada cómo quedó la publicación, haceme algo con Canva más profesional", "que sea como una
+  presentación, que diga qué cosas tiene, que es propiedad urbana, que es cerca, qué se puede hacer ahí".
+- **Canva:** `create-design` generó 7 láminas 16:9 (`DAHYIBt3tR8`) con **fotos de stock que no son de Calocha**; el
+  `resize-design` a 4:5 (`DAHYIPRhqsE`, gastó una prueba Pro: queda 1) desarmó el diseño. Jorge denegó seguir editando y dijo
+  que las láminas 1, 2, 4, 5 y 6 eran falsas. **Ojo:** la 3 y la 7, que le parecieron bien, **también eran stock**: se le avisó.
+- **Moda** (conector nuevo de Jorge, plan gratis): lienzo `cvs_26PX3C3T1297QS1XFB0R6P9YER` con 8 láminas 1080×1350. Mapa real
+  de Mapbox centrado en la laguna (el marcador siempre va al centro del mapa; `marker="lon,lat"` y `style="satellite"` se
+  ignoran). Sin kit de marca: colores del logo B2.
+- **Subir fotos, bloqueado desde la sesión:** `agents.moda.app` y `www.canva.com` dan 403 en el proxy; `<image src="data:...">`
+  no existe en Moda. Camino: Jorge sube en **moda.app → Drive → Subir**; después `file_list` da los `file_…`.
+- **Pendiente:** fotos en Moda → colocarlas → exportar PNG (Facebook) y PDF (WhatsApp) → que Jorge apruebe.
 
