@@ -30,10 +30,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   **Trinidad** `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, feed de Facebook, **37,50 Bs c/u
   (75 Bs total)**, a WhatsApp, intereses agro. **Corre del viernes 16/10 08:00 al domingo 18/10 23:59** (hora de Bolivia).
 - **Anuncios:** carrusel de las **8 láminas cuadradas** + texto V1 + botón de WhatsApp (Trinidad `52537366868250`, Santa Cruz
-  `52537366894650`). **Controles** (send_later): 16/10 07:30 ✅, 09:30 ✅, **13:00 extra**, 17/10 12:00, 19/10 00:30.
+  `52537366894650`). **Controles** (send_later): 16/10 07:30 ✅, 09:30 ✅, **17/10 09:00 recordatorio de saldo**, 17/10 12:00, 19/10 00:30.
 - **⚠️ FRENADA DESDE ~10:00 DEL 16/10: SIN SALDO.** La cuenta `64830109` es **prepaga (fondos disponibles)**: tenía 21 Bs
   cargados en 2025, se gastaron 20,57 en el boost y los 0,43 que quedaban hoy. Jorge tiene que **agregar fondos** (75 Bs);
-  el MCP no puede. Al cargar, los anuncios vuelven solos.
+  el MCP no puede. Al cargar, los anuncios vuelven solos. **Jorge lo hace el sábado 17** ("estoy en mi celu, lo hacemos mañana").
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -94,3 +94,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   Marketplace). Quedaban **0,43 Bs**, y Trinidad gastó exactamente 0,43 Bs hoy. Gasto total histórico de la cuenta: 21 Bs.
   **La cuenta se quedó sin fondos.** Arreglo: Jorge agrega fondos (Configuración de pagos → Fondos disponibles → Agregar
   fondos). El MCP no tiene herramienta de pagos. No se cambió nada de la campaña.
+- **Saldo, para mañana (16/10 12:18 Bolivia):** Jorge, desde el celular: "lo hacemos mañana". Se borró el control extra de
+  las 13:00 (ya se sabía la causa), se programó un recordatorio el **sábado 17 a las 09:00** (`trig_01BmzGuYTM4TX7QZGUukHW8w`)
+  y se cambió el control de las 12:00 (`trig_01TcGXhtnhi9qFFSwam94sWn`) para que primero mire si ya hay saldo. Pendiente
+  ofrecerle correr el cierre al lunes 19 para compensar el día perdido (no se cambia sin su sí).
