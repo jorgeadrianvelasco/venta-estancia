@@ -340,3 +340,15 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Hecho:** las 8 láminas en HTML (`presentacion/fuente/laminas.py`), renderizadas con Playwright/Chromium del entorno, sin
   sello. Reemplazan a las de Moda en `presentacion/`. El mapa es un recorte del mapa de Moda (atribución Mapbox/OSM visible).
 
+### 16 de octubre de 2026 — Publicación con las láminas y anuncios del borrador
+- **Jorge:** "quiero que me hagas una publicación como la que hice y que a base de eso hagamos la misma campaña que habíamos
+  creado". Se le mandaron las 8 láminas (`presentacion/`).
+- **No se puede publicar en la página desde acá:** el MCP de Meta no tiene herramienta para publicar posts orgánicos. Jorge
+  publica el post (8 láminas + texto V1) y pasa el link → anuncios con `object_story_id` en los 2 conjuntos del borrador.
+- **Carrusel de anuncio, descartado para estas láminas:** en Facebook el carrusel manual solo acepta 1:1 o 9:16; el 4:5 es
+  solo para catálogo ([Meta 1114358518575630](https://www.facebook.com/business/help/1114358518575630)). Imagen única 4:5 sí
+  es la recomendada en el feed ([Meta 682655495435254](https://www.facebook.com/business/help/682655495435254)).
+- **Imágenes en la cuenta `64830109`:** portada `feb81d27245ec62a74f3e90c4273e2bf` y el campo `293529fb91585c61be69305063cdb0b4`
+  (subidas con los links temporales de GitHub). **El control de seguridad de la sesión frenó el resto por "fuga de
+  credenciales"** (el link lleva un token de acceso al repo privado): **no volver a usar ese camino**.
+
