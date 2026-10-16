@@ -107,3 +107,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   "Payment method removed — Credit card" (14:06). Conjuntos con `delivery: off` / `account_spend_limit_reached`, 0,43 Bs y
   38 impresiones en el día (sin cambios). Se le pidió a Jorge una captura de "Fondos disponibles" y que confirme que la carga
   la hizo en la cuenta 64830109 y no en la de Kakau (esa no se revisa: regla 2).
+- **Control 18:48 (16/10 Bolivia):** Jorge: "ya está todo hecho". **La carga sigue sin aparecer** en `64830109` (4 h y media
+  después). Historial: solo la tarjeta eliminada a las 14:06. Conjuntos `delivery: off` / `account_spend_limit_reached`.
+  Hipótesis: carga hecha en otra cuenta (¿Kakau?), pago pendiente (medio local o banco) o pago que no pasó. Se le ofreció
+  mirar **solo el historial de pagos de Kakau, sin tocar nada**, únicamente si él lo pide (regla 2).
