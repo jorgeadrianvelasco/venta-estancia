@@ -87,3 +87,8 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   más", recorrer el carrusel moviendo `scrollLeft` y mandarle las capturas con SendUserFile.
 - **Títulos de las tarjetas del carrusel:** en el celular se cortan a unos 10 caracteres ("530 ha…") por el botón de
   WhatsApp. En la próxima campaña, usar títulos cortos o dejar que la imagen hable.
+- **La cuenta `64830109` es PREPAGA ("fondos disponibles")** (16/10/2026): la campaña arrancó y se frenó a las 2 horas con
+  `delivery: off` / `account_spend_limit_reached` porque el saldo era 0,43 Bs (quedaba de 2025). `ads_get_errors` vacío y
+  `effective_status: ACTIVE` **no lo muestran**: hay que pedir el campo `delivery`. **Antes de publicar**, confirmar con
+  Jorge que el saldo cubra el presupuesto total (historial: `ads_account_get_activity_logs` con `event_category: budget`).
+  El MCP no carga saldo: lo hace Jorge en Configuración de pagos → Fondos disponibles → Agregar fondos.

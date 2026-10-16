@@ -30,7 +30,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   **Trinidad** `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, feed de Facebook, **37,50 Bs c/u
   (75 Bs total)**, a WhatsApp, intereses agro. **Corre del viernes 16/10 08:00 al domingo 18/10 23:59** (hora de Bolivia).
 - **Anuncios:** carrusel de las **8 láminas cuadradas** + texto V1 + botón de WhatsApp (Trinidad `52537366868250`, Santa Cruz
-  `52537366894650`). **Controles** (send_later): 16/10 07:30 ✅, 09:30 ✅ (Santa Cruz en 0), **13:00 extra**, 17/10 12:00, 19/10 00:30.
+  `52537366894650`). **Controles** (send_later): 16/10 07:30 ✅, 09:30 ✅, **13:00 extra**, 17/10 12:00, 19/10 00:30.
+- **⚠️ FRENADA DESDE ~10:00 DEL 16/10: SIN SALDO.** La cuenta `64830109` es **prepaga (fondos disponibles)**: tenía 21 Bs
+  cargados en 2025, se gastaron 20,57 en el boost y los 0,43 que quedaban hoy. Jorge tiene que **agregar fondos** (75 Bs);
+  el MCP no puede. Al cargar, los anuncios vuelven solos.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -85,3 +88,9 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   **Santa Cruz 0 Bs · 0 impresiones**, ACTIVE y sin errores; el público (80 km, 30-65+, intereses agro) está bien armado.
   El gasto va más lento de lo esperado (no se cumplió lo de "un tercio en la primera hora"). Se programó un control extra
   a las 13:00 (`trig_01Qo7nmBDZAYNz9L5nxhPG47`) para ver si Santa Cruz arranca. No se cambió nada.
+- **Diagnóstico Santa Cruz (16/10 11:00 Bolivia, pedido de Jorge "hacelo funcionar"):** no era Santa Cruz. Los 2 conjuntos
+  y los 2 anuncios tienen `delivery: off` con `account_spend_limit_reached`. Historial de pagos de la cuenta: **17/10/2025
+  se cargaron 21,00 Bs de saldo prepago**; cobros 18 al 21/10/2025 = 1,68 + 7,96 + 5,84 + 5,09 = 20,57 Bs (el boost de
+  Marketplace). Quedaban **0,43 Bs**, y Trinidad gastó exactamente 0,43 Bs hoy. Gasto total histórico de la cuenta: 21 Bs.
+  **La cuenta se quedó sin fondos.** Arreglo: Jorge agrega fondos (Configuración de pagos → Fondos disponibles → Agregar
+  fondos). El MCP no tiene herramienta de pagos. No se cambió nada de la campaña.
