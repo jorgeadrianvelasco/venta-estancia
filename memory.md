@@ -76,3 +76,6 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **Aprobados por Meta (15/10 23:41 Bolivia):** los 2 anuncios pasaron de PENDING_REVIEW a **ACTIVE**. Empiezan a mostrarse el
   16/10 a las 08:00, que es cuando arrancan los conjuntos. Jorge (27 años) queda fuera del público de 30 a 65+, así que
   puede no verlo en su feed: para verlo, que use la vista previa o el Administrador de anuncios.
+- **Vista previa (16/10, 00:00 Bolivia):** a Jorge no le abría el link de la vista previa (`&amp;` y vencimiento). Se le
+  mandaron capturas reales de la vista previa de Meta (feed + las 8 tarjetas). Detalle anotado: los títulos de las tarjetas
+  se cortan en el celular ("530 ha…"); no se tocó para no reabrir la revisión de Meta antes del arranque.

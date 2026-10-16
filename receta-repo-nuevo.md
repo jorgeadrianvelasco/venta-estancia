@@ -69,7 +69,9 @@ copia de este** y se salta todo lo que acá costó horas. Cada línea va en su p
   - `ads_creative_upload_local_image`: "se está habilitando de a poco", no anduvo.
   - Links con `?token=` de un repo privado: los frena el control de seguridad.
 - **Lo que el MCP no hace:** publicar posts comunes en la página, listarlos o pagar. La publicación sale como anuncio.
-- **Vista previa:** `ads_get_ad_preview` con el `ad_id` del borrador, y pasarle el link a Jorge.
+- **Vista previa:** `ads_get_ad_preview` con el `ad_id`. **No le pases el link a Jorge**: viene con `&amp;` en lugar de `&`
+  y vence en minutos, así que a él no le abre. Abrilo con Chromium (Playwright), expandí "Ver más", recorré el
+  carrusel y mandale las capturas (feed + todas las tarjetas) con SendUserFile.
 - **Antes de publicar:** confirmar con Jorge el monto exacto, el día y la hora (la receta lo exige) y **verificar el día de
   la semana con `date`** (con Calocha se dijo "domingo 19" y el 19 era lunes). Publicar con `ads_activate_entity`
   (`object_ids` de todo + `publish_as_active`) y programar controles con `send_later`.

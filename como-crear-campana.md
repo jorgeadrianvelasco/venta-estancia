@@ -82,3 +82,8 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   se dijo "domingo 19" cuando el 19 era lunes; Jorge lo corrigió antes de publicar).
 - **Publicar un borrador:** `ads_activate_entity` con `object_ids` = campaña + conjuntos + anuncios y `publish_as_active: true`;
   devuelve PUBLISHING → confirmar con `ads_get_ad_entities` en vivo (ACTIVE / IN_PROCESS es normal antes del arranque).
+- **Vista previa para Jorge (16/10/2026):** el `preview_url` de `ads_get_ad_preview` viene con `&amp;` en vez de `&` y vence
+  en minutos: a Jorge no le abrió. Lo que sirvió: abrirlo con Chromium (Playwright, cambiando `&amp;` por `&`), expandir "Ver
+  más", recorrer el carrusel moviendo `scrollLeft` y mandarle las capturas con SendUserFile.
+- **Títulos de las tarjetas del carrusel:** en el celular se cortan a unos 10 caracteres ("530 ha…") por el botón de
+  WhatsApp. En la próxima campaña, usar títulos cortos o dejar que la imagen hable.
