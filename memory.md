@@ -79,3 +79,5 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **Vista previa (16/10, 00:00 Bolivia):** a Jorge no le abría el link de la vista previa (`&amp;` y vencimiento). Se le
   mandaron capturas reales de la vista previa de Meta (feed + las 8 tarjetas). Detalle anotado: los títulos de las tarjetas
   se cortan en el celular ("530 ha…"); no se tocó para no reabrir la revisión de Meta antes del arranque.
+- **Control 1 (16/10 07:30 Bolivia):** campaña, 2 conjuntos y 2 anuncios **ACTIVE** (aprobados). `ads_get_errors` vacío.
+  Cuenta `64830109` **ACTIVE** y con medio de pago. Arranca a las 08:00. Próximo control: 09:30.
