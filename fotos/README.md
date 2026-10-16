@@ -13,6 +13,7 @@ negros). Para la campaña conviene pedirle los **originales** (más calidad). So
 | Archivo | Qué muestra | Uso sugerido |
 |---|---|---|
 | `2025-drone-laguna-casa-y-camino.jpg` | Drone: la laguna, la casa y el camino de entrada en una sola toma | **Foto principal** (V1 y V3) |
+| `2025-drone-laguna-casa-y-camino-4x5.jpg` | La misma, recortada a **4:5** (1170×1462) para el feed de Facebook (16/10/2026) | **Foto del anuncio nuevo** si no se usa el post |
 | `2025-orilla-pasto-y-laguna.jpg` | A ras del suelo: pasto verde a la orilla de la laguna | V3 (casa de campo), segunda del carrusel |
 | `2025-10-17-boost-marketplace-vista-aerea.jpg` | Drone: casa, corral con brete, corralón, ganado y pampa (la de mejor calidad, sacada de Meta) | **Foto principal V2** (ganadero) |
 | `2025-drone-alambrado-hacia-la-laguna.jpg` | Drone bajo: alambrado y monte con la laguna al fondo | Carrusel (muestra alambrado y laguna) |

@@ -21,10 +21,17 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Aviso anterior:** boost de Marketplace del 17 al 20/10/2025 (cuenta personal `64830109`): 20,57 Bs, 6
   conversaciones, ninguna seria: "preguntan el precio y se van" (`textos-anuncios.md`).
 - **Meta:** cuenta publicitaria **personal de Jorge, `64830109`** (no se mueve al portfolio). Página **"Venta
-  estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco", verificada con el MCP el 15/10/2026. WhatsApp: el del **padre de Jorge** (compartido con tubos), **conectado a la página según Jorge** (15/10; el MCP no lo puede leer).
+  estancias" (`1445747361945494`)** en el portfolio "Jorge Velasco". WhatsApp del **padre de Jorge** (compartido con
+  tubos) **conectado**: el borrador lo muestra (15/10/2026). Sin Instagram.
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
-- **Próximo paso:** el plan de 10 pasos de `plan.md` (15/10/2026). Pasos 1, 3 y 6 hechos; 2 lo maneja Jorge en persona; 4 a medias (sin comparables). Paso 8:
-  3 borradores sin aprobar. Fotos en `fotos/` (paso 5). **Texto aprobado: V1.** Paso 7: página creada, **logo B2 elegido**; logo, portada y **primera publicación subidos** (dicho por Jorge, 15/10); falta el link del post y el WhatsApp. Paso 9: **segmentación decidida** (`plan.md`): 2 conjuntos Trinidad/Santa Cruz 50-50, 30-65+, 75 Bs en 3 días, sin Marketplace, a WhatsApp. **Campaña creada como BORRADOR** (`52537356511050`, ver bitácora); falta el anuncio (post) y que Jorge agregue intereses. No publicar sin su visto bueno. Construir sí, lotear no. **Tono de las respuestas: camba, como habla Jorge, firmado como el dueño.**
+- **Plan (`plan.md`):** pasos 1, 3, 5, 6 y 8 hechos (texto **V1** aprobado, logo **B2**); 2 lo maneja Jorge en persona;
+  4 a medias (sin comparables); 7 casi listo (página, logo, portada, primera publicación y WhatsApp).
+- **Paso 9 — campaña en BORRADOR** `52537356511050` (sin publicar, 0 Bs gastados): conjuntos **Trinidad**
+  `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, solo feed de Facebook, 37,50 Bs cada
+  uno, a WhatsApp, intereses agro que puso Jorge. **Inicio 16/10 08:00, fin domingo 19/10 08:00** (hora de Bolivia).
+- **Falta: los anuncios.** Jorge dijo "hacelos vos". Necesito **el link de la publicación** o que Jorge suba la foto
+  `fotos/2025-drone-laguna-casa-y-camino-4x5.jpg` a la biblioteca de la cuenta: el MCP no puede subir imágenes acá.
+  **No publicar sin su "publicala".** Construir sí, lotear no. **Tono: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
 
@@ -271,3 +278,16 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   repo no tienen URL pública para subirlas). Se le pidió el link a Jorge.
 - **Ojo:** el inicio quedó en 16/10 08:00 y ya es 16/10: al publicar hay que poner una hora de inicio real (receta de
   Kakau: una vez pasada, no se puede cambiar).
+
+### 16 de octubre de 2026 (20:10 del 15/10 en Bolivia) — Intento de armar los anuncios sin el link del post
+- **Corrección de la entrada anterior:** el "ya es 16/10" era la hora UTC. En Bolivia todavía es jueves 15/10 a la noche:
+  el **inicio del 16/10 08:00 sigue en el futuro**. Si se publica antes de esa hora, arranca a las 8.
+- **Subir la foto por el MCP:** `ads_creative_upload_local_image` responde "se está habilitando de a poco; probá más
+  adelante" para la cuenta `64830109`. `ads_creative_upload_media` pide una URL pública (o la app interactiva, que esta
+  sesión no tiene). Subirla a Canva para sacar una URL: **el proxy bloquea `www.canva.com`**. Sin salida desde acá.
+- **Biblioteca de imágenes de la cuenta:** las mismas 5 de siempre (sin nombre); ninguna muestra la laguna.
+- **Hecho:** recorte **4:5** de la foto principal para el feed (`fotos/2025-drone-laguna-casa-y-camino-4x5.jpg`, 1170×1462,
+  sin cielo de más): entran la laguna, la casa y el camino.
+- **Se le pidió a Jorge una de dos:** (A) el link de la publicación → anuncio con el post (`object_story_id`); o (B) subir
+  la foto 4:5 a la biblioteca de la cuenta → anuncio nuevo con V1 y botón de WhatsApp (`image_hash`).
+
