@@ -90,3 +90,29 @@ Catálogo completo y cuáles no usar: `fotos/README.md`.
 | Fecha | Texto (o archivo) | Dónde | Gasto | Consultas | Serios |
 |---|---|---|---|---|---|
 | | (ninguno todavía) | | | | |
+
+## Presentación en carrusel (16/10/2026) — **borrador, sin aprobar**
+
+**Jorge** (16/10/2026): *"no me gustó para nada cómo quedó la publicación, haceme algo con Canva más profesional"*, con
+todas sus fotos, que se vea bien cada imagen y "que sea como una presentación": qué tiene, **que es propiedad urbana**,
+que está cerca, qué se puede hacer ahí.
+
+- **Formato:** 7 láminas verticales 4:5 (1080×1350), para publicarlas como publicación de varias fotos en Facebook y
+  usarlas en el anuncio. Paleta del logo B2: azul marino, ocre y crema; títulos con serifa.
+- **"Propiedad urbana" vuelve** porque Jorge lo pidió. Antes se había sacado por la **hipótesis** de que atrajo a quien
+  busca un lote (`comprador.md`). Para no llamar a loteadores, va junto a "de gran extensión" y a los usos de la lámina 6.
+- **Lo que no va:** precio, "lotear", papeles (los charla Jorge) y el 1,3 km (la franja de 10 m es de un vecino: el frente
+  propio son **800 m**).
+
+| # | Título | Texto | Foto |
+|---|---|---|---|
+| 1 | EN VENTA · CALOCHA | 530 hectáreas sobre la laguna Suárez · Propiedad urbana de gran extensión · A 6,6 km de Trinidad, Beni | Drone: laguna, casa y camino |
+| 2 | Cerca de todo | A 6,6 km de Trinidad · Se entra 600 m desde la carretera a Loreto · Acceso todo el año | Camino de entrada |
+| 3 | 800 metros sobre la laguna Suárez | 800 m de frente propio a la laguna Suárez · Uno de los lugares más conocidos de Trinidad y del Beni | Orilla y laguna |
+| 4 | El campo | 530 ha tituladas · 500 ha de pasto natural (arrocillo) · 30 ha de monte · 4 pozas de agua más la laguna | Pampa |
+| 5 | Lista para trabajar | Casa · Alambrado perimetral en buen estado · Corral con brete y corralón · Se vende sin ganado: todo lo demás queda | Aérea de casa y corrales |
+| 6 | ¿Qué se puede hacer en Calocha? | **Producir:** ganadería en un campo listo, pegado a la ciudad · **Vivir o descansar:** tu casa de campo sobre la laguna · **Invertir:** tierra titulada a minutos de Trinidad | — |
+| 7 | Venta directa del dueño | Atendemos a interesados en invertir, en producir o en tener su casa de campo sobre la laguna · Visitas con cita · Escribinos por WhatsApp | Orilla o laguna |
+
+**Pendiente de Jorge:** aprobar los textos (sobre todo la lámina 6) y subir las fotos a Canva → "Subidos": este entorno no
+puede subir archivos a Canva (el proxy bloquea `www.canva.com`).
