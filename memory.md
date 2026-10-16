@@ -31,7 +31,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   uno, a WhatsApp, intereses agro que puso Jorge. **Inicio 16/10 08:00, fin domingo 19/10 08:00** (hora de Bolivia).
 - **Falta: los anuncios.** Jorge pidió una presentación profesional en vez de la primera publicación: **hecha en Moda**
   (`textos-anuncios.md`), 8 láminas con **fotos reales** y mapa en el **pin de Calocha** (-14.884522, -64.857659). Exportada a
-  `presentacion/` (JPG + PDF), **con sello "moda.app" del plan gratis**: Jorge decide. **Sin aprobar.** Red: acceso completo.
+  `presentacion/` (JPG + PDF) **sin sello**: rehecha en HTML + Chromium (`presentacion/fuente/`). Jorge pidió Creative Claw,
+  que no conectó en esta sesión. **Sin aprobar.** Red: acceso completo.
   **No publicar sin su "publicala".** Construir sí, lotear no. **Tono: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
@@ -331,4 +332,11 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `file_6S4XDF5M2H95XS5KZPZEP7CE35`.
 - **Exportación:** `presentacion/` (8 JPG + PDF). El plan gratis de Moda agrega un sello "moda.app" abajo a la derecha: no se
   quitó (es la marca del plan gratis). Se le dieron opciones a Jorge.
+
+### 16 de octubre de 2026 — Láminas sin sello
+- **Jorge:** "hacé la opción A, sin el sello. Hacelo con Creative Claw".
+- **Creative Claw:** sus herramientas no están en la sesión: el servidor falló al iniciar (`ERR_PROXY_TUNNEL`, cuando la red
+  estaba bloqueada). Hace falta una sesión nueva o reconectarlo (y quizás iniciar sesión en Creative Claw).
+- **Hecho:** las 8 láminas en HTML (`presentacion/fuente/laminas.py`), renderizadas con Playwright/Chromium del entorno, sin
+  sello. Reemplazan a las de Moda en `presentacion/`. El mapa es un recorte del mapa de Moda (atribución Mapbox/OSM visible).
 

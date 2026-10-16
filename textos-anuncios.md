@@ -150,3 +150,8 @@ originales siguen en `fotos/`). Mapa centrado en el **pin de Calocha** (-14.8845
 abajo a la derecha de cada exportación**: no se borra a mano; Jorge decide (plan pago, dejarlo o rehacer el render por fuera
 de Moda). **Sin aprobar todavía.**
 
+**Sin sello (16/10/2026):** Jorge eligió rehacerlas fuera de Moda, "sin el sello, con Creative Claw". **Creative Claw no
+está conectado en esta sesión** (falló al arrancar por el bloqueo de red de entonces). Se armaron las 8 láminas en HTML
+(`presentacion/fuente/`) y se renderizaron **con Chromium en el entorno**: mismo diseño, sin sello. Reemplazan a las de
+`presentacion/` (JPG + PDF). Cuando Creative Claw esté conectado, el mismo HTML va a `render_html_image` si Jorge lo quiere.
+
