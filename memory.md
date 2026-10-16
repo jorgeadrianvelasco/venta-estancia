@@ -103,3 +103,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   `delivery: off` / `account_spend_limit_reached`. Puede ser demora de Meta (hasta ~15 min) o que el pago no se completó.
   Re-chequeo programado a las 14:28 (`trig_01JhtNy92bMVmwmexHCG69jL`). Ojo: el historial usa la hora de la cuenta
   (Pacífico, UTC−7): 11:06 AM = 14:06 Bolivia.
+- **Re-chequeo del saldo (16/10 14:28 Bolivia):** sigue **sin carga** en la cuenta `64830109`: el historial solo tiene
+  "Payment method removed — Credit card" (14:06). Conjuntos con `delivery: off` / `account_spend_limit_reached`, 0,43 Bs y
+  38 impresiones en el día (sin cambios). Se le pidió a Jorge una captura de "Fondos disponibles" y que confirme que la carga
+  la hizo en la cuenta 64830109 y no en la de Kakau (esa no se revisa: regla 2).
