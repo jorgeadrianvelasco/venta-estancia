@@ -67,5 +67,7 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   está habilitando de a poco; `ads_creative_upload_media` necesita una URL pública, y el proxy de la sesión bloquea Canva
   y `fbcdn`. Salidas: que Jorge suba la foto a la biblioteca de imágenes de la cuenta (después se lee el `image_hash` con
   `ads_get_ad_images`) o que pase el link de una publicación de la página (`object_story_id` = `1445747361945494_<postID>`).
+- **Desde el 16/10/2026 el entorno tiene acceso completo a la red** (lo cambió Jorge): la subida a Moda (`agents.moda.app`)
+  y los pines de Google Maps ya funcionan. Probar de nuevo `fbcdn` y Canva antes de dar algo por bloqueado.
 - **El MCP no lista las publicaciones de la página**: el ID del post solo sale del link que pasa Jorge.
 - **Horas:** el MCP da la hora en UTC. Bolivia = UTC − 4. No confundir "ya es 16/10" en UTC con el día en Bolivia.

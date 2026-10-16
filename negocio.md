@@ -10,7 +10,7 @@ Cuando un dato se confirma, se anota la fecha.
 | Nombre | **Calocha** | 15/10/2026 |
 | Dueño(s) y quién decide el precio | **Jorge** es el dueño y decide el precio | 15/10/2026 |
 | Provincia / municipio | **Cercado, municipio Trinidad.** Jorge lo confirmó (sin el título a mano); coincide con la ubicación de la laguna Suárez ([Wikipedia](https://en.wikipedia.org/wiki/Su%C3%A1rez_Lake), [Ley 2604](https://www.lexivox.org/norms/BO-L-2604.xhtml)). Cotejar con el folio real cuando esté | 15/10/2026 |
-| Ubicación | A 6,6 km de Trinidad, sobre la laguna Suárez (según el aviso de 2025, que Jorge confirmó que es Calocha) | 15/10/2026 |
+| Ubicación | A 6,6 km de Trinidad, sobre la laguna Suárez (según el aviso de 2025, que Jorge confirmó que es Calocha). **Pin de Jorge: -14.884522, -64.857659**, en la orilla este de la laguna, cerca de la carretera a Loreto ([Google Maps](https://maps.app.goo.gl/FCMzghnqHacJfcw49)). En línea recta desde el centro de Trinidad son ~7,3 km (cálculo con coordenadas aproximadas de la plaza); el 6,6 km es el dato de Jorge | 16/10/2026 |
 | Distancia y ruta desde la ciudad más cercana | A 6,6 km de Trinidad; se entra **600 m desde la carretera a Loreto** | 15/10/2026 |
 | Frente a la laguna | **Dos tramos:** **800 m colindantes** con la laguna (toca la orilla) y **1,3 km a 10 m** de la orilla. La franja de 10 m **es de un vecino**: en ese tramo no hay salida directa a la laguna. **El frente propio sobre la laguna son los 800 m** | 15/10/2026 |
 | Acceso en época de lluvia | **Acceso todo el año** | 15/10/2026 |

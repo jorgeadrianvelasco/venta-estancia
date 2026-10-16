@@ -144,3 +144,9 @@ puede subir archivos a Canva (el proxy bloquea `www.canva.com`).
 rota. **A confirmar con Jorge:** que la foto de la orilla (lámina 3) sea del tramo de **800 m propio** y no del de 1,3 km
 (la franja de 10 m es del vecino). "530 ha tituladas" sigue siendo lo que dijo Jorge, sin el título a la vista.
 
+**Estado (16/10/2026, noche):** fotos reales colocadas en las 8 láminas (recortadas a la proporción de cada marco; las
+originales siguen en `fotos/`). Mapa centrado en el **pin de Calocha** (-14.884522, -64.857659) con marcador. Exportado a
+`presentacion/` (8 JPG de 1080×1350 + `calocha-presentacion.pdf`). **El plan gratis de Moda pone un sello "moda.app"
+abajo a la derecha de cada exportación**: no se borra a mano; Jorge decide (plan pago, dejarlo o rehacer el render por fuera
+de Moda). **Sin aprobar todavía.**
+

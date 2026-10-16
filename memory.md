@@ -29,9 +29,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Paso 9 — campaña en BORRADOR** `52537356511050` (sin publicar, 0 Bs gastados): conjuntos **Trinidad**
   `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, solo feed de Facebook, 37,50 Bs cada
   uno, a WhatsApp, intereses agro que puso Jorge. **Inicio 16/10 08:00, fin domingo 19/10 08:00** (hora de Bolivia).
-- **Falta: los anuncios.** Jorge dijo "hacelos vos", pero **no le gustó la primera publicación**: pidió una presentación
-  profesional. Está en **Moda** (`textos-anuncios.md`, 16/10): 8 láminas listas, **faltan las fotos** (Jorge las sube en
-  moda.app → Drive; el proxy no deja subirlas desde acá). **Solo fotos reales**: Canva metió stock y Jorge lo rechazó.
+- **Falta: los anuncios.** Jorge pidió una presentación profesional en vez de la primera publicación: **hecha en Moda**
+  (`textos-anuncios.md`), 8 láminas con **fotos reales** y mapa en el **pin de Calocha** (-14.884522, -64.857659). Exportada a
+  `presentacion/` (JPG + PDF), **con sello "moda.app" del plan gratis**: Jorge decide. **Sin aprobar.** Red: acceso completo.
   **No publicar sin su "publicala".** Construir sí, lotear no. **Tono: camba, como habla Jorge, firmado como el dueño.**
 
 ## Bitácora
@@ -316,4 +316,19 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Mapa (lámina 2):** Jorge dijo que la laguna está bien ubicada, pero **Calocha no queda donde estaba el marcador** (centro
   de la laguna). Se sacó el marcador. Mandó un pin: https://maps.app.goo.gl/FCMzghnqHacJfcw49. **No se pudo abrir** (proxy):
   se le pidieron las coordenadas en números. Cuando lleguen: anotarlas en `negocio.md` y centrar el mapa ahí con marcador.
+
+### 16 de octubre de 2026 — Acceso completo, fotos reales en Moda y pin de Calocha
+- **Jorge** puso el acceso a la red en **completo** (no tenía la opción "limitado"). Ya funcionan `agents.moda.app` y
+  `maps.app.goo.gl`.
+- **Pin:** el link de Jorge resuelve a **-14.884522, -64.857659** (orilla este de la laguna Suárez, al sur del balneario
+  Finca Paraíso de Dios, cerca de la carretera a Loreto). Anotado en `negocio.md`. En línea recta desde el centro de Trinidad
+  da ~7,3 km (coordenadas de la plaza aproximadas); el 6,6 km es dato de Jorge y queda.
+- **Fotos en Moda:** subidas por PUT a la URL de `upload` + `upload(storage_key=…)`. Para que encajen, se recortan antes a la
+  proporción de cada marco (scratchpad `recortes/`), y se ponen con `canvas_edit` → `update(id, {src: 'file_…'})`.
+- **IDs de archivos en Moda:** portada `file_7W6EJ57FAS96P8Y09QC2G72GJV`, orilla `file_0JZ49GN3QW86TBMYG7DHQNWJAA`, pampa
+  (recorte) `file_4RQ9NXNYF784JVWZND07Y230SY`, casa y corrales (recorte) `file_473Y88Z67M9AWTK79V26D3V4M0`, alambrado (recorte)
+  `file_4Z4RH18GF881W9KMHT8DD2TRFR`, camino (recorte) `file_7BX1YQSVW59EAA5NGPE6HD7J4J`, cierre (recorte de la portada, arriba)
+  `file_6S4XDF5M2H95XS5KZPZEP7CE35`.
+- **Exportación:** `presentacion/` (8 JPG + PDF). El plan gratis de Moda agrega un sello "moda.app" abajo a la derecha: no se
+  quitó (es la marca del plan gratis). Se le dieron opciones a Jorge.
 
