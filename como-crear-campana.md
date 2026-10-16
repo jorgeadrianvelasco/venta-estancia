@@ -69,5 +69,12 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   `ads_get_ad_images`) o que pase el link de una publicación de la página (`object_story_id` = `1445747361945494_<postID>`).
 - **Desde el 16/10/2026 el entorno tiene acceso completo a la red** (lo cambió Jorge): la subida a Moda (`agents.moda.app`)
   y los pines de Google Maps ya funcionan. Probar de nuevo `fbcdn` y Canva antes de dar algo por bloqueado.
+- **Imágenes a la cuenta, lo que funciona (16/10/2026):** repo público + `ads_creative_upload_media` (`URL`) con
+  `https://raw.githubusercontent.com/jorgeadrianvelasco/venta-estancia/<commit>/<ruta>`. Los links con `?token=` de un repo
+  privado los frena el control de seguridad ("fuga de credenciales"): no usarlos.
+- **Carrusel:** en Facebook solo 1:1 (o 9:16); 4:5 es solo para catálogo. JSON que funcionó: `link_data.child_attachments`
+  (una tarjeta por lámina con `image_hash`, `name` y CTA `WHATSAPP_MESSAGE` con `app_destination: WHATSAPP` y link
+  `https://api.whatsapp.com/send`), `multi_share_optimized: false`, `multi_share_end_card: false`, texto en `message`.
+- **El MCP no publica ni lista las publicaciones de la página**: la "publicación" sale como anuncio.
 - **El MCP no lista las publicaciones de la página**: el ID del post solo sale del link que pasa Jorge.
 - **Horas:** el MCP da la hora en UTC. Bolivia = UTC − 4. No confundir "ya es 16/10" en UTC con el día en Bolivia.

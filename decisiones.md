@@ -103,6 +103,16 @@ sola cuenta publicitaria ([Meta](https://www.facebook.com/business/help/91588588
 
 ---
 
+## El repo es público (16/10/2026)
+
+**Decidido por Jorge:** "si no hay contraseñas, no me importa mantenerlo público". Se revisó todo el historial (46 commits):
+sin contraseñas, claves ni tokens. Queda a la vista: notas de venta, IDs de Meta (no dan acceso) y el correo de Jorge en 2
+commits.
+**Por qué:** Meta sube imágenes solo desde links públicos, y los links de un repo privado vencen (y el control de seguridad
+frena pasarlos). Con el repo público, los links `raw` de las láminas quedan fijos.
+**Consecuencias:** **el precio nunca se escribe acá** (ya era regla) y **los datos de los interesados (nombre, teléfono) no
+van al repo** mientras sea público: pendiente decidir dónde (Excel de Jorge) o volverlo privado antes del primer interesado.
+
 ## Pendientes de decidir
 
 | Tema | Por qué importa |

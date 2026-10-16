@@ -29,11 +29,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Paso 9 — campaña en BORRADOR** `52537356511050` (sin publicar, 0 Bs gastados): conjuntos **Trinidad**
   `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, solo feed de Facebook, 37,50 Bs cada
   uno, a WhatsApp, intereses agro que puso Jorge. **Inicio 16/10 08:00, fin domingo 19/10 08:00** (hora de Bolivia).
-- **Falta: los anuncios.** Jorge pidió una presentación profesional en vez de la primera publicación: **hecha en Moda**
-  (`textos-anuncios.md`), 8 láminas con **fotos reales** y mapa en el **pin de Calocha** (-14.884522, -64.857659). Exportada a
-  `presentacion/` (JPG + PDF) **sin sello**: rehecha en HTML + Chromium (`presentacion/fuente/`). Jorge pidió Creative Claw,
-  que no conectó en esta sesión. **Sin aprobar.** Red: acceso completo.
-  **No publicar sin su "publicala".** Construir sí, lotear no. **Tono: camba, como habla Jorge, firmado como el dueño.**
+- **Anuncios listos en el BORRADOR (16/10):** carrusel de las **8 láminas cuadradas** + texto V1 + botón de WhatsApp en los dos
+  conjuntos (Trinidad `52537366868250`, Santa Cruz `52537366894650`). **Falta el "publicala" de Jorge** → `ads_activate_entity`
+  a la campaña. Inicio 16/10 08:00 (Bolivia). **Repo público** (decisión de Jorge): nada de datos de interesados acá.
+  Receta para otras líneas: `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.**
 
 ## Bitácora
 
@@ -360,4 +359,16 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Publicar en la página:** el MCP de Meta no publica posts orgánicos. Desde acá la publicación sale como **anuncio en
   carrusel**, que en Facebook exige 1:1 → se hicieron las **8 láminas cuadradas** (`presentacion/cuadradas/`,
   `presentacion/fuente/laminas_cuadradas.py`).
+
+### 16 de octubre de 2026 — Repo público, carrusel en el borrador y receta para los tubos
+- **Jorge** hizo público el repo ("si no hay contraseñas, no me importa"). Revisión del historial: sin claves. Decisión en
+  `decisiones.md`: nada de datos de interesados mientras sea público.
+- **Imágenes 1:1 subidas** con links `raw` públicos (commit `9556392`): hashes `62729c9ddcf3802e744fbf4b3ad4935c`,
+  `cc2a2037a5eb16b994c3ca8f51706ba5`, `2ed6f1bbb042f77123f325cbc9e30a05`, `013bd8363b9ca07aef4ad0ffa2e85526`,
+  `a088bbd2b25bf1d90ddebdfe7fc9882e`, `32f760a91e1db011d99a7f14a34da94c`, `c9eb640bf12989dc6d82cfda00b753df`,
+  `a951e14d75d3a1fb00b1dbe35753d153` (en orden 01 a 08).
+- **Anuncios creados en borrador, sin errores:** Trinidad `52537366868250`, Santa Cruz `52537366894650`. Carrusel en orden
+  fijo, sin tarjeta final, texto V1, CTA WhatsApp. Vista previa generada con `ads_get_ad_preview`.
+- **Receta para el próximo repo** (pedido de Jorge, para los tubos): `receta-repo-nuevo.md`.
+- **Pendiente:** "publicala" → activar la campaña. Después: controles (antes del arranque, 1,5 h después, al cierre).
 

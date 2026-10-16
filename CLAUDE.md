@@ -21,6 +21,7 @@ Jorge es quien lleva la venta. Quién es dueño y quién decide el precio: **pen
 | `documentacion.md` | Cuando un interesado pide papeles, o antes de prometer que algo está en regla |
 | `como-crear-campana.md` | Antes de crear, activar o cambiar una campaña: la receta del MCP de Meta y sus trampas |
 | `skills.md` | Índice de las skills de `.claude/skills/` |
+| `receta-repo-nuevo.md` | Para armar el repo de otra línea (tubos, abanicos…) sin repetir lo que acá costó horas |
 
 ## Lo mínimo que no se puede olvidar
 

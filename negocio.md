@@ -72,5 +72,5 @@ Cuando un dato se confirma, se anota la fecha.
 
 | Fecha | Campaña | Gasto | Consultas | Interesados serios | Visitas |
 |---|---|---|---|---|---|
-| 16 al 19/10/2026 (borrador) | **"Calocha - WhatsApp - Prueba 3 dias (oct 2026)"** (`52537356511050`), cuenta `64830109`, **BORRADOR sin publicar**. Conjuntos Trinidad 40 km (`52537356525250`) y Santa Cruz 30 km (`52537356542650`), 37,50 Bs c/u, 30-65+, solo feed de Facebook, a WhatsApp. Falta el anuncio | 0 | — | — | — |
+| 16 al 19/10/2026 (borrador) | **"Calocha - WhatsApp - Prueba 3 dias (oct 2026)"** (`52537356511050`), cuenta `64830109`, **BORRADOR sin publicar**. Conjuntos Trinidad 40 km (`52537356525250`) y Santa Cruz 80 km (`52537356542650`), 37,50 Bs c/u, 30-65+, solo feed de Facebook, a WhatsApp. **Anuncios (16/10): carrusel de las 8 láminas cuadradas con texto V1** — Trinidad `52537366868250`, Santa Cruz `52537366894650`. Sin publicar | 0 | — | — | — |
 | 17 al 20/10/2025 | Boost de Marketplace "En venta propiedad urbana a 6.6 km de trinidad sobre la laguna suarez" (cuenta `64830109`). Calocha, confirmado por Jorge | 20,57 Bs | 6 conversaciones | 0 (Jorge: "la gente pregunta el precio y se va") | 0 |
