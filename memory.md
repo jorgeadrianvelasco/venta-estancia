@@ -98,3 +98,8 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   las 13:00 (ya se sabía la causa), se programó un recordatorio el **sábado 17 a las 09:00** (`trig_01BmzGuYTM4TX7QZGUukHW8w`)
   y se cambió el control de las 12:00 (`trig_01TcGXhtnhi9qFFSwam94sWn`) para que primero mire si ya hay saldo. Pendiente
   ofrecerle correr el cierre al lunes 19 para compensar el día perdido (no se cambia sin su sí).
+- **Carga de saldo (16/10 14:07 Bolivia):** Jorge: "ya cargué los 75 Bs". En el historial de la cuenta **no aparece la carga**:
+  el único movimiento de hoy es "Payment method removed — Credit card" (Jorge, 14:06 Bolivia). Los 2 conjuntos siguen con
+  `delivery: off` / `account_spend_limit_reached`. Puede ser demora de Meta (hasta ~15 min) o que el pago no se completó.
+  Re-chequeo programado a las 14:28 (`trig_01JhtNy92bMVmwmexHCG69jL`). Ojo: el historial usa la hora de la cuenta
+  (Pacífico, UTC−7): 11:06 AM = 14:06 Bolivia.
