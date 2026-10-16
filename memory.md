@@ -263,3 +263,11 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   ubicación. **Trinidad termina el 18/10 08:00** (Bolivia) y Santa Cruz el 19/10 08:00: Trinidad quedó en 2 días
   (18,75 Bs/día). Se le preguntó si fue a propósito.
 - **Falta:** ❌ **ningún anuncio** en el borrador (solo campaña y 2 conjuntos): sin anuncio no se puede publicar.
+
+### 16 de octubre de 2026 — Fecha de Trinidad corregida; los anuncios esperan el link del post
+- **Jorge:** "hacelos vos [los anuncios], que terminen los dos el domingo".
+- **Hecho:** conjunto Trinidad (`52537356525250`) → `end_time` 2026-10-19T08:00:00-0400 (igual que Santa Cruz). Sigue en borrador.
+- **Anuncios:** no se pudieron crear: hace falta el ID de la publicación (el MCP no lista posts de la página y las fotos del
+  repo no tienen URL pública para subirlas). Se le pidió el link a Jorge.
+- **Ojo:** el inicio quedó en 16/10 08:00 y ya es 16/10: al publicar hay que poner una hora de inicio real (receta de
+  Kakau: una vez pasada, no se puede cambiar).
