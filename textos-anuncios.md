@@ -140,3 +140,7 @@ puede subir archivos a Canva (el proxy bloquea `www.canva.com`).
 | 7 | Usos | ¿Qué se puede hacer en Calocha? 01 Producir · 02 Vivir o descansar · 03 Invertir | — |
 | 8 | Cierre | VISITAS CON CITA · **Venta directa del dueño** · Atendemos a interesados en invertir, en producir o en tener su casa de campo sobre la laguna · botón "Escribinos por WhatsApp" · VENTA ESTANCIAS · CALOCHA | Drone de la laguna (otra parte de la foto principal u otra que suba Jorge) |
 
+**Revisión de contenido (16/10/2026, agente revisor contra `negocio.md` y las reglas):** ningún dato sin respaldo ni regla
+rota. **A confirmar con Jorge:** que la foto de la orilla (lámina 3) sea del tramo de **800 m propio** y no del de 1,3 km
+(la franja de 10 m es del vecino). "530 ha tituladas" sigue siendo lo que dijo Jorge, sin el título a la vista.
+
