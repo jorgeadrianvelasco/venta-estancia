@@ -305,3 +305,15 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   no existe en Moda. Camino: Jorge sube en **moda.app → Drive → Subir**; después `file_list` da los `file_…`.
 - **Pendiente:** fotos en Moda → colocarlas → exportar PNG (Facebook) y PDF (WhatsApp) → que Jorge apruebe.
 
+### 16 de octubre de 2026 — Acceso para subir fotos y ubicación real de Calocha
+- **Jorge:** no sabe subir fotos a Moda y quiere que **siempre lo haga Claude**: pidió investigar cómo dar acceso.
+- **Causa:** la política de red del entorno bloquea `agents.moda.app` (subida a Moda), `www.canva.com` (subida a Canva),
+  `maps.app.goo.gl` (pines de Google Maps) y antes `*.fbcdn.net` (fotos de Meta). **Solución:** que Jorge agregue esos
+  dominios en el entorno (barra de título de la sesión → menú del entorno → Editar → Acceso a la red → Limitado +
+  dominios permitidos, sin destildar los gestores de paquetes), o suba el nivel de acceso.
+  Docs: https://code.claude.com/docs/en/cloud-environments#network-access. Con eso, Jorge manda fotos por el chat y Claude
+  las sube.
+- **Mapa (lámina 2):** Jorge dijo que la laguna está bien ubicada, pero **Calocha no queda donde estaba el marcador** (centro
+  de la laguna). Se sacó el marcador. Mandó un pin: https://maps.app.goo.gl/FCMzghnqHacJfcw49. **No se pudo abrir** (proxy):
+  se le pidieron las coordenadas en números. Cuando lleguen: anotarlas en `negocio.md` y centrar el mapa ahí con marcador.
+
