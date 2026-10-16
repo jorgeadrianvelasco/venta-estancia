@@ -81,3 +81,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   se cortan en el celular ("530 ha…"); no se tocó para no reabrir la revisión de Meta antes del arranque.
 - **Control 1 (16/10 07:30 Bolivia):** campaña, 2 conjuntos y 2 anuncios **ACTIVE** (aprobados). `ads_get_errors` vacío.
   Cuenta `64830109` **ACTIVE** y con medio de pago. Arranca a las 08:00. Próximo control: 09:30.
+- **Control 2 (16/10 09:30 Bolivia, 1,5 h de campaña):** Trinidad 0,34 Bs · 27 impresiones · 22 personas · 0 conversaciones.
+  **Santa Cruz 0 Bs · 0 impresiones**, ACTIVE y sin errores; el público (80 km, 30-65+, intereses agro) está bien armado.
+  El gasto va más lento de lo esperado (no se cumplió lo de "un tercio en la primera hora"). Se programó un control extra
+  a las 13:00 (`trig_01Qo7nmBDZAYNz9L5nxhPG47`) para ver si Santa Cruz arranca. No se cambió nada.
