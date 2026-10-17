@@ -111,3 +111,8 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   después). Historial: solo la tarjeta eliminada a las 14:06. Conjuntos `delivery: off` / `account_spend_limit_reached`.
   Hipótesis: carga hecha en otra cuenta (¿Kakau?), pago pendiente (medio local o banco) o pago que no pasó. Se le ofreció
   mirar **solo el historial de pagos de Kakau, sin tocar nada**, únicamente si él lo pide (regla 2).
+- **Sábado 17/10 05:46 Bolivia:** Jorge: "actívala de nuevo, no tiene fondos pero tiene refill auto funds". Campaña, conjuntos y
+  anuncios ya están en **ACTIVE**: no hay nada que activar. Siguen con `delivery: off` / `account_spend_limit_reached` y
+  **ningún cobro ni carga en el historial** desde el 16/10 (solo la tarjeta eliminada a las 14:06). Según Meta, la recarga
+  automática carga cuando el saldo **baja** del umbral y necesita una tarjeta que acepte cobros recurrentes. Con el saldo ya
+  en 0 no se disparó: hace falta **una carga manual** (Agregar fondos). No se tocó nada de la campaña.
