@@ -116,3 +116,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   **ningún cobro ni carga en el historial** desde el 16/10 (solo la tarjeta eliminada a las 14:06). Según Meta, la recarga
   automática carga cuando el saldo **baja** del umbral y necesita una tarjeta que acepte cobros recurrentes. Con el saldo ya
   en 0 no se disparó: hace falta **una carga manual** (Agregar fondos). No se tocó nada de la campaña.
+- **Recordatorio 09:00 (sábado 17/10 Bolivia):** sigue **frenada**: `delivery: off` / `account_spend_limit_reached`, 0 Bs hoy y
+  ningún movimiento nuevo en el historial (solo la tarjeta eliminada el 16/10 14:06). A las ~05:50 se le pasaron a Jorge los pasos
+  para cargar desde el celular (navegador con el link, o app Meta Ads Manager). Se le recordó y se le volvió a ofrecer correr
+  el cierre. Le quedan ~39 h si no se cambia.
