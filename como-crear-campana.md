@@ -92,3 +92,6 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   `effective_status: ACTIVE` **no lo muestran**: hay que pedir el campo `delivery`. **Antes de publicar**, confirmar con
   Jorge que el saldo cubra el presupuesto total (historial: `ads_account_get_activity_logs` con `event_category: budget`).
   El MCP no carga saldo: lo hace Jorge en Configuración de pagos → Fondos disponibles → Agregar fondos.
+- **Recarga automática ("auto reload") no reemplaza la primera carga** (17/10/2026): carga cuando el saldo *baja* del umbral y
+  necesita una tarjeta que acepte cobros recurrentes. Con el saldo ya en 0 no se disparó en 15 horas. Primero, una carga
+  manual; después, la automática mantiene el saldo.
