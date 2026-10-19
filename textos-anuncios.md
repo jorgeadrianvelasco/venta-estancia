@@ -89,7 +89,10 @@ Catálogo completo y cuáles no usar: `fotos/README.md`.
 
 | Fecha | Texto (o archivo) | Dónde | Gasto | Consultas | Serios |
 |---|---|---|---|---|---|
-| | (ninguno todavía) | | | | |
+| 16 al 18/10/2026 | V1 + carrusel de 8 láminas cuadradas (`presentacion/cuadradas/`) | Feed de Facebook, Trinidad 40 km y Santa Cruz 80 km, 30-65+ | 0,43 Bs | 0 conversaciones (Meta) | — |
+
+> **No sirve para medir el texto ni las láminas:** el anuncio se mostró solo 38 veces (~2 h del viernes) porque la cuenta
+> se quedó sin saldo. Hay que repetir la prueba con saldo cargado antes de sacar conclusiones.
 
 ## Presentación en carrusel (16/10/2026) — **borrador, sin aprobar**
 

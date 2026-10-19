@@ -26,14 +26,13 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Plan (`plan.md`):** pasos 1, 3, 5, 6 y 8 hechos (texto **V1** aprobado, logo **B2**); 2 lo maneja Jorge en persona;
   4 a medias (sin comparables); 7 casi listo (página, logo, portada, primera publicación y WhatsApp).
-- **Paso 9 — CAMPAÑA PUBLICADA (15/10 22:00 Bolivia, "publicala" de Jorge)** `52537356511050`, cuenta `64830109`: conjuntos
-  **Trinidad** `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, feed de Facebook, **37,50 Bs c/u
-  (75 Bs total)**, a WhatsApp, intereses agro. **Corre del viernes 16/10 08:00 al domingo 18/10 23:59** (hora de Bolivia).
-- **Anuncios:** carrusel de las **8 láminas cuadradas** + texto V1 + botón de WhatsApp (Trinidad `52537366868250`, Santa Cruz
-  `52537366894650`). **Controles** (send_later): 16/10 07:30 ✅, 09:30 ✅, 17/10 09:00 ✅ y 12:00 ✅ (sin saldo), queda 19/10 00:30.
-- **⚠️ FRENADA DESDE ~10:00 DEL 16/10: SIN SALDO.** La cuenta `64830109` es **prepaga (fondos disponibles)**: tenía 21 Bs
-  cargados en 2025, se gastaron 20,57 en el boost y los 0,43 que quedaban hoy. Jorge tiene que **agregar fondos** (75 Bs);
-  el MCP no puede. Al cargar, los anuncios vuelven solos. Jorge cambió de idea: **lo hace hoy 16/10** (13:55). Link de pagos: `business.facebook.com/billing_hub/payment_settings/?asset_id=64830109`.
+- **Paso 9 — primera campaña: NO SE PUDO MEDIR.** `52537356511050` (cuenta `64830109`, Trinidad `52537356525250` 40 km +
+  Santa Cruz `52537356542650` 80 km, 30-65+, feed de Facebook, 37,50 Bs c/u, carrusel de 8 láminas + V1). Programada del 16/10
+  08:00 al 18/10 23:59, pero **corrió solo ~2 h**: la cuenta es **prepaga** y tenía 0,43 Bs. Total: **0,43 Bs, 38 impresiones,
+  37 personas, 0 conversaciones**. Santa Cruz nunca salió. Jorge dijo que había cargado, pero la carga **nunca apareció**.
+  Anuncios aprobados y reutilizables (`52537366868250`, `52537366894650`).
+- **Próximo paso:** Jorge carga saldo (link `business.facebook.com/billing_hub/payment_settings/?asset_id=64830109`) → con su
+  sí, se corren las fechas de los conjuntos y se reactiva la misma campaña. **Antes de publicar, verificar el saldo.**
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -123,3 +122,11 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **Control 3 (sábado 17/10 12:00 Bolivia):** sigue **frenada sin saldo** (`delivery: off` / `account_spend_limit_reached`, 0 Bs
   hoy). Único movimiento nuevo: "Account billed" 0,43 Bs (17/10 09:12 Bolivia), el descuento de lo gastado el viernes.
   **Ninguna carga de fondos.** Se le recordó a Jorge en dos líneas. Quedan ~36 h hasta el cierre del domingo 23:59.
+
+### 19 de octubre de 2026 (00:30 Bolivia) — Cierre de la primera campaña
+- **Totales del 16 al 18/10:** Trinidad 0,43 Bs · 38 impresiones · 37 personas · 0 conversaciones; Santa Cruz 0 en todo.
+  Corrió ~2 h el viernes; después quedó en `delivery: off` / `account_spend_limit_reached` hasta el final. En el historial de
+  la cuenta no hubo ninguna carga de fondos entre el 16/10 y el cierre (solo la tarjeta eliminada el 16/10 y el cobro de
+  0,43 Bs el 17/10).
+- **Comparación con el boost de 2025** (20,57 Bs, 6 conversaciones, 0 serios): no se puede comparar, porque esta casi no salió.
+- **Pendiente de Jorge:** si llegó algún mensaje por WhatsApp (de los 37 que lo vieron) y si se pudo cargar el saldo.
