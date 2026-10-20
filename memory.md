@@ -191,3 +191,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **12:31 — primeras impresiones avisadas:** **Trinidad arrancó** (`delivery: active`, 0,06 Bs, 3 impresiones, 2 personas).
   Santa Cruz sigue en `preparing` (0). Se le avisó a Jorge. El control de las 13:00 (`trig_01LjqJ5Q7dxfMmgiJG4J1kgh`) se
   actualizó para comparar con esta lectura y ver si Santa Cruz arrancó. No se programan más chequeos cada 30 min.
+- **Control 13:01:** **Trinidad sube** (12:31 → 13:01: 0,06 → **0,20 Bs**, 3 → **12 impresiones**, 2 → **7 personas**), ritmo
+  ~0,28 Bs/h (la mitad de lo previsto, recién arranca). **Santa Cruz sigue en `preparing`** (0), ~1 h después de aprobado.
+  Sin errores ni conversaciones. Se le mandaron a Jorge capturas nuevas del anuncio (vista previa real + Chromium).
+  Pendiente: si Santa Cruz sigue en `preparing` a las 16:00, proponerle juntar las ciudades o sacar los intereses (con su sí).
