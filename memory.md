@@ -182,3 +182,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   programados para las 11:30. `ads_get_errors` vacío.
 - Los 3 controles (`trig_01LjqJ5Q7dxfMmgiJG4J1kgh`, `trig_01HVKGjJwo4qkrVCjqFcgg9C`, `trig_01SvHivegYjiJeNKCiVg6rxb`) se
   actualizaron con los IDs nuevos.
+- **11:26:** anuncios nuevos en **PENDING_REVIEW**, 0 impresiones. Jorge: "avisame cuando empiece a gastar; tras las primeras
+  visualizaciones, decime si sabemos que está funcionando". Vigilancia cada 30 min hasta las 18:00 (`trig_01QBtMNxXttPUnC5dG8WTA5M`,
+  se reprograma sola). Criterios de "funciona": aprobado + entregando + gasto e impresiones subiendo entre dos lecturas + ritmo
+  ~0,6 Bs/h por ciudad. La prueba final es el primer mensaje por WhatsApp.
