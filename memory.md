@@ -35,8 +35,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
   `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
-  `52538379101850`, Santa Cruz `52538379103250`. Al publicar: **en revisión de Meta**. Saldo: 150 Bs cargados el 20/10.
-  Controles: 20/10 13:00, 21/10 12:00 y 23/10 00:30.
+  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** a las 16:00 Trinidad llevaba 5,90 Bs, 217 impresiones y
+  **2 conversaciones de WhatsApp**; Santa Cruz arrancó (4 impresiones). Saldo: 150 Bs. Controles: 21/10 12:00 y 23/10 00:30.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -195,3 +195,8 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   ~0,28 Bs/h (la mitad de lo previsto, recién arranca). **Santa Cruz sigue en `preparing`** (0), ~1 h después de aprobado.
   Sin errores ni conversaciones. Se le mandaron a Jorge capturas nuevas del anuncio (vista previa real + Chromium).
   Pendiente: si Santa Cruz sigue en `preparing` a las 16:00, proponerle juntar las ciudades o sacar los intereses (con su sí).
+- **Control 16:00 — FUNCIONA:** Trinidad **5,90 Bs · 217 impresiones · 170 personas · 2 conversaciones iniciadas** (Meta),
+  ~2,95 Bs por conversación (el boost de 2025: ~3,43). Ritmo 13:01→16:00: ~1,9 Bs/h (más rápido que lo previsto; Meta reparte
+  el presupuesto total y no se pasa de 37,50). **Santa Cruz arrancó** (`delivery: active`, 0,02 Bs, 4 impresiones, 3 personas).
+  Sin errores. Ya no hace falta proponer cambios para Santa Cruz. Se le pidió a Jorge que mire el WhatsApp de su papá y pase
+  los 2 chats para calificarlos (repo público: sin nombres ni teléfonos).
