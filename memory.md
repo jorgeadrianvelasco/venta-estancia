@@ -186,3 +186,5 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   visualizaciones, decime si sabemos que está funcionando". Vigilancia cada 30 min hasta las 18:00 (`trig_01QBtMNxXttPUnC5dG8WTA5M`,
   se reprograma sola). Criterios de "funciona": aprobado + entregando + gasto e impresiones subiendo entre dos lecturas + ritmo
   ~0,6 Bs/h por ciudad. La prueba final es el primer mensaje por WhatsApp.
+- **12:00:** los 2 anuncios nuevos **aprobados** (ACTIVE), `delivery: pending / preparing`, 0 impresiones, sin errores. Próximo
+  chequeo 12:30 (`trig_` nuevo de send_later).
