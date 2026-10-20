@@ -31,9 +31,12 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   08:00 al 18/10 23:59, pero **corrió solo ~2 h**: la cuenta es **prepaga** y tenía 0,43 Bs. Total: **0,43 Bs, 38 impresiones,
   37 personas, 0 conversaciones**. Santa Cruz nunca salió. Jorge dijo que había cargado, pero la carga **nunca apareció**.
   Anuncios aprobados y reutilizables (`52537366868250`, `52537366894650`).
-- **SEGUNDA VUELTA, CORRIENDO (20/10/2026 ~10:00 Bolivia, "activa la propaganda" de Jorge):** saldo cargado (**150 Bs**,
-  20/10 09:53). Misma campaña y anuncios, **37,50 Bs c/u (75 Bs) hasta el jueves 22/10 23:59**. Jorge pidió hasta el viernes,
-  pero Meta exigía más de 42 Bs por conjunto y él eligió terminar el jueves. Controles: 20/10 13:00, 21/10 12:00 y 23/10 00:30.
+- **CAMPAÑA NUEVA (20/10/2026 11:25, pedido de Jorge "pausala y creá una exactamente igual y activala"):** la vieja
+  `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
+  `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
+  20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
+  `52538379101850`, Santa Cruz `52538379103250`. Al publicar: **en revisión de Meta**. Saldo: 150 Bs cargados el 20/10.
+  Controles: 20/10 13:00, 21/10 12:00 y 23/10 00:30.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -164,3 +167,18 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   `trig_01SvHivegYjiJeNKCiVg6rxb` (23/10 00:30, cierre).
 - **Aprendizaje:** al alargar un conjunto con presupuesto total, Meta exige un mínimo por día **contando desde el inicio
   original** del conjunto. Probar en borrador (`ads_update_entity` → `active_errors`) antes de publicar.
+
+### 20 de octubre de 2026 (11:25 Bolivia) — Campaña nueva en lugar de la vieja
+- **Síntoma:** después de alargar la vieja y cargar saldo, conjuntos y anuncios figuraban `delivery: active`, sin errores,
+  pero con **0 impresiones en 1 h 20 min**. `ads_get_errors` vacío, historial sin nada raro.
+- **Hallazgo:** en el creativo viejo, el link de WhatsApp de cada tarjeta trae un token con vencimiento (`exp`) el
+  **16/10 21:53 Bolivia**, ~24 h después de creado. **No está probado** que eso frene la entrega, pero es lo único raro.
+- **Jorge:** "Pausala esta y creá una exactamente igual. Y activala." Hecho: campaña vieja PAUSED (en vivo); campaña nueva
+  `52538379010850` (OUTCOME_ENGAGEMENT, AUCTION, sin categoría especial), conjuntos con la misma segmentación copiada del
+  original (edad 30-65, ubicación por radio, solo feed de Facebook, mismos intereses, advantage_audience 0), CONVERSATIONS →
+  WHATSAPP, page_id de "Venta estancias", 3750 c/u, inicio 20/10 11:30, fin 22/10 23:59. Anuncios con `object_story_spec`
+  nuevo (mismo `message`, mismos 8 `image_hash` y títulos, CTA WHATSAPP_MESSAGE con link `https://api.whatsapp.com/send`).
+  `ads_activate_entity` con los 5 objetos → PUBLISHING → lectura: anuncios **IN_PROCESS** (revisión), conjuntos
+  programados para las 11:30. `ads_get_errors` vacío.
+- Los 3 controles (`trig_01LjqJ5Q7dxfMmgiJG4J1kgh`, `trig_01HVKGjJwo4qkrVCjqFcgg9C`, `trig_01SvHivegYjiJeNKCiVg6rxb`) se
+  actualizaron con los IDs nuevos.

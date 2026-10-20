@@ -98,3 +98,7 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 - **Alargar un conjunto con presupuesto total** (20/10/2026): Meta exige un mínimo por día contando **desde el inicio original**
   del conjunto ("Budget Is Too Low: más de X Bs"). La edición queda en borrador: leer `active_errors` de `ads_update_entity`
   antes de publicar y ofrecerle a Jorge acortar o subir el monto.
+- **Reactivar una campaña vieja puede no entregar** (20/10/2026): con saldo y fechas nuevas figuraba `delivery: active`, pero
+  hizo 0 impresiones en 1 h 20 min, sin errores. El creativo traía en cada tarjeta un link de WhatsApp con token que vence a
+  las ~24 h (sospecha, no probado). Lo que se hizo: pausar la vieja y crear campaña, conjuntos y **anuncios nuevos** (no
+  reutilizar el `creative_id` viejo). Los anuncios nuevos vuelven a pasar por la revisión de Meta.
