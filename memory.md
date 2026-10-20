@@ -130,3 +130,8 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   0,43 Bs el 17/10).
 - **Comparación con el boost de 2025** (20,57 Bs, 6 conversaciones, 0 serios): no se puede comparar, porque esta casi no salió.
 - **Pendiente de Jorge:** si llegó algún mensaje por WhatsApp (de los 37 que lo vieron) y si se pudo cargar el saldo.
+- **Verificación de tarjeta (20/10/2026):** Jorge mandó una captura de Configuración de pagos (computadora, Chrome): Meta le pide
+  **"Verify card"** y queda trabada en "Please wait while we contact your bank". Atrás se ven dos avisos en rojo (cortados: uno
+  sobre la cuenta y uno de pago) con un botón azul. Probablemente por eso nunca entró la carga: **sin verificar la tarjeta, Meta no
+  la acepta**. Se le pasaron los pasos (aprobar en la app del banco, ventana de incógnito, habilitar compras por internet en el
+  exterior, otra tarjeta, soporte de Meta) y se le pidió la captura completa de los avisos.
