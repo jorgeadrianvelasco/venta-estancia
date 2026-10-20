@@ -135,3 +135,7 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   sobre la cuenta y uno de pago) con un botón azul. Probablemente por eso nunca entró la carga: **sin verificar la tarjeta, Meta no
   la acepta**. Se le pasaron los pasos (aprobar en la app del banco, ventana de incógnito, habilitar compras por internet en el
   exterior, otra tarjeta, soporte de Meta) y se le pidió la captura completa de los avisos.
+- **20/10/2026:** Jorge, desde la compu: la verificación de la tarjeta **no funciona** (probó de nuevo). Se le propuso: banco
+  (habilitar compras por internet en el exterior y la verificación de compras online), otra tarjeta, soporte de Meta, y mientras
+  tanto canales sin pago (InfoCasas y Evisos de `investigacion/precios-y-canales-trinidad.md`, publicación en la página).
+  Sigue pendiente la captura de los avisos rojos.
