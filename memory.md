@@ -188,3 +188,6 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   ~0,6 Bs/h por ciudad. La prueba final es el primer mensaje por WhatsApp.
 - **12:00:** los 2 anuncios nuevos **aprobados** (ACTIVE), `delivery: pending / preparing`, 0 impresiones, sin errores. Próximo
   chequeo 12:30 (`trig_` nuevo de send_later).
+- **12:31 — primeras impresiones avisadas:** **Trinidad arrancó** (`delivery: active`, 0,06 Bs, 3 impresiones, 2 personas).
+  Santa Cruz sigue en `preparing` (0). Se le avisó a Jorge. El control de las 13:00 (`trig_01LjqJ5Q7dxfMmgiJG4J1kgh`) se
+  actualizó para comparar con esta lectura y ver si Santa Cruz arrancó. No se programan más chequeos cada 30 min.
