@@ -144,3 +144,8 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   del portfolio a propósito (decisión del 15/10 y `reglas.md`, regla 2: nunca migrar una cuenta personal a un portfolio). Igual
   publicó el viernes y en 2025. Se le pidió **no tocar "Add"** ahí. Plan C, solo si fallan el banco y otra tarjeta: cuenta
   publicitaria nueva dentro del portfolio, lo que cambia la decisión del 15/10 y también necesita una tarjeta verificada.
+- **20/10/2026:** Jorge: "no es el banco, ni mi otra tarjeta la hace funcionar" (**2 tarjetas fallan** en la verificación). MCP:
+  cuenta `64830109` ACTIVE, `has_payment_method: true`, **sin eventos nuevos** en el historial desde el 17/10 (los intentos de
+  verificación no se registran ahí). Con dos tarjetas fallando, apunta a **Meta o a la cuenta**, no al banco. Opciones que se le
+  dieron: soporte de Meta (facturación) con los avisos rojos, probar desde la app Meta Ads Manager y el Plan C (cuenta nueva en el
+  portfolio, que **cambia la decisión del 15/10 y necesita su sí**).
