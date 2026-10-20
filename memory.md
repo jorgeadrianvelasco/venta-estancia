@@ -139,3 +139,8 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   (habilitar compras por internet en el exterior y la verificación de compras online), otra tarjeta, soporte de Meta, y mientras
   tanto canales sin pago (InfoCasas y Evisos de `investigacion/precios-y-canales-trinidad.md`, publicación en la página).
   Sigue pendiente la captura de los avisos rojos.
+- **20/10/2026:** Jorge preguntó si el problema era que el portfolio "Jorge Velasco" no tiene cuentas publicitarias (captura
+  de Configuración → Cuentas publicitarias: "No ad accounts added"). **No es la causa:** la `64830109` es personal y queda fuera
+  del portfolio a propósito (decisión del 15/10 y `reglas.md`, regla 2: nunca migrar una cuenta personal a un portfolio). Igual
+  publicó el viernes y en 2025. Se le pidió **no tocar "Add"** ahí. Plan C, solo si fallan el banco y otra tarjeta: cuenta
+  publicitaria nueva dentro del portfolio, lo que cambia la decisión del 15/10 y también necesita una tarjeta verificada.
