@@ -95,3 +95,6 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 - **Recarga automática ("auto reload") no reemplaza la primera carga** (17/10/2026): carga cuando el saldo *baja* del umbral y
   necesita una tarjeta que acepte cobros recurrentes. Con el saldo ya en 0 no se disparó en 15 horas. Primero, una carga
   manual; después, la automática mantiene el saldo.
+- **Alargar un conjunto con presupuesto total** (20/10/2026): Meta exige un mínimo por día contando **desde el inicio original**
+  del conjunto ("Budget Is Too Low: más de X Bs"). La edición queda en borrador: leer `active_errors` de `ads_update_entity`
+  antes de publicar y ofrecerle a Jorge acortar o subir el monto.

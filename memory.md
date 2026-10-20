@@ -31,8 +31,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   08:00 al 18/10 23:59, pero **corrió solo ~2 h**: la cuenta es **prepaga** y tenía 0,43 Bs. Total: **0,43 Bs, 38 impresiones,
   37 personas, 0 conversaciones**. Santa Cruz nunca salió. Jorge dijo que había cargado, pero la carga **nunca apareció**.
   Anuncios aprobados y reutilizables (`52537366868250`, `52537366894650`).
-- **Próximo paso:** Jorge carga saldo (link `business.facebook.com/billing_hub/payment_settings/?asset_id=64830109`) → con su
-  sí, se corren las fechas de los conjuntos y se reactiva la misma campaña. **Antes de publicar, verificar el saldo.**
+- **SEGUNDA VUELTA, CORRIENDO (20/10/2026 ~10:00 Bolivia, "activa la propaganda" de Jorge):** saldo cargado (**150 Bs**,
+  20/10 09:53). Misma campaña y anuncios, **37,50 Bs c/u (75 Bs) hasta el jueves 22/10 23:59**. Jorge pidió hasta el viernes,
+  pero Meta exigía más de 42 Bs por conjunto y él eligió terminar el jueves. Controles: 20/10 13:00, 21/10 12:00 y 23/10 00:30.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -149,3 +150,17 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   verificación no se registran ahí). Con dos tarjetas fallando, apunta a **Meta o a la cuenta**, no al banco. Opciones que se le
   dieron: soporte de Meta (facturación) con los avisos rojos, probar desde la app Meta Ads Manager y el Plan C (cuenta nueva en el
   portfolio, que **cambia la decisión del 15/10 y necesita su sí**).
+
+### 20 de octubre de 2026 — Segunda vuelta con saldo
+- **Saldo:** "Money added to balance" **150,00 Bs** (20/10 06:53 hora de la cuenta = 09:53 Bolivia). Jorge resolvió la
+  verificación de la tarjeta (no dijo cómo).
+- **Jorge:** "activa la propaganda desde ahorita hasta el viernes, gastemos lo que teníamos previsto". Al pasar `end_time` al
+  viernes 23/10, Meta marcó **"Budget Is Too Low": más de 42,06 Bs por conjunto** (el horario cuenta desde el 16/10). Se probó
+  en borrador: con 37,50 Bs hasta el **jueves 22/10 23:59** no hay error, y con 43 Bs hasta el viernes tampoco. Jorge eligió
+  **75 Bs hasta el jueves**.
+- **Hecho:** `end_time` `2026-10-22T23:59:00-0400` y `lifetime_budget` 3750 en los 2 conjuntos → `ads_activate_entity`
+  (object_ids de los 2 conjuntos, `publish_as_active`) → lectura en vivo: **delivery active** en los dos, `ads_get_errors` vacío.
+- **Controles:** `trig_01LjqJ5Q7dxfMmgiJG4J1kgh` (20/10 13:00), `trig_01HVKGjJwo4qkrVCjqFcgg9C` (21/10 12:00),
+  `trig_01SvHivegYjiJeNKCiVg6rxb` (23/10 00:30, cierre).
+- **Aprendizaje:** al alargar un conjunto con presupuesto total, Meta exige un mínimo por día **contando desde el inicio
+  original** del conjunto. Probar en borrador (`ads_update_entity` → `active_errors`) antes de publicar.
