@@ -35,8 +35,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
   `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
-  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 21/10 05:21 Trinidad llevaba 13,80 Bs, 642 impresiones y
-  **10 conversaciones de WhatsApp** (1,38 Bs c/u); Santa Cruz 8,77 Bs, 506 impresiones, **0 conversaciones**. Saldo: 150 Bs. Controles: 21/10 12:00 y 23/10 00:30.
+  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 21/10 08:25 Trinidad llevaba 16,94 Bs, 775 impresiones y
+  **10 conversaciones de WhatsApp** (1,69 Bs c/u); Santa Cruz 9,12 Bs, 538 impresiones, **1 conversación** (9,12 Bs). Saldo: 150 Bs. Controles: 21/10 12:00 y 23/10 00:30.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -208,3 +208,6 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **05:21 (resumen pedido por Jorge):** Trinidad **13,80 Bs · 642 impresiones · 404 personas · 10 conversaciones · 1,38 Bs c/u**.
   Santa Cruz **8,77 Bs · 506 impresiones · 430 personas · 0 conversaciones**. Total 22,57 de 75 Bs. Se le propuso (sin tocar
   nada) pasar lo que le queda a Santa Cruz a Trinidad. Siguen sin aparecer los chats para calificar.
+- **08:25:** Trinidad **16,94 Bs · 775 impresiones · 465 personas · 10 conversaciones (1,69 c/u)**, sin conversaciones nuevas
+  desde las 05:21 (madrugada). Santa Cruz **9,12 Bs · 538 · 446 · 1 conversación (9,12 c/u)**. Total 26,06 de 75 Bs,
+  11 conversaciones. Sigue en pie la propuesta de pasar lo que queda de Santa Cruz a Trinidad, y los chats sin calificar.
