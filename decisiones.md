@@ -113,6 +113,12 @@ frena pasarlos). Con el repo público, los links `raw` de las láminas quedan fi
 **Consecuencias:** **el precio nunca se escribe acá** (ya era regla) y **los datos de los interesados (nombre, teléfono) no
 van al repo** mientras sea público: pendiente decidir dónde (Excel de Jorge) o volverlo privado antes del primer interesado.
 
+## Santa Cruz sigue en la campaña aunque le cueste más cada conversación (21/10/2026)
+**Decidido:** 21/10/2026, por Jorge: *"los compradores más serios deben ser los de Santa Cruz, así que quiero darle una
+oportunidad"*. Al momento de decidir: Trinidad 10 conversaciones a 1,69 Bs; Santa Cruz 1 a 9,12 Bs.
+**Por qué:** el objetivo es interés serio, no volumen (ver arriba). En Santa Cruz está más plata para invertir.
+**Qué la haría cambiar:** que al cierre de la campaña (22/10) Santa Cruz no haya traído ningún interesado serio.
+
 ## Pendientes de decidir
 
 | Tema | Por qué importa |

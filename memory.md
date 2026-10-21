@@ -211,3 +211,6 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **08:25:** Trinidad **16,94 Bs · 775 impresiones · 465 personas · 10 conversaciones (1,69 c/u)**, sin conversaciones nuevas
   desde las 05:21 (madrugada). Santa Cruz **9,12 Bs · 538 · 446 · 1 conversación (9,12 c/u)**. Total 26,06 de 75 Bs,
   11 conversaciones. Sigue en pie la propuesta de pasar lo que queda de Santa Cruz a Trinidad, y los chats sin calificar.
+- **Decisión de Jorge (21/10 ~08:30):** **Santa Cruz sigue** ("los compradores más serios deben ser los de Santa Cruz").
+  No se pausa ni se mueve presupuesto. Anotado en `decisiones.md`. Para juzgar Santa Cruz importan los interesados serios,
+  no el costo por conversación: falta saber de qué ciudad es cada chat.
