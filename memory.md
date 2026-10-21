@@ -35,8 +35,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
   `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
-  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** a las 17:40 Trinidad llevaba 8,35 Bs, 337 impresiones y
-  **7 conversaciones de WhatsApp** (1,19 Bs c/u); Santa Cruz 1,16 Bs, 79 impresiones, 0 conversaciones. Saldo: 150 Bs. Controles: 21/10 12:00 y 23/10 00:30.
+  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 21/10 05:21 Trinidad llevaba 13,80 Bs, 642 impresiones y
+  **10 conversaciones de WhatsApp** (1,38 Bs c/u); Santa Cruz 8,77 Bs, 506 impresiones, **0 conversaciones**. Saldo: 150 Bs. Controles: 21/10 12:00 y 23/10 00:30.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -203,3 +203,8 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **17:40 (resumen pedido por Jorge):** Trinidad **8,35 Bs · 337 impresiones · 242 personas · 7 conversaciones · 1,19 Bs por
   conversación**. Santa Cruz 1,16 Bs · 79 impresiones · 73 personas · 0. Total 9,51 de 75 Bs. En 2025: 20,57 Bs → 6
   conversaciones (3,43 c/u). Falta saber cuántas son serias: se le volvió a pedir a Jorge que pase los chats.
+
+### 21 de octubre de 2026
+- **05:21 (resumen pedido por Jorge):** Trinidad **13,80 Bs · 642 impresiones · 404 personas · 10 conversaciones · 1,38 Bs c/u**.
+  Santa Cruz **8,77 Bs · 506 impresiones · 430 personas · 0 conversaciones**. Total 22,57 de 75 Bs. Se le propuso (sin tocar
+  nada) pasar lo que le queda a Santa Cruz a Trinidad. Siguen sin aparecer los chats para calificar.
