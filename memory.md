@@ -35,8 +35,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
   `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
-  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 21/10 08:25 Trinidad llevaba 16,94 Bs, 775 impresiones y
-  **10 conversaciones de WhatsApp** (1,69 Bs c/u); Santa Cruz 9,12 Bs, 538 impresiones, **1 conversación** (9,12 Bs). Saldo: 150 Bs. Controles: 21/10 12:00 y 23/10 00:30.
+  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 21/10 11:10 Trinidad llevaba 19,35 Bs, 892 impresiones y
+  **11 conversaciones de WhatsApp** (1,76 Bs c/u); Santa Cruz 10,49 Bs, 604 impresiones, **2 conversaciones** (5,25 Bs). Saldo: 150 Bs. Controles: 21/10 12:00 y 23/10 00:30.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -214,3 +214,5 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **Decisión de Jorge (21/10 ~08:30):** **Santa Cruz sigue** ("los compradores más serios deben ser los de Santa Cruz").
   No se pausa ni se mueve presupuesto. Anotado en `decisiones.md`. Para juzgar Santa Cruz importan los interesados serios,
   no el costo por conversación: falta saber de qué ciudad es cada chat.
+- **11:10:** Trinidad **19,35 Bs · 892 · 512 personas · 11 conversaciones (1,76 c/u)**. Santa Cruz **10,49 Bs · 604 · 473 ·
+  2 conversaciones (5,25 c/u)**. Total **29,84 de 75 Bs · 13 conversaciones**. Siguen sin pasar los chats.
