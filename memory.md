@@ -35,8 +35,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
   `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
-  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 22/10 06:02 Trinidad llevaba 27,93 Bs, 1.424 impresiones y
-  **12 conversaciones de WhatsApp** (2,33 Bs c/u); Santa Cruz 19,32 Bs, 1.164 impresiones, **4 conversaciones** (4,83 Bs). Saldo: 150 Bs. Control que queda: 23/10 00:30 (cierre).
+  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 22/10 17:43 Trinidad llevaba 33,66 Bs, 1.858 impresiones y
+  **13 conversaciones de WhatsApp** (2,59 Bs c/u); Santa Cruz 32,35 Bs, 1.648 impresiones, **7 conversaciones** (4,62 Bs). Saldo: 150 Bs. Control que queda: 23/10 00:30 (cierre).
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -227,3 +227,6 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **06:02:** Trinidad **27,93 Bs · 1.424 · 749 personas · 12 conversaciones (2,33 c/u)**: gastó 5,36 Bs desde las 15:35 del 21
   sin conversaciones nuevas. Santa Cruz **19,32 Bs · 1.164 · 841 · 4 conversaciones (4,83 c/u)**: una nueva. Total **47,25 de
   75 Bs · 16 conversaciones (2,95 c/u)**. Quedan 27,75 Bs hasta las 23:59 de hoy (Trinidad 9,57, Santa Cruz 18,18). Chats sin pasar.
+- **17:43:** Trinidad **33,66 Bs · 1.858 · 906 personas · 13 conversaciones (2,59 c/u)**: +1 desde las 06:02. Santa Cruz
+  **32,35 Bs · 1.648 · 1.124 · 7 conversaciones (4,62 c/u)**: +3; hoy aceleró (13,03 Bs en el día, más que Trinidad). Total
+  **66,01 de 75 Bs · 20 conversaciones (3,30 c/u)**. Quedan 8,99 Bs hasta las 23:59 (Trinidad 3,84, Santa Cruz 5,15). Chats sin pasar.
