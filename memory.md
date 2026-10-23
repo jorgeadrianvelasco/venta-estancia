@@ -35,10 +35,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
   `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
-  `52538379101850`, Santa Cruz `52538379103250`. **TERMINÓ COMPLETA (cierre 23/10 00:30):** **74,79 de 75 Bs, 22 conversaciones de
-  WhatsApp, 3,40 Bs c/u.** Trinidad 37,40 Bs, 2.322 impresiones, 13 conversaciones (2,88); Santa Cruz 37,39 Bs, 1.994, 9 (4,15).
+  `52538379101850`, Santa Cruz `52538379103250`. **TERMINÓ COMPLETA (jueves 22/10 23:59; cifras finales al 23/10 09:22):** **74,81 de 75 Bs, 22 conversaciones de
+  WhatsApp, 3,40 Bs c/u.** Trinidad 37,40 Bs, 2.327 impresiones, 13 conversaciones (2,88); Santa Cruz 37,41 Bs, 2.003, 9 (4,16).
   Igual costo por conversación que el boost de 2025 (3,43). **Falta lo que mide el éxito: cuántos serios y visitas** (Jorge no
-  pasó los chats). Saldo que queda: ~75 Bs (150 cargados − 74,79; no verificado). No hay controles programados.
+  pasó los chats). Saldo que queda: ~75 Bs (150 cargados − 74,81; no verificado). No hay controles programados.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -238,3 +238,10 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   Contra el boost de 2025 (20,57 Bs, 6 conversaciones, 3,43 c/u, 0 serios): 3,6 veces más conversaciones con el mismo costo
   por conversación. Contra la primera campaña (0,43 Bs, 38 impresiones): esa no se pudo medir. Serios y visitas: **pendiente**,
   se le pidió a Jorge. Anotado en `negocio.md`, `textos-anuncios.md` y `plan.md`. No se creó ni se activó nada.
+
+### 23 de octubre de 2026
+
+- **09:22 (Jorge: "dame resumen, decime cuándo acaba"):** la campaña ya había terminado (jueves 22/10 23:59). Meta ajustó un poco
+  las cifras desde las 00:30: Santa Cruz **37,41 Bs · 2.003 impresiones** (antes 37,39 · 1.994), Trinidad **2.327 impresiones**
+  (antes 2.322). Conversaciones sin cambio: **22 (13 + 9)**. Total final **74,81 Bs, 3,40 c/u**. No hay nada corriendo en la
+  cuenta: la campaña vieja sigue pausada. Se actualizaron `negocio.md`, `textos-anuncios.md` y `plan.md`. Los chats siguen sin pasar.
