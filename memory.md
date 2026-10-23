@@ -35,8 +35,10 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
   `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
-  `52538379101850`, Santa Cruz `52538379103250`. **FUNCIONA:** al 22/10 17:43 Trinidad llevaba 33,66 Bs, 1.858 impresiones y
-  **13 conversaciones de WhatsApp** (2,59 Bs c/u); Santa Cruz 32,35 Bs, 1.648 impresiones, **7 conversaciones** (4,62 Bs). Saldo: 150 Bs. Control que queda: 23/10 00:30 (cierre).
+  `52538379101850`, Santa Cruz `52538379103250`. **TERMINÓ COMPLETA (cierre 23/10 00:30):** **74,79 de 75 Bs, 22 conversaciones de
+  WhatsApp, 3,40 Bs c/u.** Trinidad 37,40 Bs, 2.322 impresiones, 13 conversaciones (2,88); Santa Cruz 37,39 Bs, 1.994, 9 (4,15).
+  Igual costo por conversación que el boost de 2025 (3,43). **Falta lo que mide el éxito: cuántos serios y visitas** (Jorge no
+  pasó los chats). Saldo que queda: ~75 Bs (150 cargados − 74,79; no verificado). No hay controles programados.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -230,3 +232,9 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **17:43:** Trinidad **33,66 Bs · 1.858 · 906 personas · 13 conversaciones (2,59 c/u)**: +1 desde las 06:02. Santa Cruz
   **32,35 Bs · 1.648 · 1.124 · 7 conversaciones (4,62 c/u)**: +3; hoy aceleró (13,03 Bs en el día, más que Trinidad). Total
   **66,01 de 75 Bs · 20 conversaciones (3,30 c/u)**. Quedan 8,99 Bs hasta las 23:59 (Trinidad 3,84, Santa Cruz 5,15). Chats sin pasar.
+- **Cierre (23/10 00:30, control automático):** la campaña terminó a las 23:59 del 22/10 (`completed`). Totales del 20 al 22/10:
+  Trinidad **37,40 Bs · 2.322 · 1.133 personas · 13 conversaciones (2,88 c/u)**; Santa Cruz **37,39 Bs · 1.994 · 1.345 · 9
+  conversaciones (4,15 c/u)**: +2 desde las 17:43. Total **74,79 de 75 Bs · 4.316 impresiones · 22 conversaciones (3,40 c/u)**.
+  Contra el boost de 2025 (20,57 Bs, 6 conversaciones, 3,43 c/u, 0 serios): 3,6 veces más conversaciones con el mismo costo
+  por conversación. Contra la primera campaña (0,43 Bs, 38 impresiones): esa no se pudo medir. Serios y visitas: **pendiente**,
+  se le pidió a Jorge. Anotado en `negocio.md`, `textos-anuncios.md` y `plan.md`. No se creó ni se activó nada.
