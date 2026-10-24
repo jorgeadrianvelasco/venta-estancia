@@ -33,7 +33,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   Anuncios aprobados y reutilizables (`52537366868250`, `52537366894650`).
 - **CAMPAÑA NUEVA (20/10/2026 11:25, pedido de Jorge "pausala y creá una exactamente igual y activala"):** la vieja
   `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
-  `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), mismo público, **37,50 Bs c/u, del
+  `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), **público agro pero distinto por ciudad** (SCZ con "Farmer", "Farm Owner Operator", ganado de carne; TDD con leche, lácteos, zona rural; ver `analisis/`), **37,50 Bs c/u, del
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
   `52538379101850`, Santa Cruz `52538379103250`. **TERMINÓ COMPLETA (jueves 22/10 23:59; cifras finales al 23/10 09:22):** **74,81 de 75 Bs, 22 conversaciones de
   WhatsApp, 3,40 Bs c/u.** Trinidad 37,40 Bs, 2.327 impresiones, 13 conversaciones (2,88); Santa Cruz 37,41 Bs, 2.003, 9 (4,16).
