@@ -267,3 +267,13 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
 - **Propuesto a Jorge (no creado):** prellenado por conjunto; público con bienes raíces e inversión además de agro; probar
   un formulario de "mayor intención" con preguntas de filtro o volver a mostrarle el anuncio a quien ya interactuó;
   anotar cada chat en Excel (ciudad, qué preguntó, perfil). Esperando su decisión.
+- **Análisis a fondo (24/10, agente pedido por Jorge; `analisis/campana-20-22-oct-2026.md`):** 5 hallazgos. (1) **Trinidad se agotó
+  el primer día:** 10 de 13 conversaciones el mar 20 (13,78 Bs, 1,38 c/u); mié y jue, 23,62 Bs por 3 (7,87 c/u). (2) **Santa Cruz
+  mejoró cada día** (0 → 4 → 5) y sus charlas fueron más largas: 2.º mensaje en 5 de 9 (Trinidad, 4 de 13). (3) **Horas:** la tarde,
+  de 12 a 18, dio 12 de 22 conversaciones a 2,71 c/u; la noche, de 18 a 24, 25,26 Bs por 5 (5,05 c/u, muchos clics sin mensaje);
+  la madrugada casi no gastó (3,18 Bs de 00 a 07). 21,03 Bs (28 %) cayeron en horas sin ninguna conversación. (4) **Los públicos
+  no eran iguales:** Santa Cruz tenía cargos "Farmer" y "Farm Owner Operator" y Ganado de carne; Trinidad, Leche, Lácteos y Zona
+  rural. Ninguno tenía bienes raíces ni inversión. (5) **Puja automática** ("mayor volumen", se paga por impresión): CPM de 16,05 Bs
+  en Trinidad y 18,65 en Santa Cruz; contra 2025, 18,6 % de los clics al botón terminó en conversación (2025: 1,9 %). Cifras finales:
+  74,83 Bs. No disponible: clics por lámina, rankings de calidad y comparación con otros anunciantes.
+
