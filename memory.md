@@ -37,8 +37,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
   `52538379101850`, Santa Cruz `52538379103250`. **TERMINÓ COMPLETA (jueves 22/10 23:59; cifras finales al 23/10 09:22):** **74,81 de 75 Bs, 22 conversaciones de
   WhatsApp, 3,40 Bs c/u.** Trinidad 37,40 Bs, 2.327 impresiones, 13 conversaciones (2,88); Santa Cruz 37,41 Bs, 2.003, 9 (4,16).
-  Igual costo por conversación que el boost de 2025 (3,43). **Falta lo que mide el éxito: cuántos serios y visitas** (Jorge no
-  pasó los chats). Saldo que queda: ~75 Bs (150 cargados − 74,81; no verificado). No hay controles programados.
+  Igual costo por conversación que el boost de 2025 (3,43). **Jorge (24/10): ningún interesado "muy interesado".** Al
+  padre le llegó solo "Hola, quiero más información": **el anuncio no tenía mensaje prellenado** (error al crearlo; ver
+  `como-crear-campana.md`). El público tuvo **solo intereses agro** (sin B ni D). Balance completo en la bitácora del 24/10. Saldo que queda: ~75 Bs (150 cargados − 74,81; no verificado). No hay controles programados.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -245,3 +246,24 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   las cifras desde las 00:30: Santa Cruz **37,41 Bs · 2.003 impresiones** (antes 37,39 · 1.994), Trinidad **2.327 impresiones**
   (antes 2.322). Conversaciones sin cambio: **22 (13 + 9)**. Total final **74,81 Bs, 3,40 c/u**. No hay nada corriendo en la
   cuenta: la campaña vieja sigue pausada. Se actualizaron `negocio.md`, `textos-anuncios.md` y `plan.md`. Los chats siguen sin pasar.
+
+### 24 de octubre de 2026 — Balance de la campaña y el problema del WhatsApp
+
+- **Jorge:** al padre le llega solo "Hola, quiero más información", sin la imagen ni saber qué preguntan; y **"no hubo ningún
+  interesado muy interesado"**. Pregunta si el público no fue el ideal o si faltó encontrar a la persona.
+- **Causa del mensaje genérico (verificado en lo que se creó):** los anuncios se armaron con CTA `WHATSAPP_MESSAGE` y link
+  `api.whatsapp.com/send`, **sin mensaje prellenado propio**, así que salió el texto por defecto de Meta. `decisiones.md` pedía
+  uno que diga "Calocha" y se pasó por alto. No se pudo confirmar con fuente oficial si la app WhatsApp Business muestra la
+  tarjeta del anuncio en el chat. Arreglo: prellenado por conjunto (producto + ciudad), anotado en `como-crear-campana.md` y
+  `receta-repo-nuevo.md`.
+- **Público que corrió (leído en `targeting`):** 30-65, feed de Facebook, Trinidad 40 km y Santa Cruz 80 km, `home`, `recent`
+  y `frequently_in`; intereses **solo agro**: Agribusiness, Milk, Dairy, Cattle, Livestock, Farm, Agriculture, Agronomy, Rural
+  area, Cattle feeding + empleador Agriculture. **Faltaron bienes raíces, inversión y turismo rural** (perfiles B y D del plan).
+- **Lo bueno:** el sistema funciona de punta a punta (anuncio aprobado, las dos ciudades entregaron, el WhatsApp recibió); 22
+  conversaciones a 3,40 Bs, 3,6 veces más que en 2025 por el mismo costo; el carrusel y el texto V1 quedan para reusar.
+- **Lo malo:** sin prellenado no se sabe de qué ciudad ni qué preguntó cada uno; público solo agro (llega a quien trabaja con
+  ganado, no a quien tiene capital para comprar); el objetivo "conversaciones" busca a quien escribe, no a quien compra; los
+  chats no se calificaron, así que no hubo forma de ajustar durante la campaña; se perdieron 4 días (16-20/10) por el saldo.
+- **Propuesto a Jorge (no creado):** prellenado por conjunto; público con bienes raíces e inversión además de agro; probar
+  un formulario de "mayor intención" con preguntas de filtro o volver a mostrarle el anuncio a quien ya interactuó;
+  anotar cada chat en Excel (ciudad, qué preguntó, perfil). Esperando su decisión.

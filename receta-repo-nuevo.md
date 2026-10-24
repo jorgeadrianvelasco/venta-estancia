@@ -75,6 +75,9 @@ copia de este** y se salta todo lo que acá costó horas. Cada línea va en su p
 - **Saldo:** si la cuenta es prepaga ("fondos disponibles"), **confirmar que el saldo cubra todo el presupuesto antes de
   publicar**. Con Calocha se frenó a las 2 h por falta de saldo, y ni `ads_get_errors` ni `effective_status` lo mostraban:
   pedir el campo `delivery` (`account_spend_limit_reached`).
+- **Mensaje prellenado de WhatsApp en cada anuncio** (lección de Calocha, 24/10/2026): sin él, al que atiende le llega
+  "Hola, quiero más información" y no sabe qué producto ni qué anuncio. Con un número compartido (tubos + estancia) es
+  obligatorio: un texto que nombre el producto y, si hay varios conjuntos, la ciudad. Ver `como-crear-campana.md`.
 - **Antes de publicar:** confirmar con Jorge el monto exacto, el día y la hora (la receta lo exige) y **verificar el día de
   la semana con `date`** (con Calocha se dijo "domingo 19" y el 19 era lunes). Publicar con `ads_activate_entity`
   (`object_ids` de todo + `publish_as_active`) y programar controles con `send_later`.

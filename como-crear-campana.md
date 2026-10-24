@@ -102,3 +102,13 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   hizo 0 impresiones en 1 h 20 min, sin errores. El creativo traía en cada tarjeta un link de WhatsApp con token que vence a
   las ~24 h (sospecha, no probado). Lo que se hizo: pausar la vieja y crear campaña, conjuntos y **anuncios nuevos** (no
   reutilizar el `creative_id` viejo). Los anuncios nuevos vuelven a pasar por la revisión de Meta.
+- **Mensaje prellenado de WhatsApp: configurarlo SIEMPRE** (24/10/2026). En la campaña del 20 al 22/10 no se puso, y a la
+  gente le salió el texto por defecto de Meta ("Hola, quiero más información"). Al padre de Jorge le llegaba eso solo, sin
+  saber de qué anuncio venía, en un número que comparte con los tubos. `decisiones.md` ya pedía un prellenado que diga
+  "Calocha" y se pasó por alto. Hacerlo **uno por conjunto** (p. ej. Trinidad / Santa Cruz) para saber la ciudad de cada chat.
+  **Por el MCP:** `ads_create_creative` no tiene campo para ese texto; con `ads_create_ad` y `object_story_spec` crudo no se
+  probó. Si no sale, Jorge lo pone en el Administrador (anuncio → plantilla de mensaje) **antes** de activar.
+- **Verificar los intereses que quedaron cargados contra los del plan** (24/10/2026): el plan pedía ganadería, bienes raíces e
+  inversión, agro y turismo rural; en la campaña corrieron **solo intereses agro** (Agribusiness, Milk, Dairy, Cattle,
+  Livestock, Farm, Agriculture, Agronomy, Rural area, Cattle feeding + empleador Agriculture). Los perfiles B (inversionista)
+  y D (quinta o turismo) no estaban en el público. Leer `targeting` con `ads_get_ad_entities` antes de publicar.
