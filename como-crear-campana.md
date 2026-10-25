@@ -78,3 +78,37 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 - **El MCP no publica ni lista las publicaciones de la página**: la "publicación" sale como anuncio.
 - **El MCP no lista las publicaciones de la página**: el ID del post solo sale del link que pasa Jorge.
 - **Horas:** el MCP da la hora en UTC. Bolivia = UTC − 4. No confundir "ya es 16/10" en UTC con el día en Bolivia.
+- **Días de la semana: verificarlos con `TZ=America/La_Paz date -d 2026-10-18 +%A` antes de escribir "el domingo"** (16/10/2026:
+  se dijo "domingo 19" cuando el 19 era lunes; Jorge lo corrigió antes de publicar).
+- **Publicar un borrador:** `ads_activate_entity` con `object_ids` = campaña + conjuntos + anuncios y `publish_as_active: true`;
+  devuelve PUBLISHING → confirmar con `ads_get_ad_entities` en vivo (ACTIVE / IN_PROCESS es normal antes del arranque).
+- **Vista previa para Jorge (16/10/2026):** el `preview_url` de `ads_get_ad_preview` viene con `&amp;` en vez de `&` y vence
+  en minutos: a Jorge no le abrió. Lo que sirvió: abrirlo con Chromium (Playwright, cambiando `&amp;` por `&`), expandir "Ver
+  más", recorrer el carrusel moviendo `scrollLeft` y mandarle las capturas con SendUserFile.
+- **Títulos de las tarjetas del carrusel:** en el celular se cortan a unos 10 caracteres ("530 ha…") por el botón de
+  WhatsApp. En la próxima campaña, usar títulos cortos o dejar que la imagen hable.
+- **La cuenta `64830109` es PREPAGA ("fondos disponibles")** (16/10/2026): la campaña arrancó y se frenó a las 2 horas con
+  `delivery: off` / `account_spend_limit_reached` porque el saldo era 0,43 Bs (quedaba de 2025). `ads_get_errors` vacío y
+  `effective_status: ACTIVE` **no lo muestran**: hay que pedir el campo `delivery`. **Antes de publicar**, confirmar con
+  Jorge que el saldo cubra el presupuesto total (historial: `ads_account_get_activity_logs` con `event_category: budget`).
+  El MCP no carga saldo: lo hace Jorge en Configuración de pagos → Fondos disponibles → Agregar fondos.
+- **Recarga automática ("auto reload") no reemplaza la primera carga** (17/10/2026): carga cuando el saldo *baja* del umbral y
+  necesita una tarjeta que acepte cobros recurrentes. Con el saldo ya en 0 no se disparó en 15 horas. Primero, una carga
+  manual; después, la automática mantiene el saldo.
+- **Alargar un conjunto con presupuesto total** (20/10/2026): Meta exige un mínimo por día contando **desde el inicio original**
+  del conjunto ("Budget Is Too Low: más de X Bs"). La edición queda en borrador: leer `active_errors` de `ads_update_entity`
+  antes de publicar y ofrecerle a Jorge acortar o subir el monto.
+- **Reactivar una campaña vieja puede no entregar** (20/10/2026): con saldo y fechas nuevas figuraba `delivery: active`, pero
+  hizo 0 impresiones en 1 h 20 min, sin errores. El creativo traía en cada tarjeta un link de WhatsApp con token que vence a
+  las ~24 h (sospecha, no probado). Lo que se hizo: pausar la vieja y crear campaña, conjuntos y **anuncios nuevos** (no
+  reutilizar el `creative_id` viejo). Los anuncios nuevos vuelven a pasar por la revisión de Meta.
+- **Mensaje prellenado de WhatsApp: configurarlo SIEMPRE** (24/10/2026). En la campaña del 20 al 22/10 no se puso, y a la
+  gente le salió el texto por defecto de Meta ("Hola, quiero más información"). Al padre de Jorge le llegaba eso solo, sin
+  saber de qué anuncio venía, en un número que comparte con los tubos. `decisiones.md` ya pedía un prellenado que diga
+  "Calocha" y se pasó por alto. Hacerlo **uno por conjunto** (p. ej. Trinidad / Santa Cruz) para saber la ciudad de cada chat.
+  **Por el MCP:** `ads_create_creative` no tiene campo para ese texto; con `ads_create_ad` y `object_story_spec` crudo no se
+  probó. Si no sale, Jorge lo pone en el Administrador (anuncio → plantilla de mensaje) **antes** de activar.
+- **Verificar los intereses que quedaron cargados contra los del plan** (24/10/2026): el plan pedía ganadería, bienes raíces e
+  inversión, agro y turismo rural; en la campaña corrieron **solo intereses agro** (Agribusiness, Milk, Dairy, Cattle,
+  Livestock, Farm, Agriculture, Agronomy, Rural area, Cattle feeding + empleador Agriculture). Los perfiles B (inversionista)
+  y D (quinta o turismo) no estaban en el público. Leer `targeting` con `ads_get_ad_entities` antes de publicar.

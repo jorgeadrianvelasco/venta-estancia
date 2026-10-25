@@ -26,339 +26,29 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Categoría especial de vivienda:** no hace falta para un público en Bolivia (`reglas.md`, regla 5).
 - **Plan (`plan.md`):** pasos 1, 3, 5, 6 y 8 hechos (texto **V1** aprobado, logo **B2**); 2 lo maneja Jorge en persona;
   4 a medias (sin comparables); 7 casi listo (página, logo, portada, primera publicación y WhatsApp).
-- **Paso 9 — campaña en BORRADOR** `52537356511050` (sin publicar, 0 Bs gastados): conjuntos **Trinidad**
-  `52537356525250` (40 km) y **Santa Cruz** `52537356542650` (80 km), 30-65+, solo feed de Facebook, 37,50 Bs cada
-  uno, a WhatsApp, intereses agro que puso Jorge. **Inicio 16/10 08:00, fin domingo 19/10 08:00** (hora de Bolivia).
-- **Anuncios listos en el BORRADOR (16/10):** carrusel de las **8 láminas cuadradas** + texto V1 + botón de WhatsApp en los dos
-  conjuntos (Trinidad `52537366868250`, Santa Cruz `52537366894650`). **Falta el "publicala" de Jorge** → `ads_activate_entity`
-  a la campaña. Inicio 16/10 08:00 (Bolivia). **Repo público** (decisión de Jorge): nada de datos de interesados acá.
-  Receta para otras líneas: `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.**
+- **Paso 9 — primera campaña: NO SE PUDO MEDIR.** `52537356511050` (cuenta `64830109`, Trinidad `52537356525250` 40 km +
+  Santa Cruz `52537356542650` 80 km, 30-65+, feed de Facebook, 37,50 Bs c/u, carrusel de 8 láminas + V1). Programada del 16/10
+  08:00 al 18/10 23:59, pero **corrió solo ~2 h**: la cuenta es **prepaga** y tenía 0,43 Bs. Total: **0,43 Bs, 38 impresiones,
+  37 personas, 0 conversaciones**. Santa Cruz nunca salió. Jorge dijo que había cargado, pero la carga **nunca apareció**.
+  Anuncios aprobados y reutilizables (`52537366868250`, `52537366894650`).
+- **CAMPAÑA NUEVA (20/10/2026 11:25, pedido de Jorge "pausala y creá una exactamente igual y activala"):** la vieja
+  `52537356511050` quedó **PAUSADA** (reactivada con saldo, figuraba "entregando" pero 0 impresiones en 1 h 20 min). Nueva
+  `52538379010850`: Trinidad `52538379034850` (40 km) y Santa Cruz `52538379035450` (80 km), **público agro pero distinto por ciudad** (SCZ con "Farmer", "Farm Owner Operator", ganado de carne; TDD con leche, lácteos, zona rural; ver `analisis/`), **37,50 Bs c/u, del
+  20/10 11:30 al jueves 22/10 23:59**. Anuncios con creativo **nuevo** (mismo texto V1 y mismas 8 láminas): Trinidad
+  `52538379101850`, Santa Cruz `52538379103250`. **TERMINÓ COMPLETA (jueves 22/10 23:59; cifras finales al 23/10 09:22):** **74,81 de 75 Bs, 22 conversaciones de
+  WhatsApp, 3,40 Bs c/u.** Trinidad 37,40 Bs, 2.327 impresiones, 13 conversaciones (2,88); Santa Cruz 37,41 Bs, 2.003, 9 (4,16).
+  Igual costo por conversación que el boost de 2025 (3,43). **Jorge (24/10): ningún interesado "muy interesado".** Al
+  padre le llegó solo "Hola, quiero más información": **el anuncio no tenía mensaje prellenado** (error al crearlo; ver
+  `como-crear-campana.md`). El público tuvo **solo intereses agro** (sin B ni D). Balance completo en la bitácora del 24/10. Saldo que queda: ~75 Bs (150 cargados − 74,81; no verificado). No hay controles programados.
+- **PRÓXIMA CAMPAÑA (Jorge, 25/10/2026; no creada):** 30 a 54 años (sin 55+); intereses + bienes raíces, inversión, turismo,
+  agronomía (sin leche, lácteos ni zona rural); mensaje de WhatsApp que diga de qué anuncio es (Calocha + ciudad); el resto
+  del análisis aprobado (60/40 para Santa Cruz, etc.). Todo en `decisiones.md`. Se crea solo cuando Jorge la pida.
+- **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
+  `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
 ## Bitácora
 
-### 15 de octubre de 2026 — Creación del repositorio
-- **Qué se hizo:** Jorge creó `jorgeadrianvelasco/venta-estancia` (privado). Se armó la estructura copiando de
-  Kakau la forma, no el contenido: reglas, decisiones, memoria con "Estado actual", hooks de inicio, commit y
-  cierre, comando `/cerrar`, receta de campañas de Meta, skills `calificar-interesado` y `crear-campana`, y el
-  agente `investigador-estancia`.
-- **Pendiente:** el aviso anterior de la estancia y todos los datos de `negocio.md`.
-
-### 15 de octubre de 2026 — Calocha, estructura de Meta y el boost de Marketplace de 2025
-- **Jorge:** la estancia se llama **Calocha**. Pidió ver si hace falta un portfolio para vender y buscar el aviso que
-  publicó "un par de veces" y que impulsó "sin que funcione para nada".
-- **Qué ve el MCP** (`ads_get_ad_accounts`, `ads_get_user_pages`, `ads_catalog_get_businesses`): cuenta personal
-  `64830109` (Jorge Velasco Avila, sin portfolio, ACTIVE, con forma de pago) y la de Kakau; portfolios "Kakau" y
-  "Jorge Velasco" (`160471911857072`, solo con la página "Perriwos"); como página para anunciar, solo la de Kakau.
-  El MCP no da el nombre del perfil conectado: se confirma recién cuando un cambio hecho por él aparece en el log.
-- **El aviso:** en `64830109` hay un solo boost: "En venta propiedad urbana a 6.6 km de trinidad sobre la laguna
-  suarez", Marketplace, 17 al 20/10/2025. 20,57 Bs, 20.594 impresiones, 10.600 de alcance, 590 clics, **6
-  conversaciones a 3,43 Bs**. Público de 40 millas alrededor de Trinidad, 18 a 65+. El log muestra que Jorge lo
-  reactivó el 3/3/2026 y lo apagó el 20/4/2026; después del 20/10/2025 no gastó más. Las otras publicaciones (sin
-  pauta) no se ven por API. La Biblioteca de anuncios no tiene nada con "Calocha" en Bolivia.
-- **Ayuda de Meta consultada:** la categoría de vivienda solo es obligatoria con público en EE. UU., Canadá o
-  partes de Europa ([1198401317374558](https://www.facebook.com/business/help/1198401317374558)). Un portfolio nuevo
-  crea **una** cuenta publicitaria; sube a 3 después de una campaña pagada
-  ([915885887059947](https://www.facebook.com/business/help/915885887059947)).
-- **Qué aprendimos:** el boost no falló en entrega: trajo conversaciones baratas. Lo débil fue el público (cualquiera
-  de 18 a 65 alrededor de Trinidad) y el monto (21 Bs en 3 días). Hipótesis hasta saber qué preguntaron las 6.
-- **Pendiente:** que Jorge confirme si era Calocha, qué preguntaron las 6, el texto y el precio del aviso, y si
-  acepta la propuesta de página y cuenta dentro del portfolio "Jorge Velasco".
-
-### 15 de octubre de 2026 — Jorge confirma Calocha, el precio oculto y el portfolio
-- **Jorge:** el boost de Marketplace de oct-2025 **es Calocha**; *"la gente pregunta el precio y se va. No me molesta
-  eso, quiero que la gente se interese [...] que no sean curiosos"*. El texto del aviso estaba bien. **El precio no
-  se publica**: es muy elevado y no quiere que se sepa. **Todo lo de Meta va en el portfolio "Jorge Velasco"**.
-- **Qué cambia:** el éxito se mide por interesados serios y visitas, no por conversaciones. El filtro de curiosos va
-  en el anuncio y en la primera respuesta (`decisiones.md`). Ubicación anotada en `negocio.md`.
-- **Pendiente:** que Jorge cree la página y la cuenta publicitaria dentro de "Jorge Velasco"; el WhatsApp de la venta;
-  el resto de la ficha.
-
-### 15 de octubre de 2026 — Verificación de página y cuenta en "Jorge Velasco"
-- **Qué se hizo:** `ads_get_ad_accounts`, `ads_get_pages_for_business` (`160471911857072`) y `ads_get_user_pages`.
-- **Resultado:** **todavía no están**. Cuentas visibles: `64830109` (personal, sin portfolio) y `2193563287857709`
-  (Kakau, no se usa). Páginas del portfolio "Jorge Velasco": solo "Perriwos" (`1866464063601665`). Páginas con
-  permiso de anunciar: solo la de Kakau.
-- **Pendiente:** que Jorge cree la página y la cuenta dentro de "Jorge Velasco" y se vuelva a verificar; respuestas
-  de la primera tanda de preguntas de la ficha (dueño, superficie, urbano o rural, municipio).
-
-### 15 de octubre de 2026 — Primera tanda de la ficha y cambio de cuenta publicitaria
-- **Jorge:** es **el dueño y decide el precio**; **530 ha, todas tituladas**; es un **predio urbano de gran extensión**
-  por estar sobre la laguna Suárez. La cuenta publicitaria **es la suya, `64830109`**, no una nueva en el portfolio.
-  Prefiere terminar la ficha antes de crear la página en business.facebook.com.
-- **Provincia:** Jorge creía Marbán. La laguna Suárez está en **Cercado, municipio Trinidad** (Wikipedia, Ley 2604);
-  Marbán limita con Trinidad al sur y sureste. Queda a confirmar con el folio real.
-- **Hallazgo:** la Ley 2604 (2003) declara la laguna patrimonio ecológico (614,39 ha). Anotado en `documentacion.md`
-  para consultar al abogado qué restricciones tiene la orilla.
-- **Pendiente:** segunda tanda de la ficha; la página; el WhatsApp de la venta.
-
-### 15 de octubre de 2026 — Segunda tanda de la ficha
-- **Jorge:** provincia **Cercado** (sin el título a mano; dice que los papeles están "todo perfecto"). *"800 metros sobre
-  la laguna y 1,3 km bordeando la laguna"* (falta aclarar). Acceso **todo el año**, a **600 m de la carretera a Loreto**.
-  **Con ganado**, 500 ha de pastura y **30 ha de monte**. **Casa** con energía a motor y **agua de lluvia**.
-- **Pendiente:** aclarar el frente a la laguna; pasturas (especie), aguadas, corrales y alambrado, si se vende con
-  ganado.
-
-### 15 de octubre de 2026 — Tercera tanda de la ficha y plan de 10 pasos
-- **Jorge:** el frente son **dos tramos**: 800 m colindantes con la laguna y 1,3 km a 10 m de la orilla. Pasturas
-  **naturales de arrocillo**. **Alambrado perimetral** en buen estado, **4 pozas** y la laguna. **Se vende sin ganado.**
-- **Jorge pidió** los 10 próximos pasos en orden cronológico: quedaron en `plan.md`.
-- **Pendiente:** de quién es la franja de 10 m; corrales, brete y potreros; forma de pago y moneda; equipos.
-
-### 15 de octubre de 2026 — Cierre de la ficha (paso 1 del plan)
-- **Jorge:** la franja de 10 m del tramo de 1,3 km **es de un vecino**. Hay **corral con brete y un corralón**. Pago
-  **negociable** en forma y monto. **Sin intermediario.** Todo queda en el predio menos los animales.
-- **Consecuencia para los anuncios:** el frente propio sobre la laguna son **800 m**; no se puede decir "2,1 km de
-  orilla". El 1,3 km se describe como "a 10 m de la laguna".
-- **Pendiente:** capacidad de carga (opcional); paso 2 (abogado) y paso 3 (perfil de comprador).
-
-### 15 de octubre de 2026 — Perfiles de comprador (paso 3 del plan)
-- **Jorge eligió:** B (inversionista que guarda tierra), C (ganadero o empresa que quiere campo cerca de la ciudad) y
-  D (quinta o turismo). **No eligió** A (desarrollador que lotea). Anotado en `comprador.md`.
-- **Se propuso** el borrador del filtro de curiosos (paso 6): una línea en el anuncio + 3 preguntas en la primera
-  respuesta (uso, plazo, visita), y el precio solo en persona o por llamada. **Sin aprobar**: no va a `respuestas.md`.
-- **Pendiente:** aprobación del filtro; paso 2 (abogado).
-
-### 15 de octubre de 2026 — Filtro de curiosos aprobado (paso 6) e investigación (paso 4)
-- **Jorge:** aprobó la línea del anuncio. La primera respuesta la quiso **en camba, como él habla, sin exagerar**,
-  diciendo que **él es el dueño**, y **sin preguntar el plazo**. El precio **se puede charlar por mensaje pero no sale
-  automático**: lo da él. Con esos cambios, aprobado (`respuestas.md`).
-- **Se lanzó** el agente `investigador-estancia` para el paso 4 (precios de referencia y canales cerca de Trinidad).
-
-### 15 de octubre de 2026 — Resultado de la investigación de mercado (paso 4)
-- **Qué se hizo:** el agente `investigador-estancia` buscó precios, valores oficiales, canales y restricciones de la
-  laguna. Resultado en `investigacion/precios-y-canales-trinidad.md` y 8 filas en `competencia.md`.
-- **Resultado:** **débil**. El proxy bloqueó todos los portales y normas: todo sale de resúmenes de buscador, sin abrir
-  los avisos. **Ningún aviso sobre la laguna Suárez ni la carretera a Loreto.** Estancias del Beni piden de ~10 a
-  2.000 USD/ha (rango inútil); dos cerca de Trinidad con agua, ~1.000-1.100 USD/ha. Un solo periurbano (16 ha). Nada
-  público de catastro ni INRA. Hay ordenanzas de 2010-2011 y Ley departamental 017 (2011) sobre la laguna, sin texto.
-- **Qué aprendimos:** desde este entorno no se pueden abrir portales bolivianos. Los comparables reales los tiene que
-  aportar Jorge (ventas que conozca) o abrirlos él. Para anuncios: **no prometer construir ni lotear** hasta el abogado.
-
-### 15 de octubre de 2026 — Papeles, construcción y borradores de anuncio (paso 8)
-- **Jorge:** los papeles (folio real, plano, impuestos, Ley 2604) **los charla él en persona**: Claude no los guarda
-  ni los manda. **En la laguna se puede construir pero no lotear** (por eso no se vende a loteadores). Las fotos y el
-  drone ya existen: están en el aviso de Marketplace de 2025.
-- **Fotos por el MCP:** solo hay una del aviso (la vista aérea ya guardada en `fotos/`). La creatividad del boost es
-  una publicación de Marketplace (`709824314797323`, STATUS, sin `image_url`). Las otras 4 imágenes de la cuenta son
-  de feb-2025 y el proxy bloquea `fbcdn.net`. **Ninguna muestra la laguna**: se le pidió a Jorge que las pase.
-- **Borradores:** V1 general, V2 ganadero, V3 laguna (`textos-anuncios.md`), sin aprobar.
-- **Siguiente:** aprobación de textos; fotos de la orilla; paso 7 (página y WhatsApp).
-
-### 15 de octubre de 2026 — Fotos del predio (paso 5)
-- **Jorge mandó 9 fotos por el chat** (capturas de celular de las del aviso de 2025). Se guardaron 7 en `fotos/`,
-  recortadas sin bordes negros (una era repetida y otra igual a la que ya estaba). Catálogo y uso en `fotos/README.md`.
-- **Foto principal:** `2025-drone-laguna-casa-y-camino.jpg` (laguna, casa y camino en una toma). **No usar** la de la
-  pampa con agua (puede leerse como que se inunda) ni la nublada.
-- **Pendiente:** originales en mejor calidad; aprobación de textos; WhatsApp y página (paso 7).
-
-### 15 de octubre de 2026 — Texto V1 aprobado y guía para la página (paso 7)
-- **Jorge eligió V1** (el general). V2 y V3 quedan como borradores no elegidos (`textos-anuncios.md`).
-- **Se le dio la guía** para crear la página "Estancia Calocha" en el portfolio "Jorge Velasco" desde Meta Business
-  Suite ([Meta 720478807965744](https://www.facebook.com/business/help/720478807965744)) y conectar el WhatsApp Business
-  desde Configuración → Cuentas vinculadas ([Meta 1583303048513172](https://www.facebook.com/business/help/1583303048513172)).
-- **Ojo para la verificación:** Jorge conectó el MCP cuando armó Kakau. Si la página nueva no aparece en
-  `ads_get_user_pages`, hay que reconectar el conector de Meta en claude.ai y tildar la página nueva **sin destildar
-  la de Kakau** (si no, se rompe el agente de Kakau).
-
-### 15 de octubre de 2026 — Página creada y verificada (paso 7)
-- **Jorge creó la página "Venta estancias"** (`1445747361945494`) en el portfolio "Jorge Velasco" desde Business
-  Suite (en inglés: Settings → Accounts → Pages → + Add). Casi entra en "Ad accounts": se le avisó que no agregue ahí
-  la cuenta `64830109`.
-- **MCP:** `ads_get_pages_for_business` la muestra en el portfolio; `ads_get_user_pages` la muestra junto a la de Kakau
-  (puede anunciar). **No hizo falta reconectar el conector.** `ads_get_ad_account_pages` de `64830109` vacío: normal.
-- **Pendiente:** foto de perfil, portada, presentación, primera publicación con V1; conectar WhatsApp Business.
-
-### 15 de octubre de 2026 — WhatsApp: número del padre de Jorge
-- **Jorge** quiere usar el **número de su padre** para la venta y preguntó si hace falta WhatsApp Business.
-- **Ayuda oficial de Meta** ([372008982225441](https://www.facebook.com/business/help/372008982225441)): desde marzo de
-  2024 los anuncios que llevan a WhatsApp **exigen WhatsApp Business**; un número personal no sirve. Se puede **pasar el
-  mismo número** gratis sin perder chats ni contactos, pero los chats personales y los de la venta quedan juntos.
-- **Se le preguntó:** quién responde (la respuesta aprobada dice "Soy Jorge, el dueño") y si ese número ya se usa para
-  los tubos del padre (un número solo se conecta a un negocio; además, regla 7: no mezclar líneas).
-- **Se le dieron** los pasos para cargar la página desde el celular (perfil, portada, presentación, publicación con V1).
-
-### 15 de octubre de 2026 — Logo con IA para la página
-- **Jorge pidió** una imagen hecha con IA en Canva para la página "Venta estancias" (es la primera publicación/imagen).
-- **Se hizo** un logo redondo: "VENTA DE ESTANCIAS · Beni • Bolivia", con pampa, laguna, palmeras, alambrado y
-  amanecer (Canva media `MAHYF22URdM`). Sugerido como **foto de perfil**; la portada sigue siendo la orilla real.
-- **Regla:** la imagen con IA es de marca. En anuncios y publicaciones de Calocha van **solo fotos reales**.
-- **Jorge:** el primer logo "se nota muchísimo que es IA". Se hicieron dos más sobrios: **A, líneas** (palmera, orilla,
-  verde oscuro, `MAHYFz49kG4`) y **B, marca de ganado** (monograma "VE", marrón sobre crema, `MAHYF1dius4`). Falta que elija.
-
-### 15 de octubre de 2026 — WhatsApp compartido con los tubos
-- **Jorge decidió:** el número de su padre atiende **tubos y Calocha**, conectado a las dos páginas. Responde el padre,
-  que también se llama Jorge: usa la primera respuesta aprobada tal cual. Anotado como excepción en `reglas.md` (regla 7)
-  y en `decisiones.md`.
-- **Meta:** se puede conectar varios números a una página ([228271686945544](https://www.facebook.com/business/help/228271686945544)).
-  Que un mismo número vaya a dos páginas **no está confirmado**: si la de tubos está en otro portfolio puede salir
-  "WhatsApp number linked to another Facebook business" ([2091769220999799](https://www.facebook.com/business/help/2091769220999799)).
-  La salida que da Meta (sacar el número del otro portfolio) **rompería los tubos**: si pasa, se consulta a Jorge.
-- **Pendiente:** conectar el número a "Venta estancias"; que Jorge elija logo (A líneas o B "VE").
-
-### 15 de octubre de 2026 — Pago y lo que falta para anunciar
-- **Jorge:** el WhatsApp se conecta después; primero quiere dejar listo el método de pago "y demás".
-- **MCP (`ads_get_ad_accounts`):** `64830109` ACTIVE, **ya tiene forma de pago**, moneda BOB, presupuesto diario mínimo
-  11,95 Bs. El MCP no muestra qué tarjeta es ni si está vencida: Jorge la revisa en Facturación.
-- **Instagram:** `ads_get_ig_accounts` de `64830109` vacío: no hay Instagram vinculado (opcional).
-- **Pendiente para la campaña:** presupuesto total y costo máximo por interesado serio (`negocio.md`, sin definir).
-- El agente `investigador-estancia` está investigando la identidad visual de competidores (BO, BR, AR) para mejores
-  prompts de logo en Canva.
-
-### 15 de octubre de 2026 — Identidad visual: investigación y tercera ronda de logos
-- **Jorge:** las versiones de líneas y "VE" eran "muy básicas y feas"; pidió un agente que mire competidores (BO, BR, AR)
-  y arme prompts para Canva. Resultado en `investigacion/identidad-visual-competidores.md` (débil: el proxy bloqueó
-  todos los sitios; solo resúmenes de buscador). Patrones: nombre propio y datos dan confianza; foto real del campo;
-  2-3 colores; marca simple que funcione chica; serif sobria. Agregó 2 filas de Century 21 Amazonía a `competencia.md`.
-- **Generadas:** A "E" serif verde y crema (`MAHYF5P7CNo`), B alambrado ocre y azul (`MAHYF57Fd4k`, parece escalera),
-  C portada verde (`MAHYF5qCAE8`). Falta que Jorge elija.
-- **Sugerencia del investigador (decide Jorge):** el nombre "Venta estancias" es genérico; las firmas serias usan un
-  nombre propio.
-- **Jorge eligió la B** (alambrado ocre sobre azul marino), "aunque ninguna me encantó". Que diga **"BOLIVIA"**, no
-  "Beni · Bolivia". **Sin Instagram por ahora**: se vende mejor en Facebook (`decisiones.md`).
-- **Cuarta ronda:** B1 igual con "BOLIVIA" (`MAHYF0zLHG4`) y **B2 con alambrado corregido** (`MAHYF5H25mc`, recomendada).
-
-### 15 de octubre de 2026 — Logo elegido y propuesta de primera campaña
-- **Jorge eligió la B2** (alambrado corregido, ocre sobre azul marino, "BOLIVIA"; Canva `MAHYF5H25mc`).
-- **Se armó un borrador de propuesta** para la primera campaña en `plan.md` (sin aprobar, no se creó nada): post V1 de
-  la página, solo Facebook, público Bolivia (Beni, Santa Cruz, La Paz, Cochabamba) 30-65+, 7 días. Faltan de Jorge:
-  monto, destino (esperar WhatsApp o Messenger), con o sin Marketplace.
-
-### 15 de octubre de 2026 — Primera publicación de la página
-- **Jorge** quiere hacer ya la primera publicación. **El MCP no puede publicar en la página** (no hay herramienta para
-  posts orgánicos): la hace Jorge desde el celular. Se le dio el paso a paso: V1 + 5 fotos reales en orden (drone
-  laguna, orilla, casa y corrales, alambrado, pampa), **"Publicar ahora", nunca "Impulsar"**.
-- **Pendiente:** que Jorge pase el link de la publicación (su ID se usa después como anuncio).
-- **Verificación tras "ya, fijate todo" (15/10/2026):** la página "Venta estancias" sigue con permiso de anunciar;
-  activity log de hoy **vacío** en `64830109` y sin campañas nuevas en la de Kakau → **no se impulsó nada**. El MCP **no
-  puede ver** publicaciones, foto de perfil ni portada de la página: para eso Jorge manda el link o captura.
-- **Jorge (15/10/2026):** "ya está la publicación, la foto de perfil y de cover. Confiá en mí". Se le preguntaron las
-  decisiones de la primera campaña (monto, destino, Marketplace) antes de crear nada.
-- **Respuestas de Jorge para la primera campaña (15/10/2026):** "25 Bs por 3 días" (a aclarar si es total o por día:
-  25 Bs en total queda debajo del mínimo diario de 11,95 Bs), destino **WhatsApp del padre**, **sin Marketplace**, "sí,
-  armala pausada" **pero "primero quiero hacer la segmentación"**. No se creó nada: falta segmentación, aclarar monto,
-  conectar el WhatsApp y el link del post.
-- **Segmentación decidida (15/10/2026):** Trinidad 50 % y Santa Cruz 50 % (dos conjuntos de 37,50 Bs), 30-65+, intereses
-  ganadería / bienes raíces e inversión / agro / turismo rural, **75 Bs en total** (25 Bs/día × 3). El MCP no tiene
-  buscador de intereses ni de ciudades: ciudades por coordenadas + radio; intereses los agrega Jorge en el Administrador.
-- **WhatsApp (15/10/2026):** el número del padre **va a estar en el portfolio de tubos**. En "Venta estancias" se conecta
-  **solo a la página** (no al portfolio "Jorge Velasco"): una cuenta de WhatsApp Business va en un solo portfolio. Riesgo
-  no verificado de choque entre portfolios: probar y re-verificar después de que tubos lo agregue. La configuración de
-  tubos no se hace desde este repo (regla 7).
-
-### 15 de octubre de 2026 — Primera campaña creada como BORRADOR
-- **Jorge:** conectó el WhatsApp del padre a "Venta estancias" (el MCP no tiene cómo leerlo; se prueba al publicar).
-  Pidió: "vos hacés toda y el público, pero me enviás el link para que yo añada más".
-- **Creado por el MCP en modo borrador** (no está publicado, no gasta): campaña **`52537356511050`** "Calocha - WhatsApp -
-  Prueba 3 dias (oct 2026)", `OUTCOME_ENGAGEMENT`, sin categoría especial. Conjuntos (ABO, `CONVERSATIONS` → `WHATSAPP`,
-  page `1445747361945494`, 37,50 Bs de presupuesto total c/u, 16/10 08:00 a 19/10 08:00 -04:00, 30-65, `advantage_audience: 0`,
-  solo feed de Facebook): **Trinidad 40 km** `52537356525250` (-14.8333, -64.9) y **Santa Cruz 30 km** `52537356542650`
-  (-17.7833, -63.1821). Validación del borrador: sin errores.
-- **Falta:** el anuncio (post V1; Jorge puede elegirlo en el Administrador con "usar publicación existente" o pasar el
-  link), los intereses (los agrega Jorge) y **publicar solo con su visto bueno**: al publicar sale ACTIVA.
-- Link: https://adsmanager.facebook.com/adsmanager/manage/adsets?act=64830109&selected_campaign_ids=52537356511050
-- **Ojo en el Administrador (15/10/2026):** Jorge entró por error al **boost viejo de Marketplace** (`6836819733446`,
-  "Completed"; errores de "no se puede editar" y ubicaciones: normales, es de 2025). Además hay un **borrador viejo**
-  "New Leads Campaign" (`6898918260046`, creado por Jorge el 3/3/2026, con categoría HOUSING y errores): **no publicarlo**.
-  La campaña nuestra está en borradores con el nombre "Calocha - WhatsApp - Prueba 3 dias (oct 2026)".
-
-### 15 de octubre de 2026 — Revisión del borrador después de los cambios de Jorge
-- **WhatsApp:** ✅ los dos conjuntos ya tienen el número del padre conectado (`page_whatsapp_number_id`
-  `1446613075192256`, número terminado en 629). Queda confirmado que la página tiene WhatsApp.
-- **Intereses que agregó Jorge:** todos agro/ganaderos (granja, ganado, agricultura, agronegocios, ganadería de carne,
-  lechería, caballos, zona rural; empleos de agricultura y "Farm Owner Operator" en Santa Cruz). **No** hay bienes raíces,
-  inversión ni turismo rural: cubre el perfil C, no B ni D.
-- **Cambios de Jorge:** Santa Cruz pasó a **80 km** de radio. Meta agregó `recent` y `frequently_in` a los tipos de
-  ubicación. **Trinidad termina el 18/10 08:00** (Bolivia) y Santa Cruz el 19/10 08:00: Trinidad quedó en 2 días
-  (18,75 Bs/día). Se le preguntó si fue a propósito.
-- **Falta:** ❌ **ningún anuncio** en el borrador (solo campaña y 2 conjuntos): sin anuncio no se puede publicar.
-
-### 16 de octubre de 2026 — Fecha de Trinidad corregida; los anuncios esperan el link del post
-- **Jorge:** "hacelos vos [los anuncios], que terminen los dos el domingo".
-- **Hecho:** conjunto Trinidad (`52537356525250`) → `end_time` 2026-10-19T08:00:00-0400 (igual que Santa Cruz). Sigue en borrador.
-- **Anuncios:** no se pudieron crear: hace falta el ID de la publicación (el MCP no lista posts de la página y las fotos del
-  repo no tienen URL pública para subirlas). Se le pidió el link a Jorge.
-- **Ojo:** el inicio quedó en 16/10 08:00 y ya es 16/10: al publicar hay que poner una hora de inicio real (receta de
-  Kakau: una vez pasada, no se puede cambiar).
-
-### 16 de octubre de 2026 (20:10 del 15/10 en Bolivia) — Intento de armar los anuncios sin el link del post
-- **Corrección de la entrada anterior:** el "ya es 16/10" era la hora UTC. En Bolivia todavía es jueves 15/10 a la noche:
-  el **inicio del 16/10 08:00 sigue en el futuro**. Si se publica antes de esa hora, arranca a las 8.
-- **Subir la foto por el MCP:** `ads_creative_upload_local_image` responde "se está habilitando de a poco; probá más
-  adelante" para la cuenta `64830109`. `ads_creative_upload_media` pide una URL pública (o la app interactiva, que esta
-  sesión no tiene). Subirla a Canva para sacar una URL: **el proxy bloquea `www.canva.com`**. Sin salida desde acá.
-- **Biblioteca de imágenes de la cuenta:** las mismas 5 de siempre (sin nombre); ninguna muestra la laguna.
-- **Hecho:** recorte **4:5** de la foto principal para el feed (`fotos/2025-drone-laguna-casa-y-camino-4x5.jpg`, 1170×1462,
-  sin cielo de más): entran la laguna, la casa y el camino.
-- **Se le pidió a Jorge una de dos:** (A) el link de la publicación → anuncio con el post (`object_story_id`); o (B) subir
-  la foto 4:5 a la biblioteca de la cuenta → anuncio nuevo con V1 y botón de WhatsApp (`image_hash`).
-
-### 16 de octubre de 2026 (noche del 15/10 en Bolivia) — Presentación profesional: Canva descartado, Moda armada
-- **Jorge:** "no me gustó para nada cómo quedó la publicación, haceme algo con Canva más profesional", "que sea como una
-  presentación, que diga qué cosas tiene, que es propiedad urbana, que es cerca, qué se puede hacer ahí".
-- **Canva:** `create-design` generó 7 láminas 16:9 (`DAHYIBt3tR8`) con **fotos de stock que no son de Calocha**; el
-  `resize-design` a 4:5 (`DAHYIPRhqsE`, gastó una prueba Pro: queda 1) desarmó el diseño. Jorge denegó seguir editando y dijo
-  que las láminas 1, 2, 4, 5 y 6 eran falsas. **Ojo:** la 3 y la 7, que le parecieron bien, **también eran stock**: se le avisó.
-- **Moda** (conector nuevo de Jorge, plan gratis): lienzo `cvs_26PX3C3T1297QS1XFB0R6P9YER` con 8 láminas 1080×1350. Mapa real
-  de Mapbox centrado en la laguna (el marcador siempre va al centro del mapa; `marker="lon,lat"` y `style="satellite"` se
-  ignoran). Sin kit de marca: colores del logo B2.
-- **Subir fotos, bloqueado desde la sesión:** `agents.moda.app` y `www.canva.com` dan 403 en el proxy; `<image src="data:...">`
-  no existe en Moda. Camino: Jorge sube en **moda.app → Drive → Subir**; después `file_list` da los `file_…`.
-- **Pendiente:** fotos en Moda → colocarlas → exportar PNG (Facebook) y PDF (WhatsApp) → que Jorge apruebe.
-
-### 16 de octubre de 2026 — Acceso para subir fotos y ubicación real de Calocha
-- **Jorge:** no sabe subir fotos a Moda y quiere que **siempre lo haga Claude**: pidió investigar cómo dar acceso.
-- **Causa:** la política de red del entorno bloquea `agents.moda.app` (subida a Moda), `www.canva.com` (subida a Canva),
-  `maps.app.goo.gl` (pines de Google Maps) y antes `*.fbcdn.net` (fotos de Meta). **Solución:** que Jorge agregue esos
-  dominios en el entorno (barra de título de la sesión → menú del entorno → Editar → Acceso a la red → Limitado +
-  dominios permitidos, sin destildar los gestores de paquetes), o suba el nivel de acceso.
-  Docs: https://code.claude.com/docs/en/cloud-environments#network-access. Con eso, Jorge manda fotos por el chat y Claude
-  las sube.
-- **Mapa (lámina 2):** Jorge dijo que la laguna está bien ubicada, pero **Calocha no queda donde estaba el marcador** (centro
-  de la laguna). Se sacó el marcador. Mandó un pin: https://maps.app.goo.gl/FCMzghnqHacJfcw49. **No se pudo abrir** (proxy):
-  se le pidieron las coordenadas en números. Cuando lleguen: anotarlas en `negocio.md` y centrar el mapa ahí con marcador.
-
-### 16 de octubre de 2026 — Acceso completo, fotos reales en Moda y pin de Calocha
-- **Jorge** puso el acceso a la red en **completo** (no tenía la opción "limitado"). Ya funcionan `agents.moda.app` y
-  `maps.app.goo.gl`.
-- **Pin:** el link de Jorge resuelve a **-14.884522, -64.857659** (orilla este de la laguna Suárez, al sur del balneario
-  Finca Paraíso de Dios, cerca de la carretera a Loreto). Anotado en `negocio.md`. En línea recta desde el centro de Trinidad
-  da ~7,3 km (coordenadas de la plaza aproximadas); el 6,6 km es dato de Jorge y queda.
-- **Fotos en Moda:** subidas por PUT a la URL de `upload` + `upload(storage_key=…)`. Para que encajen, se recortan antes a la
-  proporción de cada marco (scratchpad `recortes/`), y se ponen con `canvas_edit` → `update(id, {src: 'file_…'})`.
-- **IDs de archivos en Moda:** portada `file_7W6EJ57FAS96P8Y09QC2G72GJV`, orilla `file_0JZ49GN3QW86TBMYG7DHQNWJAA`, pampa
-  (recorte) `file_4RQ9NXNYF784JVWZND07Y230SY`, casa y corrales (recorte) `file_473Y88Z67M9AWTK79V26D3V4M0`, alambrado (recorte)
-  `file_4Z4RH18GF881W9KMHT8DD2TRFR`, camino (recorte) `file_7BX1YQSVW59EAA5NGPE6HD7J4J`, cierre (recorte de la portada, arriba)
-  `file_6S4XDF5M2H95XS5KZPZEP7CE35`.
-- **Exportación:** `presentacion/` (8 JPG + PDF). El plan gratis de Moda agrega un sello "moda.app" abajo a la derecha: no se
-  quitó (es la marca del plan gratis). Se le dieron opciones a Jorge.
-
-### 16 de octubre de 2026 — Láminas sin sello
-- **Jorge:** "hacé la opción A, sin el sello. Hacelo con Creative Claw".
-- **Creative Claw:** sus herramientas no están en la sesión: el servidor falló al iniciar (`ERR_PROXY_TUNNEL`, cuando la red
-  estaba bloqueada). Hace falta una sesión nueva o reconectarlo (y quizás iniciar sesión en Creative Claw).
-- **Hecho:** las 8 láminas en HTML (`presentacion/fuente/laminas.py`), renderizadas con Playwright/Chromium del entorno, sin
-  sello. Reemplazan a las de Moda en `presentacion/`. El mapa es un recorte del mapa de Moda (atribución Mapbox/OSM visible).
-
-### 16 de octubre de 2026 — Publicación con las láminas y anuncios del borrador
-- **Jorge:** "quiero que me hagas una publicación como la que hice y que a base de eso hagamos la misma campaña que habíamos
-  creado". Se le mandaron las 8 láminas (`presentacion/`).
-- **No se puede publicar en la página desde acá:** el MCP de Meta no tiene herramienta para publicar posts orgánicos. Jorge
-  publica el post (8 láminas + texto V1) y pasa el link → anuncios con `object_story_id` en los 2 conjuntos del borrador.
-- **Carrusel de anuncio, descartado para estas láminas:** en Facebook el carrusel manual solo acepta 1:1 o 9:16; el 4:5 es
-  solo para catálogo ([Meta 1114358518575630](https://www.facebook.com/business/help/1114358518575630)). Imagen única 4:5 sí
-  es la recomendada en el feed ([Meta 682655495435254](https://www.facebook.com/business/help/682655495435254)).
-- **Imágenes en la cuenta `64830109`:** portada `feb81d27245ec62a74f3e90c4273e2bf` y el campo `293529fb91585c61be69305063cdb0b4`
-  (subidas con los links temporales de GitHub). **El control de seguridad de la sesión frenó el resto por "fuga de
-  credenciales"** (el link lleva un token de acceso al repo privado): **no volver a usar ese camino**.
-
-### 16 de octubre de 2026 — "Quiero publicar desde aquí": repo público para las imágenes y carrusel cuadrado
-- **Jorge:** quiere publicar desde la sesión y que los links de GitHub "queden disponibles siempre".
-- **Respuesta:** los links con token de un repo privado vencen por diseño; hacer público `venta-estancia` expondría las notas
-  de venta. **Propuesta:** repo público aparte **`calocha-imagenes`** solo con imágenes de anuncios (links `raw` fijos, sin
-  token). La integración de GitHub de la sesión **no puede crear repos** (403): lo crea Jorge y después `add_repo`.
-- **Publicar en la página:** el MCP de Meta no publica posts orgánicos. Desde acá la publicación sale como **anuncio en
-  carrusel**, que en Facebook exige 1:1 → se hicieron las **8 láminas cuadradas** (`presentacion/cuadradas/`,
-  `presentacion/fuente/laminas_cuadradas.py`).
+Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`.
 
 ### 16 de octubre de 2026 — Repo público, carrusel en el borrador y receta para los tubos
 - **Jorge** hizo público el repo ("si no hay contraseñas, no me importa"). Revisión del historial: sin claves. Decisión en
@@ -372,3 +62,227 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Receta para el próximo repo** (pedido de Jorge, para los tubos): `receta-repo-nuevo.md`.
 - **Pendiente:** "publicala" → activar la campaña. Después: controles (antes del arranque, 1,5 h después, al cierre).
 
+### 16 de octubre de 2026 (21:50 en Bolivia) — Revisión del borrador y búsqueda de "la otra" publicación
+- **PR [#2](https://github.com/jorgeadrianvelasco/venta-estancia/pull/2) mergeado a `main`** (pedido de Jorge). La rama se
+  rehízo desde `main` para seguir.
+- **Jorge:** "revisá la publicación, la campaña y sobre todo pausá la otra. No quiero gastar en otra publicación que está mala".
+- **Cuenta `64830109`:** **nada gastando**. Lo único publicado es el boost de Marketplace de 2025 (`6836819733446`, PAUSED,
+  0 Bs en 7 días). Registro de actividad vacío. Cuentas visibles: `64830109` y Kakau (regla 2: no se toca sin pedido expreso).
+- **Si Jorge impulsó su publicación desde la página**, ese gasto no está en `64830109`: o no hay gasto (post orgánico) o se pagó
+  con otra cuenta. Se le preguntó.
+- **Borrador revisado:** campaña, 2 conjuntos y 2 anuncios **VALIDATED, sin errores**. WhatsApp +591 7139…629. Se corrigió
+  el nombre del conjunto de Santa Cruz a **"80 km"** (decía 30). Intereses solo agro (cubren perfil C; B y D no).
+
+### 16 de octubre de 2026 (22:00 del 15/10 en Bolivia) — Campaña publicada
+- **Jorge:** "Publicala". Al confirmar monto y fechas corrigió: **"el domingo es 18"**. Error mío: yo venía diciendo
+  "domingo 19" (el 19 es lunes) y había dejado los conjuntos cerrando el lunes 19 08:00. Jorge eligió **cierre domingo
+  18/10 23:59**.
+- **Hecho:** `end_time` de los dos conjuntos → `2026-10-18T23:59:00-0400`; `ads_activate_entity` con la campaña, los 2
+  conjuntos y los 2 anuncios (`publish_as_active`) → PUBLISHING → lectura en vivo: campaña **ACTIVE**, conjuntos y anuncios
+  **ACTIVE / IN_PROCESS** (revisión y arranque programado), inicio 16/10 08:00 y fin 18/10 23:59 (Bolivia), 37,50 Bs c/u.
+  `ads_get_errors` vacío.
+- **Controles** (send_later, triggers `trig_01F6RG5Zfz3xmYAAATTX11LB`, `trig_0154BhvtVMg25kT4Wt6j6AUv`,
+  `trig_01TcGXhtnhi9qFFSwam94sWn`, `trig_01RCZVyx3aFaxoyoQ8ELGYoE`).
+- **Bitácora vieja** movida a `memoria/2026-10.md`.
+
+- **Aprobados por Meta (15/10 23:41 Bolivia):** los 2 anuncios pasaron de PENDING_REVIEW a **ACTIVE**. Empiezan a mostrarse el
+  16/10 a las 08:00, que es cuando arrancan los conjuntos. Jorge (27 años) queda fuera del público de 30 a 65+, así que
+  puede no verlo en su feed: para verlo, que use la vista previa o el Administrador de anuncios.
+- **Vista previa (16/10, 00:00 Bolivia):** a Jorge no le abría el link de la vista previa (`&amp;` y vencimiento). Se le
+  mandaron capturas reales de la vista previa de Meta (feed + las 8 tarjetas). Detalle anotado: los títulos de las tarjetas
+  se cortan en el celular ("530 ha…"); no se tocó para no reabrir la revisión de Meta antes del arranque.
+- **Control 1 (16/10 07:30 Bolivia):** campaña, 2 conjuntos y 2 anuncios **ACTIVE** (aprobados). `ads_get_errors` vacío.
+  Cuenta `64830109` **ACTIVE** y con medio de pago. Arranca a las 08:00. Próximo control: 09:30.
+- **Control 2 (16/10 09:30 Bolivia, 1,5 h de campaña):** Trinidad 0,34 Bs · 27 impresiones · 22 personas · 0 conversaciones.
+  **Santa Cruz 0 Bs · 0 impresiones**, ACTIVE y sin errores; el público (80 km, 30-65+, intereses agro) está bien armado.
+  El gasto va más lento de lo esperado (no se cumplió lo de "un tercio en la primera hora"). Se programó un control extra
+  a las 13:00 (`trig_01Qo7nmBDZAYNz9L5nxhPG47`) para ver si Santa Cruz arranca. No se cambió nada.
+- **Diagnóstico Santa Cruz (16/10 11:00 Bolivia, pedido de Jorge "hacelo funcionar"):** no era Santa Cruz. Los 2 conjuntos
+  y los 2 anuncios tienen `delivery: off` con `account_spend_limit_reached`. Historial de pagos de la cuenta: **17/10/2025
+  se cargaron 21,00 Bs de saldo prepago**; cobros 18 al 21/10/2025 = 1,68 + 7,96 + 5,84 + 5,09 = 20,57 Bs (el boost de
+  Marketplace). Quedaban **0,43 Bs**, y Trinidad gastó exactamente 0,43 Bs hoy. Gasto total histórico de la cuenta: 21 Bs.
+  **La cuenta se quedó sin fondos.** Arreglo: Jorge agrega fondos (Configuración de pagos → Fondos disponibles → Agregar
+  fondos). El MCP no tiene herramienta de pagos. No se cambió nada de la campaña.
+- **Saldo, para mañana (16/10 12:18 Bolivia):** Jorge, desde el celular: "lo hacemos mañana". Se borró el control extra de
+  las 13:00 (ya se sabía la causa), se programó un recordatorio el **sábado 17 a las 09:00** (`trig_01BmzGuYTM4TX7QZGUukHW8w`)
+  y se cambió el control de las 12:00 (`trig_01TcGXhtnhi9qFFSwam94sWn`) para que primero mire si ya hay saldo. Pendiente
+  ofrecerle correr el cierre al lunes 19 para compensar el día perdido (no se cambia sin su sí).
+- **Carga de saldo (16/10 14:07 Bolivia):** Jorge: "ya cargué los 75 Bs". En el historial de la cuenta **no aparece la carga**:
+  el único movimiento de hoy es "Payment method removed — Credit card" (Jorge, 14:06 Bolivia). Los 2 conjuntos siguen con
+  `delivery: off` / `account_spend_limit_reached`. Puede ser demora de Meta (hasta ~15 min) o que el pago no se completó.
+  Re-chequeo programado a las 14:28 (`trig_01JhtNy92bMVmwmexHCG69jL`). Ojo: el historial usa la hora de la cuenta
+  (Pacífico, UTC−7): 11:06 AM = 14:06 Bolivia.
+- **Re-chequeo del saldo (16/10 14:28 Bolivia):** sigue **sin carga** en la cuenta `64830109`: el historial solo tiene
+  "Payment method removed — Credit card" (14:06). Conjuntos con `delivery: off` / `account_spend_limit_reached`, 0,43 Bs y
+  38 impresiones en el día (sin cambios). Se le pidió a Jorge una captura de "Fondos disponibles" y que confirme que la carga
+  la hizo en la cuenta 64830109 y no en la de Kakau (esa no se revisa: regla 2).
+- **Control 18:48 (16/10 Bolivia):** Jorge: "ya está todo hecho". **La carga sigue sin aparecer** en `64830109` (4 h y media
+  después). Historial: solo la tarjeta eliminada a las 14:06. Conjuntos `delivery: off` / `account_spend_limit_reached`.
+  Hipótesis: carga hecha en otra cuenta (¿Kakau?), pago pendiente (medio local o banco) o pago que no pasó. Se le ofreció
+  mirar **solo el historial de pagos de Kakau, sin tocar nada**, únicamente si él lo pide (regla 2).
+- **Sábado 17/10 05:46 Bolivia:** Jorge: "actívala de nuevo, no tiene fondos pero tiene refill auto funds". Campaña, conjuntos y
+  anuncios ya están en **ACTIVE**: no hay nada que activar. Siguen con `delivery: off` / `account_spend_limit_reached` y
+  **ningún cobro ni carga en el historial** desde el 16/10 (solo la tarjeta eliminada a las 14:06). Según Meta, la recarga
+  automática carga cuando el saldo **baja** del umbral y necesita una tarjeta que acepte cobros recurrentes. Con el saldo ya
+  en 0 no se disparó: hace falta **una carga manual** (Agregar fondos). No se tocó nada de la campaña.
+- **Recordatorio 09:00 (sábado 17/10 Bolivia):** sigue **frenada**: `delivery: off` / `account_spend_limit_reached`, 0 Bs hoy y
+  ningún movimiento nuevo en el historial (solo la tarjeta eliminada el 16/10 14:06). A las ~05:50 se le pasaron a Jorge los pasos
+  para cargar desde el celular (navegador con el link, o app Meta Ads Manager). Se le recordó y se le volvió a ofrecer correr
+  el cierre. Le quedan ~39 h si no se cambia.
+- **Control 3 (sábado 17/10 12:00 Bolivia):** sigue **frenada sin saldo** (`delivery: off` / `account_spend_limit_reached`, 0 Bs
+  hoy). Único movimiento nuevo: "Account billed" 0,43 Bs (17/10 09:12 Bolivia), el descuento de lo gastado el viernes.
+  **Ninguna carga de fondos.** Se le recordó a Jorge en dos líneas. Quedan ~36 h hasta el cierre del domingo 23:59.
+
+### 19 de octubre de 2026 (00:30 Bolivia) — Cierre de la primera campaña
+- **Totales del 16 al 18/10:** Trinidad 0,43 Bs · 38 impresiones · 37 personas · 0 conversaciones; Santa Cruz 0 en todo.
+  Corrió ~2 h el viernes; después quedó en `delivery: off` / `account_spend_limit_reached` hasta el final. En el historial de
+  la cuenta no hubo ninguna carga de fondos entre el 16/10 y el cierre (solo la tarjeta eliminada el 16/10 y el cobro de
+  0,43 Bs el 17/10).
+- **Comparación con el boost de 2025** (20,57 Bs, 6 conversaciones, 0 serios): no se puede comparar, porque esta casi no salió.
+- **Pendiente de Jorge:** si llegó algún mensaje por WhatsApp (de los 37 que lo vieron) y si se pudo cargar el saldo.
+- **Verificación de tarjeta (20/10/2026):** Jorge mandó una captura de Configuración de pagos (computadora, Chrome): Meta le pide
+  **"Verify card"** y queda trabada en "Please wait while we contact your bank". Atrás se ven dos avisos en rojo (cortados: uno
+  sobre la cuenta y uno de pago) con un botón azul. Probablemente por eso nunca entró la carga: **sin verificar la tarjeta, Meta no
+  la acepta**. Se le pasaron los pasos (aprobar en la app del banco, ventana de incógnito, habilitar compras por internet en el
+  exterior, otra tarjeta, soporte de Meta) y se le pidió la captura completa de los avisos.
+- **20/10/2026:** Jorge, desde la compu: la verificación de la tarjeta **no funciona** (probó de nuevo). Se le propuso: banco
+  (habilitar compras por internet en el exterior y la verificación de compras online), otra tarjeta, soporte de Meta, y mientras
+  tanto canales sin pago (InfoCasas y Evisos de `investigacion/precios-y-canales-trinidad.md`, publicación en la página).
+  Sigue pendiente la captura de los avisos rojos.
+- **20/10/2026:** Jorge preguntó si el problema era que el portfolio "Jorge Velasco" no tiene cuentas publicitarias (captura
+  de Configuración → Cuentas publicitarias: "No ad accounts added"). **No es la causa:** la `64830109` es personal y queda fuera
+  del portfolio a propósito (decisión del 15/10 y `reglas.md`, regla 2: nunca migrar una cuenta personal a un portfolio). Igual
+  publicó el viernes y en 2025. Se le pidió **no tocar "Add"** ahí. Plan C, solo si fallan el banco y otra tarjeta: cuenta
+  publicitaria nueva dentro del portfolio, lo que cambia la decisión del 15/10 y también necesita una tarjeta verificada.
+- **20/10/2026:** Jorge: "no es el banco, ni mi otra tarjeta la hace funcionar" (**2 tarjetas fallan** en la verificación). MCP:
+  cuenta `64830109` ACTIVE, `has_payment_method: true`, **sin eventos nuevos** en el historial desde el 17/10 (los intentos de
+  verificación no se registran ahí). Con dos tarjetas fallando, apunta a **Meta o a la cuenta**, no al banco. Opciones que se le
+  dieron: soporte de Meta (facturación) con los avisos rojos, probar desde la app Meta Ads Manager y el Plan C (cuenta nueva en el
+  portfolio, que **cambia la decisión del 15/10 y necesita su sí**).
+
+### 20 de octubre de 2026 — Segunda vuelta con saldo
+- **Saldo:** "Money added to balance" **150,00 Bs** (20/10 06:53 hora de la cuenta = 09:53 Bolivia). Jorge resolvió la
+  verificación de la tarjeta (no dijo cómo).
+- **Jorge:** "activa la propaganda desde ahorita hasta el viernes, gastemos lo que teníamos previsto". Al pasar `end_time` al
+  viernes 23/10, Meta marcó **"Budget Is Too Low": más de 42,06 Bs por conjunto** (el horario cuenta desde el 16/10). Se probó
+  en borrador: con 37,50 Bs hasta el **jueves 22/10 23:59** no hay error, y con 43 Bs hasta el viernes tampoco. Jorge eligió
+  **75 Bs hasta el jueves**.
+- **Hecho:** `end_time` `2026-10-22T23:59:00-0400` y `lifetime_budget` 3750 en los 2 conjuntos → `ads_activate_entity`
+  (object_ids de los 2 conjuntos, `publish_as_active`) → lectura en vivo: **delivery active** en los dos, `ads_get_errors` vacío.
+- **Controles:** `trig_01LjqJ5Q7dxfMmgiJG4J1kgh` (20/10 13:00), `trig_01HVKGjJwo4qkrVCjqFcgg9C` (21/10 12:00),
+  `trig_01SvHivegYjiJeNKCiVg6rxb` (23/10 00:30, cierre).
+- **Aprendizaje:** al alargar un conjunto con presupuesto total, Meta exige un mínimo por día **contando desde el inicio
+  original** del conjunto. Probar en borrador (`ads_update_entity` → `active_errors`) antes de publicar.
+
+### 20 de octubre de 2026 (11:25 Bolivia) — Campaña nueva en lugar de la vieja
+- **Síntoma:** después de alargar la vieja y cargar saldo, conjuntos y anuncios figuraban `delivery: active`, sin errores,
+  pero con **0 impresiones en 1 h 20 min**. `ads_get_errors` vacío, historial sin nada raro.
+- **Hallazgo:** en el creativo viejo, el link de WhatsApp de cada tarjeta trae un token con vencimiento (`exp`) el
+  **16/10 21:53 Bolivia**, ~24 h después de creado. **No está probado** que eso frene la entrega, pero es lo único raro.
+- **Jorge:** "Pausala esta y creá una exactamente igual. Y activala." Hecho: campaña vieja PAUSED (en vivo); campaña nueva
+  `52538379010850` (OUTCOME_ENGAGEMENT, AUCTION, sin categoría especial), conjuntos con la misma segmentación copiada del
+  original (edad 30-65, ubicación por radio, solo feed de Facebook, mismos intereses, advantage_audience 0), CONVERSATIONS →
+  WHATSAPP, page_id de "Venta estancias", 3750 c/u, inicio 20/10 11:30, fin 22/10 23:59. Anuncios con `object_story_spec`
+  nuevo (mismo `message`, mismos 8 `image_hash` y títulos, CTA WHATSAPP_MESSAGE con link `https://api.whatsapp.com/send`).
+  `ads_activate_entity` con los 5 objetos → PUBLISHING → lectura: anuncios **IN_PROCESS** (revisión), conjuntos
+  programados para las 11:30. `ads_get_errors` vacío.
+- Los 3 controles (`trig_01LjqJ5Q7dxfMmgiJG4J1kgh`, `trig_01HVKGjJwo4qkrVCjqFcgg9C`, `trig_01SvHivegYjiJeNKCiVg6rxb`) se
+  actualizaron con los IDs nuevos.
+- **11:26:** anuncios nuevos en **PENDING_REVIEW**, 0 impresiones. Jorge: "avisame cuando empiece a gastar; tras las primeras
+  visualizaciones, decime si sabemos que está funcionando". Vigilancia cada 30 min hasta las 18:00 (`trig_01QBtMNxXttPUnC5dG8WTA5M`,
+  se reprograma sola). Criterios de "funciona": aprobado + entregando + gasto e impresiones subiendo entre dos lecturas + ritmo
+  ~0,6 Bs/h por ciudad. La prueba final es el primer mensaje por WhatsApp.
+- **12:00:** los 2 anuncios nuevos **aprobados** (ACTIVE), `delivery: pending / preparing`, 0 impresiones, sin errores. Próximo
+  chequeo 12:30 (`trig_` nuevo de send_later).
+- **12:31 — primeras impresiones avisadas:** **Trinidad arrancó** (`delivery: active`, 0,06 Bs, 3 impresiones, 2 personas).
+  Santa Cruz sigue en `preparing` (0). Se le avisó a Jorge. El control de las 13:00 (`trig_01LjqJ5Q7dxfMmgiJG4J1kgh`) se
+  actualizó para comparar con esta lectura y ver si Santa Cruz arrancó. No se programan más chequeos cada 30 min.
+- **Control 13:01:** **Trinidad sube** (12:31 → 13:01: 0,06 → **0,20 Bs**, 3 → **12 impresiones**, 2 → **7 personas**), ritmo
+  ~0,28 Bs/h (la mitad de lo previsto, recién arranca). **Santa Cruz sigue en `preparing`** (0), ~1 h después de aprobado.
+  Sin errores ni conversaciones. Se le mandaron a Jorge capturas nuevas del anuncio (vista previa real + Chromium).
+  Pendiente: si Santa Cruz sigue en `preparing` a las 16:00, proponerle juntar las ciudades o sacar los intereses (con su sí).
+- **Control 16:00 — FUNCIONA:** Trinidad **5,90 Bs · 217 impresiones · 170 personas · 2 conversaciones iniciadas** (Meta),
+  ~2,95 Bs por conversación (el boost de 2025: ~3,43). Ritmo 13:01→16:00: ~1,9 Bs/h (más rápido que lo previsto; Meta reparte
+  el presupuesto total y no se pasa de 37,50). **Santa Cruz arrancó** (`delivery: active`, 0,02 Bs, 4 impresiones, 3 personas).
+  Sin errores. Ya no hace falta proponer cambios para Santa Cruz. Se le pidió a Jorge que mire el WhatsApp de su papá y pase
+  los 2 chats para calificarlos (repo público: sin nombres ni teléfonos).
+- **17:40 (resumen pedido por Jorge):** Trinidad **8,35 Bs · 337 impresiones · 242 personas · 7 conversaciones · 1,19 Bs por
+  conversación**. Santa Cruz 1,16 Bs · 79 impresiones · 73 personas · 0. Total 9,51 de 75 Bs. En 2025: 20,57 Bs → 6
+  conversaciones (3,43 c/u). Falta saber cuántas son serias: se le volvió a pedir a Jorge que pase los chats.
+
+### 21 de octubre de 2026
+- **05:21 (resumen pedido por Jorge):** Trinidad **13,80 Bs · 642 impresiones · 404 personas · 10 conversaciones · 1,38 Bs c/u**.
+  Santa Cruz **8,77 Bs · 506 impresiones · 430 personas · 0 conversaciones**. Total 22,57 de 75 Bs. Se le propuso (sin tocar
+  nada) pasar lo que le queda a Santa Cruz a Trinidad. Siguen sin aparecer los chats para calificar.
+- **08:25:** Trinidad **16,94 Bs · 775 impresiones · 465 personas · 10 conversaciones (1,69 c/u)**, sin conversaciones nuevas
+  desde las 05:21 (madrugada). Santa Cruz **9,12 Bs · 538 · 446 · 1 conversación (9,12 c/u)**. Total 26,06 de 75 Bs,
+  11 conversaciones. Sigue en pie la propuesta de pasar lo que queda de Santa Cruz a Trinidad, y los chats sin calificar.
+- **Decisión de Jorge (21/10 ~08:30):** **Santa Cruz sigue** ("los compradores más serios deben ser los de Santa Cruz").
+  No se pausa ni se mueve presupuesto. Anotado en `decisiones.md`. Para juzgar Santa Cruz importan los interesados serios,
+  no el costo por conversación: falta saber de qué ciudad es cada chat.
+- **11:10:** Trinidad **19,35 Bs · 892 · 512 personas · 11 conversaciones (1,76 c/u)**. Santa Cruz **10,49 Bs · 604 · 473 ·
+  2 conversaciones (5,25 c/u)**. Total **29,84 de 75 Bs · 13 conversaciones**. Siguen sin pasar los chats.
+- **Control 2 (12:00, mitad):** Trinidad **19,84 Bs · 922 · 529 personas · 11 conversaciones (1,80 c/u)**. Santa Cruz **10,64 Bs
+  · 621 · 484 · 3 conversaciones (3,55 c/u)**: su costo por conversación bajó de 9,12 (08:25) a 3,55. Total **30,48 de 75 Bs ·
+  14 conversaciones**. Siguen sin pasar los chats; se le volvió a pedir a Jorge, con la ciudad de cada uno.
+- **15:35:** Trinidad **22,57 Bs · 1.067 · 593 personas · 12 conversaciones (1,88 c/u)**. Santa Cruz **12,93 Bs · 751 · 567 ·
+  3 conversaciones (4,31 c/u)**. Total **35,50 de 75 Bs · 15 conversaciones**. Chats sin pasar.
+
+### 22 de octubre de 2026
+
+- **06:02:** Trinidad **27,93 Bs · 1.424 · 749 personas · 12 conversaciones (2,33 c/u)**: gastó 5,36 Bs desde las 15:35 del 21
+  sin conversaciones nuevas. Santa Cruz **19,32 Bs · 1.164 · 841 · 4 conversaciones (4,83 c/u)**: una nueva. Total **47,25 de
+  75 Bs · 16 conversaciones (2,95 c/u)**. Quedan 27,75 Bs hasta las 23:59 de hoy (Trinidad 9,57, Santa Cruz 18,18). Chats sin pasar.
+- **17:43:** Trinidad **33,66 Bs · 1.858 · 906 personas · 13 conversaciones (2,59 c/u)**: +1 desde las 06:02. Santa Cruz
+  **32,35 Bs · 1.648 · 1.124 · 7 conversaciones (4,62 c/u)**: +3; hoy aceleró (13,03 Bs en el día, más que Trinidad). Total
+  **66,01 de 75 Bs · 20 conversaciones (3,30 c/u)**. Quedan 8,99 Bs hasta las 23:59 (Trinidad 3,84, Santa Cruz 5,15). Chats sin pasar.
+- **Cierre (23/10 00:30, control automático):** la campaña terminó a las 23:59 del 22/10 (`completed`). Totales del 20 al 22/10:
+  Trinidad **37,40 Bs · 2.322 · 1.133 personas · 13 conversaciones (2,88 c/u)**; Santa Cruz **37,39 Bs · 1.994 · 1.345 · 9
+  conversaciones (4,15 c/u)**: +2 desde las 17:43. Total **74,79 de 75 Bs · 4.316 impresiones · 22 conversaciones (3,40 c/u)**.
+  Contra el boost de 2025 (20,57 Bs, 6 conversaciones, 3,43 c/u, 0 serios): 3,6 veces más conversaciones con el mismo costo
+  por conversación. Contra la primera campaña (0,43 Bs, 38 impresiones): esa no se pudo medir. Serios y visitas: **pendiente**,
+  se le pidió a Jorge. Anotado en `negocio.md`, `textos-anuncios.md` y `plan.md`. No se creó ni se activó nada.
+
+### 23 de octubre de 2026
+
+- **09:22 (Jorge: "dame resumen, decime cuándo acaba"):** la campaña ya había terminado (jueves 22/10 23:59). Meta ajustó un poco
+  las cifras desde las 00:30: Santa Cruz **37,41 Bs · 2.003 impresiones** (antes 37,39 · 1.994), Trinidad **2.327 impresiones**
+  (antes 2.322). Conversaciones sin cambio: **22 (13 + 9)**. Total final **74,81 Bs, 3,40 c/u**. No hay nada corriendo en la
+  cuenta: la campaña vieja sigue pausada. Se actualizaron `negocio.md`, `textos-anuncios.md` y `plan.md`. Los chats siguen sin pasar.
+
+### 24 de octubre de 2026 — Balance de la campaña y el problema del WhatsApp
+
+- **Jorge:** al padre le llega solo "Hola, quiero más información", sin la imagen ni saber qué preguntan; y **"no hubo ningún
+  interesado muy interesado"**. Pregunta si el público no fue el ideal o si faltó encontrar a la persona.
+- **Causa del mensaje genérico (verificado en lo que se creó):** los anuncios se armaron con CTA `WHATSAPP_MESSAGE` y link
+  `api.whatsapp.com/send`, **sin mensaje prellenado propio**, así que salió el texto por defecto de Meta. `decisiones.md` pedía
+  uno que diga "Calocha" y se pasó por alto. No se pudo confirmar con fuente oficial si la app WhatsApp Business muestra la
+  tarjeta del anuncio en el chat. Arreglo: prellenado por conjunto (producto + ciudad), anotado en `como-crear-campana.md` y
+  `receta-repo-nuevo.md`.
+- **Público que corrió (leído en `targeting`):** 30-65, feed de Facebook, Trinidad 40 km y Santa Cruz 80 km, `home`, `recent`
+  y `frequently_in`; intereses **solo agro**: Agribusiness, Milk, Dairy, Cattle, Livestock, Farm, Agriculture, Agronomy, Rural
+  area, Cattle feeding + empleador Agriculture. **Faltaron bienes raíces, inversión y turismo rural** (perfiles B y D del plan).
+- **Lo bueno:** el sistema funciona de punta a punta (anuncio aprobado, las dos ciudades entregaron, el WhatsApp recibió); 22
+  conversaciones a 3,40 Bs, 3,6 veces más que en 2025 por el mismo costo; el carrusel y el texto V1 quedan para reusar.
+- **Lo malo:** sin prellenado no se sabe de qué ciudad ni qué preguntó cada uno; público solo agro (llega a quien trabaja con
+  ganado, no a quien tiene capital para comprar); el objetivo "conversaciones" busca a quien escribe, no a quien compra; los
+  chats no se calificaron, así que no hubo forma de ajustar durante la campaña; se perdieron 4 días (16-20/10) por el saldo.
+- **Propuesto a Jorge (no creado):** prellenado por conjunto; público con bienes raíces e inversión además de agro; probar
+  un formulario de "mayor intención" con preguntas de filtro o volver a mostrarle el anuncio a quien ya interactuó;
+  anotar cada chat en Excel (ciudad, qué preguntó, perfil). Esperando su decisión.
+- **Análisis a fondo (24/10, agente pedido por Jorge; `analisis/campana-20-22-oct-2026.md`):** 5 hallazgos. (1) **Trinidad se agotó
+  el primer día:** 10 de 13 conversaciones el mar 20 (13,78 Bs, 1,38 c/u); mié y jue, 23,62 Bs por 3 (7,87 c/u). (2) **Santa Cruz
+  mejoró cada día** (0 → 4 → 5) y sus charlas fueron más largas: 2.º mensaje en 5 de 9 (Trinidad, 4 de 13). (3) **Horas:** la tarde,
+  de 12 a 18, dio 12 de 22 conversaciones a 2,71 c/u; la noche, de 18 a 24, 25,26 Bs por 5 (5,05 c/u, muchos clics sin mensaje);
+  la madrugada casi no gastó (3,18 Bs de 00 a 07). 21,03 Bs (28 %) cayeron en horas sin ninguna conversación. (4) **Los públicos
+  no eran iguales:** Santa Cruz tenía cargos "Farmer" y "Farm Owner Operator" y Ganado de carne; Trinidad, Leche, Lácteos y Zona
+  rural. Ninguno tenía bienes raíces ni inversión. (5) **Puja automática** ("mayor volumen", se paga por impresión): CPM de 16,05 Bs
+  en Trinidad y 18,65 en Santa Cruz; contra 2025, 18,6 % de los clics al botón terminó en conversación (2025: 1,9 %). Cifras finales:
+  74,83 Bs. No disponible: clics por lámina, rankings de calidad y comparación con otros anunciantes.
+
+### 25 de octubre de 2026
+
+- **Jorge aprobó el análisis y anotó cambios para la próxima campaña:** *"aumentar bienes raíces e inversión, también turismo,
+  agronomía y otras cosas más. Saca a los de 55 años. Quiero que el mensaje de WhatsApp diga sobre qué anuncio están hablando.
+  Está bien lo otro que investigaste."* Anotado en `decisiones.md`, `analisis/` (sección 10), `comprador.md` y `plan.md`. No se
+  creó nada. Pidió PR y merge de todo a `main`.

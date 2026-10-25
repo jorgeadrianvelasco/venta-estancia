@@ -113,6 +113,29 @@ frena pasarlos). Con el repo público, los links `raw` de las láminas quedan fi
 **Consecuencias:** **el precio nunca se escribe acá** (ya era regla) y **los datos de los interesados (nombre, teléfono) no
 van al repo** mientras sea público: pendiente decidir dónde (Excel de Jorge) o volverlo privado antes del primer interesado.
 
+## Santa Cruz sigue en la campaña aunque le cueste más cada conversación (21/10/2026)
+**Decidido:** 21/10/2026, por Jorge: *"los compradores más serios deben ser los de Santa Cruz, así que quiero darle una
+oportunidad"*. Al momento de decidir: Trinidad 10 conversaciones a 1,69 Bs; Santa Cruz 1 a 9,12 Bs.
+**Por qué:** el objetivo es interés serio, no volumen (ver arriba). En Santa Cruz está más plata para invertir.
+**Qué la haría cambiar:** que al cierre de la campaña (22/10) Santa Cruz no haya traído ningún interesado serio.
+
+## Próxima campaña: más intereses que agro, sin mayores de 55 y un WhatsApp que diga de qué anuncio es (25/10/2026)
+**Decidido:** 25/10/2026, por Jorge: *"Anota para la próxima aumentar bienes raíces e inversión, también turismo, agronomía y
+otras cosas más. Saca a los de 55 años. Quiero que el mensaje de WhatsApp diga sobre qué anuncio están hablando. Está bien lo
+otro que investigaste."*
+
+| Ajuste | Qué se carga | Quién |
+|---|---|---|
+| **Intereses** | **Agregar** bienes raíces, inversión, turismo (rural), agronomía y otros afines que proponga Claude y apruebe Jorge. **Mantener** los que funcionaron en Santa Cruz (ganado de carne, cargos "Farmer" y "Farm Owner Operator"). **Sacar** leche, lácteos y zona rural. Iguales en las dos ciudades | Jorge, en el Administrador (el MCP no busca intereses; los IDs que ya están en los públicos actuales sí se reusan) |
+| **Edad** | **30 a 54 años**: se sacan los de 55 en adelante (en Meta, edad máxima 54) | Claude, al crear |
+| **Mensaje de WhatsApp** | Prellenado **por anuncio y por ciudad** que diga de qué anuncio habla. Propuesta: Trinidad *"Hola, me interesa la estancia Calocha sobre la laguna Suárez. ¿Me pasa más información?"*; Santa Cruz *"Hola, vi en Santa Cruz el aviso de la estancia Calocha. ¿Me pasa más información?"* (confirmar el texto al crear) | Claude, y si el MCP no lo permite, Jorge en el Administrador antes de activar |
+| **Lo demás del análisis** (`analisis/campana-20-22-oct-2026.md`, sección 10) | Aprobado: más plata para Santa Cruz (p. ej. 60/40), Trinidad en rondas cortas, puja "mayor volumen" sin tope, no programar horas (o probar 07:00-23:00), solo feed de Facebook en celular, iPhone solo para mirar, Excel con cada chat. Sexo: no se corta | — |
+
+**Por qué:** en la campaña del 20 al 22/10 el público fue solo agro (sin inversionista ni turismo), en Santa Cruz los de 55+
+se llevaron el 48 % del gasto por 3 conversaciones, y los 22 chats llegaron sin decir de qué anuncio venían.
+**Qué la haría cambiar:** que el público de 30 a 54 no traiga ningún interesado serio, o que aparezca un comprador serio mayor
+de 55 por otro canal.
+
 ## Pendientes de decidir
 
 | Tema | Por qué importa |

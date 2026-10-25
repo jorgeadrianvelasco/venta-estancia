@@ -18,6 +18,12 @@ fuente.
 ## Lo que se aprendió de interesados reales
 - **Boost de Marketplace de oct-2025:** 6 conversaciones; según Jorge, *"la gente pregunta el precio y se va"*. El
   público era cualquiera de 18 a 65 años en ~64 km alrededor de Trinidad, y el aviso decía "propiedad urbana".
+- **Campaña del 20 al 22/10/2026:** 74,81 Bs, 22 conversaciones de WhatsApp (13 Trinidad, 9 Santa Cruz). Según Jorge,
+  **ningún interesado "muy interesado"** (24/10/2026). El público fue 30-65, Trinidad 40 km y Santa Cruz 80 km, con **solo
+  intereses agro** (ganado, leche, agro, granja): apuntó al perfil C y dejó afuera a B y D. No se sabe qué preguntó ni de qué
+  ciudad era cada uno, porque el anuncio no tenía mensaje prellenado y los chats no se pasaron.
 
 ## Para el público de Meta
-No se propone ningún público hasta verificar la categoría especial de inmuebles (`reglas.md`, regla 5).
+Categoría especial: no hace falta para un público en Bolivia (`reglas.md`, regla 5). **Próxima campaña (Jorge, 25/10/2026):**
+30 a 54 años; intereses de bienes raíces, inversión, turismo y agronomía además de los agro que funcionaron en Santa Cruz
+(perfiles B, C y D); sin leche, lácteos ni zona rural. Detalle en `decisiones.md`.
