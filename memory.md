@@ -40,6 +40,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   Igual costo por conversación que el boost de 2025 (3,43). **Jorge (24/10): ningún interesado "muy interesado".** Al
   padre le llegó solo "Hola, quiero más información": **el anuncio no tenía mensaje prellenado** (error al crearlo; ver
   `como-crear-campana.md`). El público tuvo **solo intereses agro** (sin B ni D). Balance completo en la bitácora del 24/10. Saldo que queda: ~75 Bs (150 cargados − 74,81; no verificado). No hay controles programados.
+- **PRÓXIMA CAMPAÑA (Jorge, 25/10/2026; no creada):** 30 a 54 años (sin 55+); intereses + bienes raíces, inversión, turismo,
+  agronomía (sin leche, lácteos ni zona rural); mensaje de WhatsApp que diga de qué anuncio es (Calocha + ciudad); el resto
+  del análisis aprobado (60/40 para Santa Cruz, etc.). Todo en `decisiones.md`. Se crea solo cuando Jorge la pida.
 - **Repo público** (decisión de Jorge): nada de nombres ni teléfonos de interesados acá. Receta para otras líneas:
   `receta-repo-nuevo.md`. Construir sí, lotear no. **Tono: camba, firmado como el dueño.** Ojo: **el domingo es 18**.
 
@@ -277,3 +280,9 @@ Las entradas del 15/10 hasta el carrusel cuadrado están en `memoria/2026-10.md`
   en Trinidad y 18,65 en Santa Cruz; contra 2025, 18,6 % de los clics al botón terminó en conversación (2025: 1,9 %). Cifras finales:
   74,83 Bs. No disponible: clics por lámina, rankings de calidad y comparación con otros anunciantes.
 
+### 25 de octubre de 2026
+
+- **Jorge aprobó el análisis y anotó cambios para la próxima campaña:** *"aumentar bienes raíces e inversión, también turismo,
+  agronomía y otras cosas más. Saca a los de 55 años. Quiero que el mensaje de WhatsApp diga sobre qué anuncio están hablando.
+  Está bien lo otro que investigaste."* Anotado en `decisiones.md`, `analisis/` (sección 10), `comprador.md` y `plan.md`. No se
+  creó nada. Pidió PR y merge de todo a `main`.

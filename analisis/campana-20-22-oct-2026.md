@@ -291,6 +291,10 @@ Lo que más se desperdició fue Trinidad después del primer día y la noche en 
 Son ajustes del Administrador de anuncios. **No se crea nada sin que Jorge lo pida** (`reglas.md`). Santa Cruz
 **sigue**, por decisión de Jorge (`decisiones.md`).
 
+> **Jorge los aprobó el 25/10/2026, con tres cambios** (`decisiones.md`): (a) al ajuste 4 se suman **turismo, agronomía y
+> otros intereses afines**, además de bienes raíces e inversión; (b) el ajuste 7 cambia: **se sacan los de 55 en adelante**
+> (edad 30 a 54); el sexo no se corta; (c) el ajuste 1: el mensaje de WhatsApp tiene que **decir de qué anuncio están hablando**.
+
 | # | Ajuste | Dónde, en el Administrador | Dato que lo justifica | Confianza |
 |---|---|---|---|---|
 | 1 | **Mensaje prellenado por conjunto**, que diga "Calocha" y la ciudad | Anuncio → Plantilla de mensaje | Hoy no se puede saber de qué ciudad ni de qué anuncio es cada uno de los 22 chats (sección 9) | **Alta** |
