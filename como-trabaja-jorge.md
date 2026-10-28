@@ -49,6 +49,17 @@ Ambición grande, gasto medido.
 calificado, no el más difícil. Aplicado acá: quien ya tiene campo en la zona no es "difícil", es el que
 mejor entiende lo que vale la estancia.
 
+## Visto en esta venta (octubre de 2026)
+| Cuando dice | Qué espera |
+|---|---|
+| "Dame resumen", "cómo vamos" (lo pide varias veces al día) | Números frescos de Meta en una tabla por ciudad (gasto, vistas, personas, conversaciones, costo por conversación), qué cambió desde la lectura anterior y una línea con lo pendiente. Se anota cada lectura en `memory.md` |
+| "Está muy simple" | Desglose con números: horas, días, edad, sexo, celular, puja, públicos. Acepta que se mande un agente para eso |
+| "Está bien lo otro" | Aprueba lo propuesto y suma sus cambios en una línea: anotarlos tal cual, con su cita |
+| "Anotá todo y mergeá" | Cerrar la sesión (`/cerrar`), commit, PR y merge a `main` |
+
+**Su olfato comercial suele tener base:** insistió en mantener Santa Cruz cuando costaba más, y el análisis mostró que ahí las
+charlas fueron más largas. Se le muestran los datos; la decisión es suya.
+
 ## Su contexto
 Zootecnista, 27 años, Santa Cruz de la Sierra. Administra estancias ganaderas en el Beni con su hermano
 Juan Mario, tiene un negocio de compra-venta de ganado 50/50, un software ganadero y Kakau (chocolate).
