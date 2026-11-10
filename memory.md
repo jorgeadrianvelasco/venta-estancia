@@ -160,4 +160,6 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   "sencillo y que no necesite mucha gente", y él dirá las ubicaciones. **Pendiente de definir:** si va en este repo o en uno
   aparte (regla 7: una línea por repo), qué San Ignacio, página y WhatsApp. El control de cierre (13/11 00:30) le avisa con
   notificación y le recuerda los planos.
-
+- **10/11 — lotes de San Ignacio de Moxos (decidido por Jorge):** van en **este repo**, misma página "Venta estancias", mismo
+  WhatsApp. Mensaje: *"Estoy interesado en los lotes de San Ignacio de Mojos. ¿Me podrías dar más información?"* (87 caracteres;
+  probar tal cual). Esperando planos, cantidad de lotes, tamaños y ubicaciones. Detalle en `decisiones.md`.

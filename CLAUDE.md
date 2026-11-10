@@ -1,6 +1,7 @@
 # Venta de estancia — agente de venta y marketing
 
-Venta de la estancia **Calocha**, en el Beni (Bolivia).
+Venta de la estancia **Calocha**, en el Beni (Bolivia), y desde el 10/11/2026 también de **10 u 11 lotes en San Ignacio de
+Moxos** (Jorge: *"sigue siendo el mismo negocio, ya que es una venta de lotes"*; `decisiones.md`). Misma página y mismo WhatsApp.
 Jorge es quien lleva la venta. Quién es dueño y quién decide el precio: **pendiente** (`negocio.md`).
 
 ## Leé esto antes de actuar

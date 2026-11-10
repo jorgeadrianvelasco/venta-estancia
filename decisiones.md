@@ -148,6 +148,16 @@ exacto. Los carga Jorge en el borrador.
 **Por qué:** decisión de Jorge; las dos ciudades con el mismo público y la misma plata permiten compararlas mejor.
 **Qué la haría cambiar:** los interesados serios de cada ciudad al cierre.
 
+## Los lotes de San Ignacio de Moxos se venden desde este repo, con la misma página y el mismo WhatsApp (10/11/2026)
+**Decidido:** 10/11/2026, por Jorge: *"Creo que sigue siendo el mismo negocio, ya que es una venta de lotes. Así que yo lo
+dejaría en el mismo repo"*. Página **"Venta estancias"** (`1445747361945494`) y el **WhatsApp del padre**.
+**Mensaje de WhatsApp del anuncio** (Jorge, textual): *"Estoy interesado en los lotes de San Ignacio de Mojos. ¿Me podrías dar
+más información?"* — 87 caracteres; 360dialog habla de un máximo de 80 (no verificado con Meta): se prueba tal cual al crear y,
+si Meta lo rechaza, se le avisa a Jorge antes de cambiarlo.
+**Lo que se sabe:** 10 u 11 lotes (Jorge no recuerda), solo imágenes de los planos. Las ubicaciones del público las dice Jorge.
+Tamaños, papeles y precio: **pendientes**.
+**Qué la haría cambiar:** que la venta de lotes crezca como línea propia.
+
 ## Pendientes de decidir
 
 | Tema | Por qué importa |
