@@ -155,3 +155,9 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   el público de Santa Cruz a Trinidad y sacó Dairy farming y Rural area de los dos (Jorge: *"quiero darte el permiso para hacer
   las dos cosas"*). Publicado y leído de vuelta: los dos conjuntos tienen **exactamente los mismos intereses**. Arranque sin
   cambios: mié 11/11 08:00 Bolivia. Jorge: *"no me hables nunca más de horario de Madrid"*.
+- **10/11 — próximo pedido de Jorge (no empezado):** campaña para **10 u 11 terrenos en San Ignacio** (no recuerda cuántos);
+  solo tiene imágenes de los planos y las va a pasar. Quiere un anuncio "igual que el anterior" (a WhatsApp con mensaje propio),
+  "sencillo y que no necesite mucha gente", y él dirá las ubicaciones. **Pendiente de definir:** si va en este repo o en uno
+  aparte (regla 7: una línea por repo), qué San Ignacio, página y WhatsApp. El control de cierre (13/11 00:30) le avisa con
+  notificación y le recuerda los planos.
+
