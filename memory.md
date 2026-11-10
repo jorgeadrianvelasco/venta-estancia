@@ -27,9 +27,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **TERCERA CAMPAÑA EN BORRADOR (09/11, pedida por Jorge; NO publicada):** `52544422357250`, Trinidad `52544422384650` y Santa
   Cruz `52544422387450`, **60 Bs c/u (20/día), mié 11/11 08:00 → vie 13/11 23:59**, 30-54, feed FB solo celular, agro iguales
   sin leche/lácteos/zona rural, **mensaje de WhatsApp por ciudad** (anuncios `52544422438250`, `52544422500650`). Validada sin
-  errores. **Para publicar falta:** Jorge carga ~45 Bs, agrega bienes raíces/inversión/turismo en el borrador y dice "publicala";
-  después se relee el `targeting` y se programan los controles.
-- **Saldo:** **75,17 Bs** (historial de pagos: 150 cargados − 74,83 cobrados). La campaña nueva necesita 120.
+  errores. **Para publicar falta:** Jorge carga ~45 Bs (saldo **75,17**, verificado; necesita 120), agrega bienes raíces/inversión/
+  turismo en el borrador y dice "publicala"; después se relee el `targeting` y se programan los controles.
 - **Pendiente de Jorge:** los chats (o su Excel con ciudad, qué preguntó y si es serio); si la lámina 3 es del tramo propio
   de 800 m; InfoCasas y Evisos (opcional).
 - **Repo público:** sin nombres ni teléfonos de interesados. Todo en `main` (PR #3, 25/10). Tono camba, firmado como el dueño.
