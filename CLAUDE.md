@@ -1,7 +1,8 @@
 # Venta de estancia — agente de venta y marketing
 
-Venta de la estancia **Calocha**, en el Beni (Bolivia), y desde el 10/11/2026 también de **10 u 11 lotes en San Ignacio de
-Moxos** (Jorge: *"sigue siendo el mismo negocio, ya que es una venta de lotes"*; `decisiones.md`). Misma página y mismo WhatsApp.
+**Venta de estancias y terrenos de Jorge, en general** (decisión de Jorge, 10/11/2026: *"este repo no va a ser solo de venta,
+va a ser venta de estancias en general"*). Hoy: la estancia **Calocha** (Beni) y **10 u 11 lotes en San Ignacio de Moxos**;
+vendrán otros terrenos. Misma página ("Venta estancias") y mismo WhatsApp para todos (`decisiones.md`).
 Jorge es quien lleva la venta. Quién es dueño y quién decide el precio: **pendiente** (`negocio.md`).
 
 ## Leé esto antes de actuar

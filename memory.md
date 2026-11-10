@@ -163,3 +163,6 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
 - **10/11 — lotes de San Ignacio de Moxos (decidido por Jorge):** van en **este repo**, misma página "Venta estancias", mismo
   WhatsApp. Mensaje: *"Estoy interesado en los lotes de San Ignacio de Mojos. ¿Me podrías dar más información?"* (87 caracteres;
   probar tal cual). Esperando planos, cantidad de lotes, tamaños y ubicaciones. Detalle en `decisiones.md`.
+- **10/11 — alcance del repo (Jorge):** venta de **estancias y terrenos en general**, no solo Calocha (CLAUDE.md, reglas 7,
+  decisiones). Mensaje de reserva para los lotes si Meta corta el de 87 caracteres: *"Tengo interés en los terrenos de San
+  Ignacio. Dame información."*
