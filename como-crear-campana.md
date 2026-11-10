@@ -112,3 +112,17 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   inversión, agro y turismo rural; en la campaña corrieron **solo intereses agro** (Agribusiness, Milk, Dairy, Cattle,
   Livestock, Farm, Agriculture, Agronomy, Rural area, Cattle feeding + empleador Agriculture). Los perfiles B (inversionista)
   y D (quinta o turismo) no estaban en el público. Leer `targeting` con `ads_get_ad_entities` antes de publicar.
+- **Mensaje prellenado de WhatsApp: el JSON que Meta aceptó en borrador** (09/11/2026, campaña `52544422357250`). Va dentro de
+  `object_story_spec.link_data` (también en carrusel, a nivel de `link_data`, no por tarjeta) como **texto JSON**:
+  `"page_welcome_message":"{\"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\",
+  \"text_format\": {\"customer_action_type\": \"autofill_message\", \"message\": {\"autofill_message\": {\"content\": \"<texto>\"}, \"text\": \"<texto>\"}},
+  \"user_edit\": false, \"surface\": \"visual_editor_new\"}"`. Máximo 80 caracteres según 360dialog
+  ([docs](https://docs.360dialog.com/docs/whatsapp-marketing/ads-that-click-to-whatsapp-ctwa)); la forma del JSON sale de la
+  documentación de Meta ([Click to WhatsApp](https://developers.facebook.com/docs/marketing-api/ad-creative/messaging-ads/click-to-whatsapp/)),
+  que el proxy no dejó abrir entera. El borrador lo validó sin errores; **falta confirmar con el primer chat real** que le llega
+  así al papá de Jorge.
+- **Intereses: el MCP no los busca, aunque Jorge dé permiso** (09/11/2026). Se reusan los IDs que ya están en públicos de la
+  cuenta (leídos con `targeting`); los nuevos (bienes raíces, inversión, turismo) los agrega Jorge en el borrador desde el
+  Administrador. Después, releer el `targeting` antes de publicar.
+- **Saldo antes de publicar, calculado del historial** (09/11/2026): `ads_account_get_activity_logs` con `event_category: budget`
+  muestra "Money added to balance" y cada "Account billed"; saldo = cargas − cobros. Al 09/11: 150 − 74,83 = **75,17 Bs**.

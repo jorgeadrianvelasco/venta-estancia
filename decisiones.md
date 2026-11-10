@@ -136,6 +136,14 @@ se llevaron el 48 % del gasto por 3 conversaciones, y los 22 chats llegaron sin 
 **Qué la haría cambiar:** que el público de 30 a 54 no traiga ningún interesado serio, o que aparezca un comprador serio mayor
 de 55 por otro canal.
 
+## Tercera campaña: 20 Bs por día por ciudad, 3 días, las dos ciudades iguales (09/11/2026)
+**Decidido:** 09/11/2026, por Jorge: *"Por 3 días, las dos ciudades. 20 Bs el día por ciudad"*, arrancando el miércoles 11/11.
+Reemplaza el 60/40 a favor de Santa Cruz que había quedado aprobado el 25/10. También pidió que Claude cargue los intereses
+nuevos (*"te doy el permiso"*); no se pudo: el MCP de Meta no busca intereses y Meta no acepta un interés sin su código
+exacto. Los carga Jorge en el borrador.
+**Por qué:** decisión de Jorge; las dos ciudades con el mismo público y la misma plata permiten compararlas mejor.
+**Qué la haría cambiar:** los interesados serios de cada ciudad al cierre.
+
 ## Pendientes de decidir
 
 | Tema | Por qué importa |

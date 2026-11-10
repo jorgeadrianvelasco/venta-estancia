@@ -24,10 +24,12 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   Santa Cruz mejoró cada día y sus charlas fueron más largas. Análisis: `analisis/campana-20-22-oct-2026.md`.
 - **No repetir:** anuncio sin mensaje prellenado (al padre le llegaba "Hola, quiero más información"); públicos distintos por
   ciudad y solo agro; 4 días perdidos por falta de saldo. Todo anotado en `como-crear-campana.md`.
-- **Próxima campaña (Jorge, 25/10; NO creada):** 30 a 54 años; + bienes raíces, inversión, turismo y agronomía; sin leche,
-  lácteos ni zona rural; mismos intereses en las dos ciudades; prellenado que diga anuncio y ciudad; 60/40 para Santa Cruz.
-  Detalle en `decisiones.md`. Los intereses nuevos los carga Jorge. **Se crea solo cuando Jorge la pida.**
-- **Saldo:** ~75 Bs (150 cargados − 74,81), **sin verificar**. Ninguna campaña activa ni control programado.
+- **TERCERA CAMPAÑA EN BORRADOR (09/11, pedida por Jorge; NO publicada):** `52544422357250`, Trinidad `52544422384650` y Santa
+  Cruz `52544422387450`, **60 Bs c/u (20/día), mié 11/11 08:00 → vie 13/11 23:59**, 30-54, feed FB solo celular, agro iguales
+  sin leche/lácteos/zona rural, **mensaje de WhatsApp por ciudad** (anuncios `52544422438250`, `52544422500650`). Validada sin
+  errores. **Para publicar falta:** Jorge carga ~45 Bs, agrega bienes raíces/inversión/turismo en el borrador y dice "publicala";
+  después se relee el `targeting` y se programan los controles.
+- **Saldo:** **75,17 Bs** (historial de pagos: 150 cargados − 74,83 cobrados). La campaña nueva necesita 120.
 - **Pendiente de Jorge:** los chats (o su Excel con ciudad, qué preguntó y si es serio); si la lámina 3 es del tramo propio
   de 800 m; InfoCasas y Evisos (opcional).
 - **Repo público:** sin nombres ni teléfonos de interesados. Todo en `main` (PR #3, 25/10). Tono camba, firmado como el dueño.
@@ -122,3 +124,15 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   de publicar; Trinidad se agota rápido (rondas cortas), Santa Cruz rinde con días; sin los chats calificados no se sabe qué
   trae compradores: pedirle a Jorge el Excel **antes** de gastar de nuevo. Las entradas del 16 al 20/10 se archivaron en
   `memoria/2026-10.md` (memory.md llegaba a 300 líneas).
+
+### 9 de noviembre de 2026 (23:50 Bolivia) — Tercera campaña armada en borrador
+- **Qué se probó:** Jorge pidió otra campaña, que Claude corrija lo del Administrador y que al papá le llegue de qué anuncio es.
+  Eligió 3 días, las dos ciudades, 20 Bs por día por ciudad, desde el miércoles. Se creó todo en borrador: campaña
+  `52544422357250`, conjuntos `52544422384650` (Trinidad) y `52544422387450` (Santa Cruz), anuncios `52544422438250` y
+  `52544422500650`, con 30-54 años (A+A apagado por edad máxima), solo celular, intereses agro iguales y el **mensaje prellenado**
+  "Hola, vi en Trinidad / Santa Cruz el aviso de la estancia Calocha. Quiero más información." (receta en `como-crear-campana.md`).
+- **Resultado:** Meta lo validó sin errores. No se publicó. Saldo verificado en el historial: 75,17 Bs (faltan ~45 para 120).
+- **Qué aprendimos / qué cambiar:** el MCP no busca intereses aunque Jorge dé permiso: los nuevos los agrega él en el borrador.
+  A la pregunta del mensaje, Jorge respondió *"le llega un simple mensaje de Hola quiero más información"*: se tomó como la
+  descripción del problema y se puso el mensaje con ciudad; confirmarlo con él. Falta comprobar con el primer chat real que el
+  prellenado llega bien.
