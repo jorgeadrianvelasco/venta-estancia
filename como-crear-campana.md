@@ -126,3 +126,9 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   Administrador. Después, releer el `targeting` antes de publicar.
 - **Saldo antes de publicar, calculado del historial** (09/11/2026): `ads_account_get_activity_logs` con `event_category: budget`
   muestra "Money added to balance" y cada "Account billed"; saldo = cargas − cobros. Al 09/11: 150 − 74,83 = **75,17 Bs**.
+- **Cambiar el mensaje prellenado en un borrador sí se puede** (10/11/2026): `ads_update_entity` sobre el anuncio en borrador con
+  `{"creative": {...}}` (el creativo entero, con el `page_welcome_message` nuevo). Una vez publicado, el creativo no se edita.
+- **La cuenta tiene borradores viejos que no son nuestros** (10/11/2026): una "New Leads Campaign" de marzo de 2026 (categoría
+  vivienda, con errores) y cambios sin publicar del boost de 2025. Cada lectura con `ads_get_ad_entities` pide revisarlos
+  (`next_actions`). **No se publican ni se borran**: se los ignora salvo que Jorge diga otra cosa.
+

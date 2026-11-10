@@ -136,8 +136,12 @@ se llevaron el 48 % del gasto por 3 conversaciones, y los 22 chats llegaron sin 
 **Qué la haría cambiar:** que el público de 30 a 54 no traiga ningún interesado serio, o que aparezca un comprador serio mayor
 de 55 por otro canal.
 
-## Tercera campaña: 20 Bs por día por ciudad, 3 días, las dos ciudades iguales (09/11/2026)
+## Tercera campaña: 18 Bs por día por ciudad, 2 días, las dos ciudades iguales (09-10/11/2026)
 **Decidido:** 09/11/2026, por Jorge: *"Por 3 días, las dos ciudades. 20 Bs el día por ciudad"*, arrancando el miércoles 11/11.
+**Cambiado el 10/11/2026** por falta de saldo (75,17 Bs): *"hacé que la campaña sea de 18 Bs y que solo dure dos días. Quiero
+que empiece mañana igual"* → 36 Bs por ciudad, mié 11 y jue 12/11 (72 Bs en total). **Mensaje de WhatsApp igual en los dos
+anuncios** (Jorge): *"Estoy interesado en la estancia Calocha. Quiero más información."* La ciudad de cada chat la informa Claude
+con los números de Meta por conjunto (Meta da cuántos por ciudad, no cuál chat es de dónde).
 Reemplaza el 60/40 a favor de Santa Cruz que había quedado aprobado el 25/10. También pidió que Claude cargue los intereses
 nuevos (*"te doy el permiso"*); no se pudo: el MCP de Meta no busca intereses y Meta no acepta un interés sin su código
 exacto. Los carga Jorge en el borrador.

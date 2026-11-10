@@ -24,11 +24,11 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   Santa Cruz mejoró cada día y sus charlas fueron más largas. Análisis: `analisis/campana-20-22-oct-2026.md`.
 - **No repetir:** anuncio sin mensaje prellenado (al padre le llegaba "Hola, quiero más información"); públicos distintos por
   ciudad y solo agro; 4 días perdidos por falta de saldo. Todo anotado en `como-crear-campana.md`.
-- **TERCERA CAMPAÑA EN BORRADOR (09/11, pedida por Jorge; NO publicada):** `52544422357250`, Trinidad `52544422384650` y Santa
-  Cruz `52544422387450`, **60 Bs c/u (20/día), mié 11/11 08:00 → vie 13/11 23:59**, 30-54, feed FB solo celular, agro iguales
-  sin leche/lácteos/zona rural, **mensaje de WhatsApp por ciudad** (anuncios `52544422438250`, `52544422500650`). Validada sin
-  errores. **Para publicar falta:** Jorge carga ~45 Bs (saldo **75,17**, verificado; necesita 120), agrega bienes raíces/inversión/
-  turismo en el borrador y dice "publicala"; después se relee el `targeting` y se programan los controles.
+- **TERCERA CAMPAÑA PUBLICADA (10/11 04:00):** `52544422357250`, Trinidad `52544422384650` y Santa Cruz `52544422387450`, **36 Bs
+  c/u (18/día), mié 11/11 08:00 → jue 12/11 23:59**, 30-54, feed FB solo celular, agro iguales sin leche/lácteos/zona rural.
+  Anuncios `52544422438250`, `52544422500650` con WhatsApp **"Estoy interesado en la estancia Calocha. Quiero más información."**
+  Saldo 75,17 alcanza (72). Bienes raíces/inversión/turismo: los agrega Jorge. Controles: 10/11 12:00 UTC (recordatorio a Jorge,
+  13:00 Madrid), 11/11 11:00 y 13:30 UTC, cierre 13/11 04:30 UTC. Jorge está de viaje en Madrid (UTC+1).
 - **Pendiente de Jorge:** los chats (o su Excel con ciudad, qué preguntó y si es serio); si la lámina 3 es del tramo propio
   de 800 m; InfoCasas y Evisos (opcional).
 - **Repo público:** sin nombres ni teléfonos de interesados. Todo en `main` (PR #3, 25/10). Tono camba, firmado como el dueño.
@@ -135,3 +135,15 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   A la pregunta del mensaje, Jorge respondió *"le llega un simple mensaje de Hola quiero más información"*: se tomó como la
   descripción del problema y se puso el mensaje con ciudad; confirmarlo con él. Falta comprobar con el primer chat real que el
   prellenado llega bien.
+
+### 10 de noviembre de 2026 (04:00 Bolivia) — Tercera campaña publicada
+- **Qué se probó:** Jorge (desde Madrid) pidió: mensaje igual en los dos anuncios ("Estoy interesado en la estancia Calocha.
+  Quiero más información."), 18 Bs por día y 2 días porque no tiene saldo, arrancar "mañana igual" (mié 11/11), y que le deje los
+  pasos para agregar bienes raíces, inversión y turismo, con un recordatorio a la 1 pm de Madrid. Se cambió el creativo en el
+  borrador (`ads_update_entity`), se bajó a 36 Bs por conjunto con fin el 12/11 23:59 y se publicó todo (`ads_activate_entity`).
+- **Resultado:** conjuntos y anuncios publicados, en revisión (`IN_PROCESS` / `pending_process`), arranque programado. Controles:
+  `trig_01FLkBTgyz7uS2PDEB7kd8xW` (recordatorio), `trig_01A5n5gWpLavrZnPEXyGTA6G`, `trig_017GiLXyuKxCwBKecNKRXJ7H`,
+  `trig_01FMvfocwFTB7wAARrN8RKC6` (cierre).
+- **Qué aprendimos / qué cambiar:** "18 Bs" se interpretó como por día por ciudad (72 Bs en total, entra en el saldo de 75,17).
+  El nombre de la campaña dice "11 al 13 nov" pero termina el 12.
+
