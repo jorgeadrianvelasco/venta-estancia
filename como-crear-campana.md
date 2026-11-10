@@ -136,4 +136,12 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   los marcó como "terriblemente mal". Para editar desde el celular: **pegar** el link en la barra de Safari (tocarlo lo desvía a
   la app), entrar a Facebook en la web con correo y contraseña, y después ••• → "Request Desktop Website". Si no tiene la
   contraseña a mano, que lo haga desde una computadora.
-
+- **IDs de intereses verificados por Meta** (leídos del `targeting` publicado el 10/11/2026; se pueden reusar):
+  Real estate `6003578086487`, Real property `6003693537583`, Real estate investing `6003446239080`, Investment `6003388314512`,
+  Investment management `6003293787730`, Tourism `6003430696269`, Ecotourism `6003059385128`; empleador Real estate
+  `137672173256832`; cargo General Farmer `415734048602007`. Los agro: ver el `targeting` de `52544422387450`.
+- **Editar el público desde el iPhone de Jorge: la app "Meta Ads Manager" sí sirve** (10/11/2026): campaña → ⋮ del conjunto →
+  Edit → lápiz de Audience. En el navegador, Facebook lo manda al App Store. Guiarlo con capturas, una pantalla por vez.
+- **Copiar un público entre conjuntos publicados:** `ads_update_entity` deja el cambio en borrador (`is_draft: true`); hay que
+  publicarlo con `ads_activate_entity` (`object_ids` de los conjuntos, `publish_as_active: false`) y **pedirle a Jorge el sí
+  explícito antes**: sin él, el permiso automático lo frena.

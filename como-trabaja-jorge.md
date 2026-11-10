@@ -62,7 +62,9 @@ mejor entiende lo que vale la estancia.
 decirme"*, *"no me des recomendaciones que no te estoy pidiendo"*, *"quiero que aprendas y no lo vuelvas a hacer"*. Entonces:
 - **No dar pasos de una pantalla que no vi.** Si no hay fuente o captura, pedir la captura primero y guiar sobre lo que se ve.
 - **Si pide ejecutar algo, ejecutarlo o decir en una línea qué lo bloquea y qué lo destraba.** No proponer abandonarlo.
-- Está mucho en el celular (iPhone, Safari en inglés): los links de `facebook.com` abren la app de Facebook.
+- Está mucho en el celular (iPhone, Safari en inglés): los links de `facebook.com` abren la app de Facebook. Para el
+  Administrador, la app **Meta Ads Manager** (en inglés).
+- **Horarios: siempre en hora de Bolivia (Santa Cruz).** *"No me hables nunca más de horario de Madrid"* (10/11/2026).
 
 **Su olfato comercial suele tener base:** insistió en mantener Santa Cruz cuando costaba más, y el análisis mostró que ahí las
 charlas fueron más largas. Se le muestran los datos; la decisión es suya.

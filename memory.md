@@ -27,8 +27,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **TERCERA CAMPAÑA PUBLICADA (10/11 04:00):** `52544422357250`, Trinidad `52544422384650` y Santa Cruz `52544422387450`, **36 Bs
   c/u (18/día), mié 11/11 08:00 → jue 12/11 23:59**, 30-54, feed FB solo celular, agro iguales sin leche/lácteos/zona rural.
   Anuncios `52544422438250`, `52544422500650` con WhatsApp **"Estoy interesado en la estancia Calocha. Quiero más información."**
-  Saldo 75,17 alcanza (72). Bienes raíces/inversión/turismo: los agrega Jorge. Controles: 10/11 12:00 UTC (recordatorio a Jorge,
-  13:00 Madrid), 11/11 11:00 y 13:30 UTC, cierre 13/11 04:30 UTC. Jorge está de viaje en Madrid (UTC+1).
+  Saldo 75,17 alcanza (72). **Intereses iguales en las dos ciudades (10/11):** agro + Real estate, Real property, Real estate
+  investing, Investment, Investment management, Tourism, Ecotourism (IDs en `como-crear-campana.md`). Controles: 11/11 07:00 y
+  09:30 Bolivia, cierre 13/11 00:30. **Con Jorge, solo hora de Bolivia (Santa Cruz): nunca otra.**
 - **Pendiente de Jorge:** los chats (o su Excel con ciudad, qué preguntó y si es serio); si la lámina 3 es del tramo propio
   de 800 m; InfoCasas y Evisos (opcional).
 - **Repo público:** sin nombres ni teléfonos de interesados. Todo en `main` (PR #3, 25/10). Tono camba, firmado como el dueño.
@@ -149,4 +150,8 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
 - **10/11 12:00 UTC (recordatorio de Jorge, 13:00 Madrid):** anuncios `52544422438250` y `52544422500650` **aprobados**
   (`ACTIVE`, `ad_set_scheduled`), conjuntos `ACTIVE`. Bienes raíces, inversión y turismo **todavía no** están en el `targeting`
   de ninguno de los dos conjuntos. Se le mandó notificación y los pasos.
-
+- **10/11 (mañana, Bolivia) — intereses cargados:** Jorge, desde la app **Meta Ads Manager** del iPhone, agregó en Santa Cruz bienes
+  raíces, inversión y turismo (con capturas, paso a paso). Se sacaron loteadores, corredores, tasadores, banca, etc. Claude copió
+  el público de Santa Cruz a Trinidad y sacó Dairy farming y Rural area de los dos (Jorge: *"quiero darte el permiso para hacer
+  las dos cosas"*). Publicado y leído de vuelta: los dos conjuntos tienen **exactamente los mismos intereses**. Arranque sin
+  cambios: mié 11/11 08:00 Bolivia. Jorge: *"no me hables nunca más de horario de Madrid"*.
