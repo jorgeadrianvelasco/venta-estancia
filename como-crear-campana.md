@@ -131,4 +131,9 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 - **La cuenta tiene borradores viejos que no son nuestros** (10/11/2026): una "New Leads Campaign" de marzo de 2026 (categoría
   vivienda, con errores) y cambios sin publicar del boost de 2025. Cada lectura con `ads_get_ad_entities` pide revisarlos
   (`next_actions`). **No se publican ni se borran**: se los ignora salvo que Jorge diga otra cosa.
+- **Jorge desde el iPhone (10/11/2026):** un link de `facebook.com/adsmanager` que se toca desde el chat lo manda a la app de
+  Facebook, o le pide iniciar sesión, porque Safari no tiene la sesión de Facebook abierta. Se le dieron pasos sin prever eso y
+  los marcó como "terriblemente mal". Para editar desde el celular: **pegar** el link en la barra de Safari (tocarlo lo desvía a
+  la app), entrar a Facebook en la web con correo y contraseña, y después ••• → "Request Desktop Website". Si no tiene la
+  contraseña a mano, que lo haga desde una computadora.
 
