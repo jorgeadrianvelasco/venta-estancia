@@ -146,4 +146,7 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   `trig_01FMvfocwFTB7wAARrN8RKC6` (cierre).
 - **Qué aprendimos / qué cambiar:** "18 Bs" se interpretó como por día por ciudad (72 Bs en total, entra en el saldo de 75,17).
   El nombre de la campaña dice "11 al 13 nov" pero termina el 12.
+- **10/11 12:00 UTC (recordatorio de Jorge, 13:00 Madrid):** anuncios `52544422438250` y `52544422500650` **aprobados**
+  (`ACTIVE`, `ad_set_scheduled`), conjuntos `ACTIVE`. Bienes raíces, inversión y turismo **todavía no** están en el `targeting`
+  de ninguno de los dos conjuntos. Se le mandó notificación y los pasos.
 
