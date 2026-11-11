@@ -177,4 +177,7 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
 - **14:42 Bolivia (Jorge: "dame resumen"):** Trinidad **7,81 Bs · 520 impresiones · 354 personas · 2 conversaciones (3,91 c/u)**;
   Santa Cruz **7,34 Bs · 479 · 378 · 0 conversaciones**. Total 15,15 de 72 Bs. Se le pidió confirmar si los 2 chats llegaron con
   el mensaje nuevo ("Estoy interesado en la estancia Calocha...").
-
+- **17:39 Bolivia (Jorge: "dame un nuevo resumen"):** Trinidad **10,73 Bs · 723 · 488 personas · 2 conversaciones (5,37 c/u)**;
+  Santa Cruz **11,70 Bs · 699 · 561 · 1 conversación (11,70)**. Total **22,43 de 72 Bs · 3 conversaciones**.
+- **Jorge pidió empezar otra campaña de otra estancia** (en este repo; *"no solo la mía"*). Se armó `propiedades/README.md`
+  (índice) y `propiedades/_plantilla.md` (ficha). Esperando qué estancia es y sus datos.

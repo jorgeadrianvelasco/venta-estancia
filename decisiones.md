@@ -160,6 +160,9 @@ Tamaños, papeles y precio: **pendientes**.
 vender más, voy a intentar vender otros terrenos y demás."*
 **Mensaje de reserva si Meta rechaza el de 87 caracteres** (Jorge): *"Tengo interés en los terrenos de San Ignacio. Dame
 información."*
+**Ampliado el 11/11/2026:** *"La idea de este repo es poder vender más estancias aún y no solo la mía."* Puede haber
+propiedades de **otras personas**: para esas, la línea "Venta directa del dueño" del texto V1 no sirve, y hay que anotar quién
+decide el precio y qué gana Jorge (`propiedades/_plantilla.md`).
 **Qué la haría cambiar:** que Jorge decida separar alguna venta en otro repo.
 
 ## Pendientes de decidir
