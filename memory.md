@@ -172,4 +172,6 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   (`ACTIVE`, `ad_set_scheduled`); conjuntos ACTIVE, `scheduled`, 36 Bs c/u, del 11/11 08:00 al 12/11 23:59 (Bolivia); los dos con
   los mismos intereses (agro + bienes raíces, inversión, turismo). Saldo: sin cobros ni cargas desde el 24/10 → **75,17 Bs**,
   alcanza para 72. Todo en orden: no se le mandó notificación a Jorge.
+- **09:30 Bolivia (1 h 30 después del arranque):** las dos ciudades entregando (`delivery: active`). Trinidad **2,84 Bs · 174
+  impresiones · 139 personas**; Santa Cruz **1,34 Bs · 92 · 75**. Todavía 0 conversaciones (normal a esta hora). Sin aviso a Jorge.
 
