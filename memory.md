@@ -184,3 +184,8 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
 - **Lotes de San Ignacio de Moxos = la "otra campaña"** (Jorge, 11/11): son **suyos**, no es una estancia; lotes de diferentes
   dimensiones sobre la circunvalación, carretera al aeropuerto. Manda planos y letrero; fotos lindas, pocas. Mensaje de
   WhatsApp nuevo: *"Estoy interesado en los lotes de San Ignacio. Quiero más información."* Ficha: `propiedades/lotes-san-ignacio.md`.
+- **Lotes de San Ignacio — material recibido (11/11):** plano aprobado por la Alcaldía (10 lotes, de 642 a 1.641 m², esquina
+  Av. Circunvalación y Av. al Aeropuerto), foto del letrero y diseño digital "desde 67.000 Bs". Todo en
+  `propiedades/lotes-san-ignacio.md`. El diseño quedó en `fotos/lotes-san-ignacio/`; el plano no (tiene nombres). Por confirmar
+  con Jorge: precio publicado, "financiamiento con banco", servicios, lugares del público.
+
