@@ -174,4 +174,7 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   alcanza para 72. Todo en orden: no se le mandó notificación a Jorge.
 - **09:30 Bolivia (1 h 30 después del arranque):** las dos ciudades entregando (`delivery: active`). Trinidad **2,84 Bs · 174
   impresiones · 139 personas**; Santa Cruz **1,34 Bs · 92 · 75**. Todavía 0 conversaciones (normal a esta hora). Sin aviso a Jorge.
+- **14:42 Bolivia (Jorge: "dame resumen"):** Trinidad **7,81 Bs · 520 impresiones · 354 personas · 2 conversaciones (3,91 c/u)**;
+  Santa Cruz **7,34 Bs · 479 · 378 · 0 conversaciones**. Total 15,15 de 72 Bs. Se le pidió confirmar si los 2 chats llegaron con
+  el mensaje nuevo ("Estoy interesado en la estancia Calocha...").
 
