@@ -181,3 +181,6 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   Santa Cruz **11,70 Bs · 699 · 561 · 1 conversación (11,70)**. Total **22,43 de 72 Bs · 3 conversaciones**.
 - **Jorge pidió empezar otra campaña de otra estancia** (en este repo; *"no solo la mía"*). Se armó `propiedades/README.md`
   (índice) y `propiedades/_plantilla.md` (ficha). Esperando qué estancia es y sus datos.
+- **Lotes de San Ignacio de Moxos = la "otra campaña"** (Jorge, 11/11): son **suyos**, no es una estancia; lotes de diferentes
+  dimensiones sobre la circunvalación, carretera al aeropuerto. Manda planos y letrero; fotos lindas, pocas. Mensaje de
+  WhatsApp nuevo: *"Estoy interesado en los lotes de San Ignacio. Quiero más información."* Ficha: `propiedades/lotes-san-ignacio.md`.

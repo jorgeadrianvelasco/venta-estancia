@@ -7,8 +7,7 @@ armada desde `_plantilla.md`. Página "Venta estancias" y WhatsApp del padre de 
 | Propiedad | De quién | Estado | Ficha |
 |---|---|---|---|
 | Estancia **Calocha** (Cercado, Beni) | Jorge | 3.ª campaña en curso (11 y 12/11/2026) | `negocio.md` y los archivos de la raíz |
-| **Lotes en San Ignacio de Moxos** (10 u 11) | pendiente | esperando planos y datos | pendiente |
-| Estancia nueva (11/11/2026) | pendiente | esperando datos de Jorge | pendiente |
+| **Lotes en San Ignacio de Moxos** (10 u 11, carretera al aeropuerto, sobre la circunvalación) | Jorge | esperando planos y letrero | `propiedades/lotes-san-ignacio.md` |
 
 **Regla:** nada de una propiedad se mezcla con otra: cada anuncio con su mensaje de WhatsApp propio, para saber de cuál
 viene cada chat (ej.: *"Estoy interesado en la estancia Calocha. Quiero más información."*).
