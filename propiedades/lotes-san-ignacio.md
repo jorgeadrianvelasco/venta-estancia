@@ -15,6 +15,6 @@ Lo que no se sabe queda **pendiente** (`reglas.md`, regla 4). Datos de Jorge, 10
 | Forma de pago | pendiente | |
 | Material | **planos y foto del letrero** (Jorge los manda); fotos lindas del lugar: pocas, las manda si encuentra | Jorge, 11/11/2026 |
 | Página y WhatsApp | "Venta estancias" (`1445747361945494`) y WhatsApp del padre de Jorge | Jorge, 10/11/2026 |
-| Mensaje de WhatsApp del anuncio | *"Estoy interesado en los lotes de San Ignacio. Quiero más información."* (67 caracteres) | Jorge, 11/11/2026 |
+| Mensaje de WhatsApp del anuncio | *"Estoy interesado en los lotes de San Ignacio. Quiero más información."* (69 caracteres) | Jorge, 11/11/2026 |
 | Público: ciudades y radio | pendiente: Jorge dice los lugares | |
 | Presupuesto y días | pendiente | |
