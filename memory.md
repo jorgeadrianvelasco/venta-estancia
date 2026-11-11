@@ -166,3 +166,10 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
 - **10/11 — alcance del repo (Jorge):** venta de **estancias y terrenos en general**, no solo Calocha (CLAUDE.md, reglas 7,
   decisiones). Mensaje de reserva para los lotes si Meta corta el de 87 caracteres: *"Tengo interés en los terrenos de San
   Ignacio. Dame información."*
+
+### 11 de noviembre de 2026
+- **07:07 Bolivia (control antes del arranque):** cuenta `64830109` ACTIVE; anuncios `52544422438250` y `52544422500650` **aprobados**
+  (`ACTIVE`, `ad_set_scheduled`); conjuntos ACTIVE, `scheduled`, 36 Bs c/u, del 11/11 08:00 al 12/11 23:59 (Bolivia); los dos con
+  los mismos intereses (agro + bienes raíces, inversión, turismo). Saldo: sin cobros ni cargas desde el 24/10 → **75,17 Bs**,
+  alcanza para 72. Todo en orden: no se le mandó notificación a Jorge.
+
