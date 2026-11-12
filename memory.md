@@ -221,3 +221,7 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   "Venta de lotes" con 13 $US/M2** (la que mandó), última = *"la imagen de venta de lotes"* (se toma como la foto del letrero;
   a confirmar con Jorge). Antes de gastar créditos, un agente investiga cómo trabajar mejor en Higgsfield →
   `investigacion/2026-11-12-higgsfield-como-trabajar.md`. Después: prompt y generación.
+- **Higgsfield — frenado por Jorge (12/11):** *"Para al agente"* y *"Ya estoy haciendo esto en otro lugar y no quiero gastar más
+  créditos"*. El agente se detuvo sin gastar: saldo **126 créditos, plan basic** (último gasto: los 2 upscales de las 13:40 UTC).
+  Su investigación quedó a medias en `investigacion/2026-11-12-higgsfield-como-trabajar.md` (borrador, no seguir sin pedido).
+  **No usar Higgsfield desde acá salvo pedido expreso de Jorge.**
