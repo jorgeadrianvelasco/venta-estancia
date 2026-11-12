@@ -196,4 +196,14 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   al abrir el archivo (la herramienta no borra páginas). Cómo se hizo: subir las fotos con `create-upload-url` (POST de bytes),
   `add_page` del tamaño exacto, `insert_fill`, parche (`insert_shape` con path) del color del fondo y `add_text`.
   **Trampa:** la transacción de edición de Canva se pierde si se reinicia la sesión; no se guarda nada hasta el `commit`.
-  Ficha actualizada (`propiedades/lotes-san-ignacio.md`). **Pendiente:** el OK de Jorge para guardar en Canva y exportar.
+  Ficha actualizada (`propiedades/lotes-san-ignacio.md`).
+- **Lotes — fotos para el anuncio (12/11):** Jorge: las fotos estaban *"muy feas para subirlas. La única buena es la que dice
+  venta de lotes. Esa no la cambies"*; pidió nitidez y color con generadores de imágenes, y que después se arme la campaña.
+  Guardado en Canva `DAHapnjJYhI` (las transacciones anteriores se perdieron con los reinicios): pág. 2 = diseño con
+  "13 $US/M2" (exportado a `fotos/lotes-san-ignacio/2026-11-12-diseno-venta-de-lotes-13-usd-m2.jpg`), pág. 3 = letrero mejorado
+  2160×3840 con el precio nuevo (`...-letrero-mejorado-13-usd-m2.jpg`). Ambos enviados a Jorge.
+  **Higgsfield (plan gratis, 10 créditos → quedan 6):** la edición con generador (`gpt_image_2_6`) **exige plan pago**; solo
+  anda el `upscale_image` (2 créditos, 1 trabajo a la vez). **El upscale inventa números y letras:** en el plano cambió
+  "648.19"→"643.49", "LOTE 10"→"LOTE 19", "1105.39"→"1405"; en el cartel puso "VIVIEADA" y "LBTE". Por eso: letrero = paisaje
+  del upscale + cartel original (ampliado y enfocado sin IA); plano = solo ajustes de contraste/nitidez sin IA (enderezado,
+  sin la pantalla del celular). El plano mejorado no va al repo (tiene nombres de personas y firmas).
