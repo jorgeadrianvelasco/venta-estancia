@@ -234,3 +234,10 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   `receta-repo-nuevo.md` quedó marcado como reemplazado por la base y su sección de imágenes apunta a la guía nueva.
 - **Resultado:** no se generó ninguna imagen; Higgsfield sigue **sin probar**.
 - **Próximo paso:** si Jorge pide fotos mejoradas para la próxima campaña, usar la skill y cotizar antes.
+- **Lotes — carrusel premium (12/11):** Jorge: *"con todo lo aprendido y mergeado nuevo, hacé las imágenes"*. Se mergeó `main`
+  (guía `guias/imagenes.md` + skill `generar-imagenes`) y se siguió la skill. Carrusel en `fotos/lotes-san-ignacio/carrusel/`:
+  1 = diseño de Jorge sin cambios; 2 "Elegí tu lote" (plano dibujado con los 10 lotes y m²); 3 "Para vivir o para invertir"
+  (números grandes); 4 foto real del letrero + "Venta directa del dueño" + WhatsApp. Texto con script
+  (`presentacion/lotes-san-ignacio/`), estilo de las láminas de Calocha. **0 créditos.** Pendiente: OK de Jorge para gastar
+  **2 créditos** de Higgsfield (`nano_banana_pro` 2K, modo restyle) en cielo y luz de atardecer sobre la foto real.
+  Mapa de ubicación: no se hizo (Overpass/OSM bloqueado y no hay coordenadas verificadas).
