@@ -28,6 +28,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Herramientas:** Canva y Moda para diseño (permisos automáticos para Canva e imágenes de Higgsfield); Higgsfield gratis: el
   upscale inventa números → nunca sobre textos o planos. **Con Jorge, solo hora de Bolivia (Santa Cruz).**
 - **Repo público:** sin nombres ni teléfonos de interesados; el plano de los lotes no se sube (tiene nombres).
+- **Imágenes (12/11):** orden Higgsfield → Moda → Canva, solo mejorando fotos reales y cotizando antes (`guias/imagenes.md`,
+  skill `generar-imagenes`).
 
 ## Bitácora
 
@@ -225,3 +227,10 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   créditos"*. El agente se detuvo sin gastar: saldo **126 créditos, plan basic** (último gasto: los 2 upscales de las 13:40 UTC).
   Su investigación quedó a medias en `investigacion/2026-11-12-higgsfield-como-trabajar.md` (borrador, no seguir sin pedido).
   **No usar Higgsfield desde acá salvo pedido expreso de Jorge.**
+### 12 de noviembre de 2026 — Imágenes: orden Higgsfield → Moda → Canva
+- **Qué se hizo:** a pedido de Jorge se trajo de la base (`base-de-todo`) `guias/imagenes.md` (orden Higgsfield → Moda →
+  Canva, reglas para gastar pocos créditos) y la skill `generar-imagenes`. En la estancia, el paso 0 dice que Higgsfield
+  solo mejora las fotos reales de Calocha (resolución, encuadre, cielo, luz) y nunca agrega lo que el predio no tiene.
+  `receta-repo-nuevo.md` quedó marcado como reemplazado por la base y su sección de imágenes apunta a la guía nueva.
+- **Resultado:** no se generó ninguna imagen; Higgsfield sigue **sin probar**.
+- **Próximo paso:** si Jorge pide fotos mejoradas para la próxima campaña, usar la skill y cotizar antes.

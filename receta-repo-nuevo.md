@@ -1,5 +1,7 @@
 # Receta para armar un repo de venta nuevo (tubos, abanicos, carteras…)
 
+> **Reemplazado por el repo `base-de-todo` (11/11/2026).** Para imágenes vale `guias/imagenes.md` (12/11/2026).
+
 Aprendido armando la venta de Calocha (15 y 16/10/2026). Este repo se armó copiando la forma del de Kakau. **El próximo se
 copia de este** y se salta todo lo que acá costó horas. Cada línea va en su propio repo y no se mezcla con las otras.
 
@@ -84,13 +86,17 @@ copia de este** y se salta todo lo que acá costó horas. Cada línea va en su p
 
 ## 4. Imágenes: qué funcionó y qué no
 
+> **Desde el 12/11/2026 el orden lo fija `guias/imagenes.md`: Higgsfield → Moda → Canva** (skill `generar-imagenes`).
+> La tabla de abajo es lo que pasó en octubre. El HTML sigue sirviendo para las láminas con texto exacto; la foto de
+> fondo puede salir de Higgsfield, mejorada pero sin agregarle nada al predio.
+
 | Herramienta | Resultado | Usar para |
 |---|---|---|
 | ✅ **HTML + Chromium del entorno** (`presentacion/fuente/laminas.py`, `laminas_cuadradas.py`, `render.js`) | Diseño exacto, fotos reales, **sin sello**, versiones 4:5 y 1:1. Se rehace en minutos | **Las láminas finales.** Copiar los scripts y cambiar textos, fotos y colores |
 | ✅ Moda (conector) | Lienzo editable y **mapa real** (Mapbox). El plan gratis le pone **sello "moda.app"** a lo que exporta. El marcador del mapa siempre va al centro; `satellite` y `marker="lon,lat"` se ignoran | Borradores y el mapa (se recorta de la exportación) |
 | ❌ Canva `create-design` | Mete **fotos de stock que no son del producto**: Jorge las rechazó ("es falsa"). Pasarlo a vertical desarmó el diseño y gastó una prueba Pro | No usar para piezas con producto |
 | ⚠️ Canva `generate-image` | Sirve para logos. Las primeras rondas "se notan IA" y son "básicas". Funcionó: un agente investiga la identidad visual de la competencia → prompts → elegir entre varias | Logo y portada de la página, **nunca** fotos del producto |
-| ❌ Imágenes del producto hechas con IA | Prohibido (`reglas.md`, regla 4). Solo fotos reales, como mucho recortadas | — |
+| ❌ Imágenes del producto inventadas con IA | Prohibido (`reglas.md`, regla 4). Solo fotos reales; desde el 12/11 se pueden mejorar con Higgsfield (resolución, encuadre, cielo, luz) sin agregar nada (`guias/imagenes.md`) | — |
 | ⚠️ Creative Claw | No conectó porque arrancó con la red bloqueada | Probar en una sesión con la red completa desde el inicio |
 
 **Sistema visual que gustó:**
