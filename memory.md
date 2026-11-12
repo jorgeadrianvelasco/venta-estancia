@@ -216,3 +216,8 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   `994ea7e4-0ac7-4164-8ea4-128019e8512d`; datos revisados; PNG en `fotos/lotes-san-ignacio/2026-11-12-publicacion-moda-*`. Se le
   mandó a Jorge con un texto propuesto. **No hay herramienta para publicar en la página desde acá** (el MCP de Meta solo crea
   anuncios): la publica Jorge y pasa el link; después, campaña con ese post.
+- **Lotes — propaganda premium con Higgsfield (12/11):** Jorge contrató un plan pago de Higgsfield (*"ya me contraté el mejor
+  modelo y tengo créditos"*) y pidió una propaganda *"premium"*, *"mucho mejor que las otras"*: **primera imagen = el diseño
+  "Venta de lotes" con 13 $US/M2** (la que mandó), última = *"la imagen de venta de lotes"* (se toma como la foto del letrero;
+  a confirmar con Jorge). Antes de gastar créditos, un agente investiga cómo trabajar mejor en Higgsfield →
+  `investigacion/2026-11-12-higgsfield-como-trabajar.md`. Después: prompt y generación.
