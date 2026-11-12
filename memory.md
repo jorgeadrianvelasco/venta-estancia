@@ -12,27 +12,22 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 
 ## Estado actual
 <!-- máximo 20 líneas; se reescribe -->
-- **Estancia:** Calocha, 530 ha tituladas (500 de arrocillo, 30 de monte), predio urbano en Cercado sobre la laguna Suárez
-  (**frente propio: 800 m**), a 6,6 km de Trinidad, acceso todo el año. Se vende sin ganado; pago negociable, sin intermediario.
-  Dueño y precio: **Jorge**. **El precio no se publica.** Ficha completa en `negocio.md`.
-- **Meta:** cuenta **personal `64830109`, prepaga** (leer el campo `delivery`); página "Venta estancias" `1445747361945494`;
-  WhatsApp del padre de Jorge, compartido con tubos. Sin Instagram. Nada de Kakau.
-- **Etapa:** paso 9 del plan hecho (dos campañas); paso 10 sin datos. **Interesados serios: 0** (Jorge, 24/10: "ningún
-  interesado muy interesado"). Nadie anotado en `interesados.md`.
-- **Última campaña:** `52538379010850`, del 20/10 11:30 al 22/10 23:59, Trinidad 40 km + Santa Cruz 80 km, carrusel V1 a
-  WhatsApp. **74,81 Bs, 22 conversaciones** (13 Trinidad a 2,88 Bs; 9 Santa Cruz a 4,16). Trinidad se agotó el primer día;
-  Santa Cruz mejoró cada día y sus charlas fueron más largas. Análisis: `analisis/campana-20-22-oct-2026.md`.
-- **No repetir:** anuncio sin mensaje prellenado (al padre le llegaba "Hola, quiero más información"); públicos distintos por
-  ciudad y solo agro; 4 días perdidos por falta de saldo. Todo anotado en `como-crear-campana.md`.
-- **TERCERA CAMPAÑA PUBLICADA (10/11 04:00):** `52544422357250`, Trinidad `52544422384650` y Santa Cruz `52544422387450`, **36 Bs
-  c/u (18/día), mié 11/11 08:00 → jue 12/11 23:59**, 30-54, feed FB solo celular, agro iguales sin leche/lácteos/zona rural.
-  Anuncios `52544422438250`, `52544422500650` con WhatsApp **"Estoy interesado en la estancia Calocha. Quiero más información."**
-  Saldo 75,17 alcanza (72). **Intereses iguales en las dos ciudades (10/11):** agro + Real estate, Real property, Real estate
-  investing, Investment, Investment management, Tourism, Ecotourism (IDs en `como-crear-campana.md`). Controles: 11/11 07:00 y
-  09:30 Bolivia, cierre 13/11 00:30. **Con Jorge, solo hora de Bolivia (Santa Cruz): nunca otra.**
-- **Pendiente de Jorge:** los chats (o su Excel con ciudad, qué preguntó y si es serio); si la lámina 3 es del tramo propio
-  de 800 m; InfoCasas y Evisos (opcional).
-- **Repo público:** sin nombres ni teléfonos de interesados. Todo en `main` (PR #3, 25/10). Tono camba, firmado como el dueño.
+- **Repo = venta de estancias y terrenos de Jorge** (índice `propiedades/README.md`). **Orden fijo desde 12/11: primero la
+  publicación en la página "Venta estancias", después la campaña con esa publicación** (`reglas.md` regla 1).
+- **Calocha:** 530 ha, laguna Suárez, frente 800 m, a 6,6 km de Trinidad; sin ganado; **precio no se publica** (`negocio.md`).
+  Tercera campaña `52544422357250` (Trinidad `52544422384650`, Santa Cruz `52544422387450`), 36 Bs c/u, 11/11 08:00 → 12/11
+  23:59, WhatsApp "Estoy interesado en la estancia Calocha. Quiero más información." Al 11/11 17:39: 22,43 Bs, 3 conversaciones.
+  Cierre programado 13/11 00:30 Bolivia. Interesados serios: 0. Falta: chats del padre, lámina 3.
+- **Lotes San Ignacio de Moxos** (`propiedades/lotes-san-ignacio.md`): 10 lotes de 642 a 1.641 m², esquina Av. Circunvalación
+  y Av. al Aeropuerto, **desde 13 $US el m²** (lote más chico), plano aprobado. WhatsApp: "Estoy interesado en los lotes de San
+  Ignacio. Quiero más información." Fotos listas (`fotos/lotes-san-ignacio/2026-11-12-*`). **Publicación encargada a Moda**
+  (`propiedades/lotes-san-ignacio-publicacion.md`); después: Jorge la publica en la página → campaña con ese post. Pendiente:
+  lugares del público, monto, días; agua/luz/financiamiento sin confirmar (no se prometen).
+- **Meta:** cuenta personal **`64830109` prepaga** (leer `delivery`); página "Venta estancias" `1445747361945494`; WhatsApp del
+  padre (compartido con tubos). Sin Instagram. Nada de Kakau. Crear o activar campañas: solo con pedido expreso de Jorge.
+- **Herramientas:** Canva y Moda para diseño (permisos automáticos para Canva e imágenes de Higgsfield); Higgsfield gratis: el
+  upscale inventa números → nunca sobre textos o planos. **Con Jorge, solo hora de Bolivia (Santa Cruz).**
+- **Repo público:** sin nombres ni teléfonos de interesados; el plano de los lotes no se sube (tiene nombres).
 
 ## Bitácora
 
