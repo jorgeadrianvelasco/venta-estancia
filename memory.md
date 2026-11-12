@@ -207,3 +207,7 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   "648.19"→"643.49", "LOTE 10"→"LOTE 19", "1105.39"→"1405"; en el cartel puso "VIVIEADA" y "LBTE". Por eso: letrero = paisaje
   del upscale + cartel original (ampliado y enfocado sin IA); plano = solo ajustes de contraste/nitidez sin IA (enderezado,
   sin la pantalla del celular). El plano mejorado no va al repo (tiene nombres de personas y firmas).
+- **Permisos automáticos (12/11):** Jorge: *"Quiero que todos estos permisos sean automáticos... te doy permiso"* (por el
+  aviso de Canva `edit-design`). En `.claude/settings.json` → `permissions.allow`: `mcp__Canva` (todas sus herramientas) y las
+  de imágenes de Higgsfield que se usan (subir, upscale, generar, esperar, saldo). **Meta Ads no se tocó**: crear o activar
+  campañas sigue pidiendo confirmación y la regla 1 de `reglas.md` sigue igual.
