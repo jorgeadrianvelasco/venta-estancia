@@ -134,3 +134,26 @@ Interpretación: la publicación se parece menos a los loteos de cuota baja y m�
 - https://c21global.immobel.com/property/urb--el-dorardo--cotoca--manzana-b--lote-25--este-santa-cruz-00001-bolivia-C21136175349-USD
 - https://eju.tv/?p=3039697
 - https://eju.tv/?p=733928
+
+## Biblioteca de Anuncios de Meta (consultada el 12/11/2026 por el MCP de Meta Ads)
+
+Búsqueda: "lotes urbanización Santa Cruz", país BO, anuncios **activos**. Meta estima **74 anuncios**; vi los primeros 25.
+La herramienta devuelve página, fecha y el título del enlace, **no la imagen ni el texto completo** (el `ad_snapshot_url`
+pide entrar a Facebook). Se omiten las páginas de personas particulares (repo público).
+
+| Página (empresa) | Título del anuncio (tal cual) | Moneda de la cuenta |
+|---|---|---|
+| Urbanización Las Barreras | "¿Y vos ya tenés tu lote?" | USD |
+| Lotes Scznorte | "Invertí en tu lote en Norte La Molina" | BOB |
+| Cantares SRL (5 anuncios activos) | "Invierte hoy a 6.96 ! lotes al 50% de Descuento!", "T.C. Fija 6.96", "Contratos en bolivianos" | USD |
+| Mi Rancho SRL | "Chatea con nosotros" | USD |
+| Celina Urbanizaciones | "Contáctate con nosotros" | BOB |
+| Cortsal SRL, Urbanización Campos del Esté, Inmobiliaria Virgen de Asunción, B12 Corporación, Dulce Hogar, Marino Group | (sin título de enlace) | BOB/USD |
+
+Avisos de particulares (sin nombre acá) usan el precio por metro en el título: *"a 7 $ el metro a 1km del asfalto"*,
+*"6 dolare el metro"*, *"Invierte en tierra en el norte de Santa Cruz"*.
+
+**Lectura (interpretación, no dato):** en los títulos se repiten tres ganchos: la **pregunta directa** ("¿Y vos ya tenés tu
+lote?"), el **"invertí"** y el **precio por metro con la distancia al asfalto**. Cantares insiste en el **tipo de cambio fijo
+6,96 y contratos en bolivianos**: señal de que el comprador cruceño mira con cuidado el precio en dólares. Si nuestros lotes
+se cobran en dólares o en bolivianos a qué cambio es **pendiente** (Jorge).
