@@ -6,6 +6,8 @@ El contexto del negocio está en `negocio.md`. El porqué de cada decisión, en 
 ## 1. Nada se publica ni se gasta sin pedido expreso de Jorge
 No crear campañas, conjuntos de anuncios ni anuncios — **ni siquiera en pausa** — hasta que Jorge lo
 pida con esas palabras. Cuando lo pida, todo se crea **pausado** y no se activa sin su aprobación.
+**Orden fijo (Jorge, 12/11/2026):** primero la publicación en la página "Venta estancias", después la campaña con esa
+publicación. Nunca un anuncio que exista solo dentro de Meta Ads (`decisiones.md`).
 
 ## 2. Nada de Kakau
 No se usa la cuenta publicitaria, la página, el Instagram ni el WhatsApp de Kakau. Antes de la primera

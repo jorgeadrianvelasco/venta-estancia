@@ -211,3 +211,9 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   aviso de Canva `edit-design`). En `.claude/settings.json` → `permissions.allow`: `mcp__Canva` (todas sus herramientas) y las
   de imágenes de Higgsfield que se usan (subir, upscale, generar, esperar, saldo). **Meta Ads no se tocó**: crear o activar
   campañas sigue pidiendo confirmación y la regla 1 de `reglas.md` sigue igual.
+- **Lotes — nueva forma de trabajar (12/11):** Jorge: *"a partir de ahora todo, primero lo publiquemos y después recién lo
+  hagamos el meta ads y la campaña"* (anotado en `reglas.md` regla 1 y `decisiones.md`). La publicación de los lotes se hace con
+  **Moda** (no Canva), inspirada en Pinterest y en letreros de urbanizaciones de Santa Cruz (dos agentes investigando →
+  `investigacion/2026-11-12-*`). En Moda (plan gratis, sin kit de marca) ya están subidos el diseño
+  (`file_3BWD27QQ0E847802F853C06WKP`) y el letrero mejorado (`file_0YR7D4JHJF9XGA1J1JNA5GR180`). Jorge pidió que Moda *"nos
+  haga la publicación"* → `task_delegate` (gasta créditos de Moda).

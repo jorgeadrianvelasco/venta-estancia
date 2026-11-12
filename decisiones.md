@@ -166,6 +166,15 @@ propiedades de **otras personas**: para esas, la línea "Venta directa del dueñ
 decide el precio y qué gana Jorge (`propiedades/_plantilla.md`).
 **Qué la haría cambiar:** que Jorge decida separar alguna venta en otro repo.
 
+## Primero la publicación en la página, después la campaña con esa publicación (12/11/2026)
+**Decidido por Jorge:** *"Quiero que a partir de ahora todo, primero lo publiquemos y después recién lo hagamos el meta ads y la
+campaña. No quiero que lo hagamos como la última vez, que no era una publicación, sino que solo era una campaña de marketing."*
+**Qué cambia:** las tres campañas de Calocha usaron anuncios armados solo dentro de Meta Ads (no estaban como publicación en la
+página). Desde ahora: (1) se diseña la pieza, (2) se publica en la página "Venta estancias", (3) recién ahí se arma la campaña
+usando **esa** publicación.
+**Diseño:** para los lotes de San Ignacio la publicación se hace con **Moda**, no con Canva (Jorge, 12/11/2026), después de
+inspirarse en Pinterest y en los letreros de las urbanizaciones de Santa Cruz (`investigacion/2026-11-12-*`).
+
 ## Pendientes de decidir
 
 | Tema | Por qué importa |
