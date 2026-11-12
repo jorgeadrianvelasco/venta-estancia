@@ -20,8 +20,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   Cierre programado 13/11 00:30 Bolivia. Interesados serios: 0. Falta: chats del padre, lámina 3.
 - **Lotes San Ignacio de Moxos** (`propiedades/lotes-san-ignacio.md`): 10 lotes de 642 a 1.641 m², esquina Av. Circunvalación
   y Av. al Aeropuerto, **desde 13 $US el m²** (lote más chico), plano aprobado. WhatsApp: "Estoy interesado en los lotes de San
-  Ignacio. Quiero más información." Fotos listas (`fotos/lotes-san-ignacio/2026-11-12-*`). **Publicación encargada a Moda**
-  (`propiedades/lotes-san-ignacio-publicacion.md`); después: Jorge la publica en la página → campaña con ese post. Pendiente:
+  Ignacio. Quiero más información." Fotos listas (`fotos/lotes-san-ignacio/2026-11-12-*`). **Publicación lista (Moda, 2 imágenes)**
+  (`propiedades/lotes-san-ignacio-publicacion.md`); falta: Jorge la publica en la página y pasa el link → campaña con ese post. Pendiente:
   lugares del público, monto, días; agua/luz/financiamiento sin confirmar (no se prometen).
 - **Meta:** cuenta personal **`64830109` prepaga** (leer `delivery`); página "Venta estancias" `1445747361945494`; WhatsApp del
   padre (compartido con tubos). Sin Instagram. Nada de Kakau. Crear o activar campañas: solo con pedido expreso de Jorge.
