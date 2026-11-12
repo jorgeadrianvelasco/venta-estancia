@@ -31,6 +31,7 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
 - **Pendiente de Jorge:** los chats (o su Excel con ciudad, qué preguntó y si es serio); si la lámina 3 es del tramo propio
   de 800 m; InfoCasas y Evisos (opcional).
 - **Repo público:** sin nombres ni teléfonos de interesados. Todo en `main` (PR #3, 25/10). Tono camba, firmado como el dueño.
+- **Imágenes (12/11):** Higgsfield → Moda → Canva, solo mejorando fotos reales (`guias/imagenes.md`, skill `generar-imagenes`).
 
 ## Bitácora
 
@@ -122,3 +123,11 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   de publicar; Trinidad se agota rápido (rondas cortas), Santa Cruz rinde con días; sin los chats calificados no se sabe qué
   trae compradores: pedirle a Jorge el Excel **antes** de gastar de nuevo. Las entradas del 16 al 20/10 se archivaron en
   `memoria/2026-10.md` (memory.md llegaba a 300 líneas).
+
+### 12 de noviembre de 2026 — Imágenes: orden Higgsfield → Moda → Canva
+- **Qué se hizo:** a pedido de Jorge se trajo de la base (`base-de-todo`) `guias/imagenes.md` (orden Higgsfield → Moda →
+  Canva, reglas para gastar pocos créditos) y la skill `generar-imagenes`. En la estancia, el paso 0 dice que Higgsfield
+  solo mejora las fotos reales de Calocha (resolución, encuadre, cielo, luz) y nunca agrega lo que el predio no tiene.
+  `receta-repo-nuevo.md` quedó marcado como reemplazado por la base y su sección de imágenes apunta a la guía nueva.
+- **Resultado:** no se generó ninguna imagen; Higgsfield sigue **sin probar**.
+- **Próximo paso:** si Jorge pide fotos mejoradas para la próxima campaña, usar la skill y cotizar antes.
