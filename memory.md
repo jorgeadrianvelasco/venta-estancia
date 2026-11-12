@@ -189,3 +189,11 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   `propiedades/lotes-san-ignacio.md`. El diseño quedó en `fotos/lotes-san-ignacio/`; el plano no (tiene nombres). Por confirmar
   con Jorge: precio publicado, "financiamiento con banco", servicios, lugares del público.
 
+- **Lotes — precio corregido (11-12/11):** Jorge: *"El precio real es de desde 13 dólares el metro cuadrado. Por el más
+  pequeño"*; el "67.000 Bs" del letrero y del diseño estaba mal. Pidió corregirlo **en Canva, en las dos fotos, sin cambiar
+  nada más**. Se armó el diseño Canva `DAHapnjJYhI` ("Lotes San Ignacio - precio corregido"): pág. 2 = diseño digital con
+  "13 $US/M2" sobre el "DESDE"; pág. 3 = foto del letrero con "13 $US / M2" en el mismo lugar; pág. 1 = fondo que Canva creó
+  al abrir el archivo (la herramienta no borra páginas). Cómo se hizo: subir las fotos con `create-upload-url` (POST de bytes),
+  `add_page` del tamaño exacto, `insert_fill`, parche (`insert_shape` con path) del color del fondo y `add_text`.
+  **Trampa:** la transacción de edición de Canva se pierde si se reinicia la sesión; no se guarda nada hasta el `commit`.
+  Ficha actualizada (`propiedades/lotes-san-ignacio.md`). **Pendiente:** el OK de Jorge para guardar en Canva y exportar.
