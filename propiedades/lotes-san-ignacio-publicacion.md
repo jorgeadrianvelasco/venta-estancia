@@ -65,4 +65,18 @@ inventada que parezca la real.
 
 | Fecha | Qué | Resultado |
 |---|---|---|
-| 12/11/2026 | Pedido enviado a Moda (`task_1S784DTC2A8C9A69V30JE9773N`), canvas https://moda.app/canvas/994ea7e4-0ac7-4164-8ea4-128019e8512d | en proceso |
+| 12/11/2026 | Pedido enviado a Moda (`task_1S784DTC2A8C9A69V30JE9773N`), canvas https://moda.app/canvas/994ea7e4-0ac7-4164-8ea4-128019e8512d | listo |
+| 12/11/2026 | Moda entregó 2 páginas 1080×1350: "Elegí tu lote" (plano con los 10 lotes y sus m², "Desde 13 $US el m²", sello "Plano aprobado por la Alcaldía", pin en la esquina) y "Es real" (foto del letrero + franja con esquina, precio y WhatsApp). Datos revisados uno por uno: correctos, sin promesas no confirmadas | `fotos/lotes-san-ignacio/2026-11-12-publicacion-moda-1-elegi-tu-lote.png` y `...-2-es-real.png`, enviados a Jorge |
+
+## Texto propuesto para el post (pendiente de OK de Jorge)
+
+> ¿Y vos ya tenés tu lote?
+> Vendo 10 lotes en San Ignacio de Moxos, esquina Av. Circunvalación y Av. al Aeropuerto.
+> 📐 De 642 a 1.641 m²
+> 💲 Desde 13 $US el m² (el lote más chico)
+> ✅ Plano aprobado por la Alcaldía
+> Trato directo con el dueño. Escribime por WhatsApp y te paso el plano con las medidas de cada lote.
+
+## Siguiente paso
+Jorge publica el post en la página "Venta estancias" (no hay herramienta para publicar en la página desde acá: el MCP de Meta
+solo crea anuncios) y pasa el link. Recién ahí se arma la campaña con **ese** post, cuando Jorge la pida (lugares, monto, días).

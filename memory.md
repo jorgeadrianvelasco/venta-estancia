@@ -212,3 +212,7 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   `investigacion/2026-11-12-*`). En Moda (plan gratis, sin kit de marca) ya están subidos el diseño
   (`file_3BWD27QQ0E847802F853C06WKP`) y el letrero mejorado (`file_0YR7D4JHJF9XGA1J1JNA5GR180`). Jorge pidió que Moda *"nos
   haga la publicación"* → `task_delegate` (gasta créditos de Moda).
+- **Lotes — publicación lista (12/11, 14:45 UTC):** Moda entregó el post (2 imágenes 4:5) en el canvas
+  `994ea7e4-0ac7-4164-8ea4-128019e8512d`; datos revisados; PNG en `fotos/lotes-san-ignacio/2026-11-12-publicacion-moda-*`. Se le
+  mandó a Jorge con un texto propuesto. **No hay herramienta para publicar en la página desde acá** (el MCP de Meta solo crea
+  anuncios): la publica Jorge y pasa el link; después, campaña con ese post.
