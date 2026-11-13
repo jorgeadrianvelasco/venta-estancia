@@ -288,3 +288,8 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   30-54 como sugerencia) y cambió intereses: Small business, House, Family, Investor, Recently moved + bienes raíces/inversión/
   turismo + Livestock, empleadores y Farmer. **El anuncio `52545260642250` quedó en borrador** (el primer publish no lo incluyó;
   el segundo lo frenó el permiso automático): hay que publicarlo con el OK de Jorge. Saldo ≈ 240 Bs (cargó 236 Bs el 12/11).
+- **Lotes — una sola campaña (13/11):** Jorge: *"borrá la de 38 Bs el día. Esa no sirve"* → campaña `52545259104250` **DELETED**
+  (0 Bs gastados). **La única campaña de los lotes es `52545260604850`** (13 Bs/día, 182 Bs, 14 al 27/11, solo Facebook, ubicaciones
+  y segmentación de Jorge, WhatsApp "Quiero más información de los terrenos de San Ignacio."). **El anuncio `52545260642250` sigue
+  en borrador: Jorge dijo "todavía no"** a publicarlo. **Pedido de Jorge:** si Advantage+ audiencia gasta más de lo normal, analizar
+  si vale la pena tenerlo (comparar costo por conversación contra Calocha: 3,40 Bs en oct, 7,86 en nov).
