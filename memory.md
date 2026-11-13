@@ -269,3 +269,8 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   3,43 c/u. Esta vez el costo por conversación fue **más del doble**: público más chico (30-54, solo celular) y más intereses
   (bienes raíces, inversión, turismo). Lo que importa sigue sin saberse: **cuántos son serios** y si el WhatsApp llegó con el
   mensaje de Calocha. Se le avisó a Jorge con PushNotification. Saldo restante ≈ 75,17 − 70,77 ≈ **4,4 Bs**.
+- **Lotes — promoción publicada sin querer y pausada (13/11):** Jorge publicó el carrusel en la página y sin querer lo
+  promocionó: campaña `52545259104250` ("Post: ¿Y vos ya tenés tu lote?"), conjunto `52545259109850`, a WhatsApp,
+  **38 Bs por día**, sin fecha de fin, 18-65, San Borja 30 mi + San Ignacio 50 mi + Trinidad 25 mi, todas las ubicaciones
+  (FB, IG, Audience Network, WhatsApp), Advantage+ prendido. **Gasto 0 Bs** (no había saldo, `no_ads`). La pausé a pedido de
+  Jorge (*"Paralo"*). Él quiere poner la segmentación y bajar el monto. Falta el link/ID del post para armar la buena.
