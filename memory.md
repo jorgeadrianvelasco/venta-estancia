@@ -255,3 +255,10 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   nombrar a los autores en el post) como referencia: 1 = letras MOXOS en la plaza, 2 = el pueblo desde el aire con lotes verdes,
   3 = un lote con estacas e hilo junto a casas de ladrillo (**referencial**, no es el lote real). **6 créditos (quedan 120).**
   Primero se hizo 1 y se revisó; después 2 y 3. Las tres salieron bien a la primera. Esperando que Jorge elija.
+- **Lotes — carrusel final (13/11):** Jorge aprobó las fotos de Higgsfield (*"ahora sí me gusta... quedó perfecto"*) y pidió
+  guardar la forma de trabajo como skill → **`.claude/skills/fotos-premium/`** (Higgsfield, `nano_banana_pro`, foto real de
+  referencia de Wikimedia o de Jorge, prompt por secciones, de a una imagen). Carrusel armado **en Canva** (Moda gratis pone un
+  sello "moda.app"; lo tiene también el post de Moda del 12/11), diseño `DAHaxI4fAd0`, sin gastar créditos de Higgsfield. Orden
+  de Jorge: 1 diseño "Venta de lotes" · 2 MOXOS · 3 "Elegí tu lote" · 4 pueblo desde el aire · 5 lote urbano-rural
+  ("Imagen referencial") · 6 "Para vivir o para invertir" con la foto aérea arriba (antes tenía la foto fea del letrero).
+  Archivos: `fotos/lotes-san-ignacio/carrusel-final/`. Falta: Jorge lo publica en la página y pasa el link; cargar saldo (364 Bs).

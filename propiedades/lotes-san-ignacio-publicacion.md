@@ -80,3 +80,28 @@ inventada que parezca la real.
 ## Siguiente paso
 Jorge publica el post en la página "Venta estancias" (no hay herramienta para publicar en la página desde acá: el MCP de Meta
 solo crea anuncios) y pasa el link. Recién ahí se arma la campaña con **ese** post, cuando Jorge la pida (lugares, monto, días).
+
+## Carrusel final (13/11/2026) — reemplaza al post de Moda
+
+Pedido de Jorge con este orden. Hecho en Canva (diseño `DAHaxI4fAd0`), 6 imágenes 1080×1350 en
+`fotos/lotes-san-ignacio/carrusel-final/`:
+
+| # | Imagen | Origen |
+|---|---|---|
+| 1 | Diseño "Venta de lotes" (13 $US/M2) | Diseño de Jorge, precio corregido en Canva |
+| 2 | Plaza con las letras MOXOS | Higgsfield, foto real de Puya Raimondi (Wikimedia, CC BY-SA 4.0) |
+| 3 | "Elegí tu lote" (plano con los 10 lotes) | Script de láminas |
+| 4 | El pueblo desde el aire | Higgsfield, foto real de Gabvia (Wikimedia, CC BY-SA 4.0) |
+| 5 | Lote urbano-rural, "Imagen referencial" | Higgsfield, referencia: foto de Carlillasa (Wikimedia, CC BY-SA 4.0) |
+| 6 | "Para vivir o para invertir", con la foto aérea arriba | Script de láminas + imagen 4 |
+
+Texto del post (agrega los créditos que pide la licencia):
+
+> ¿Y vos ya tenés tu lote?
+> Vendo 10 lotes en San Ignacio de Moxos, esquina Av. Circunvalación y Av. al Aeropuerto.
+> 📐 De 642 a 1.641 m²
+> 💲 Desde 13 $US el m² (el lote más chico)
+> ✅ Plano aprobado por la Alcaldía
+> Trato directo con el dueño. Escribime por WhatsApp y te paso el plano con las medidas de cada lote.
+>
+> Fotos del pueblo: Puya Raimondi, Gabvia y Carlillasa (Wikimedia Commons, CC BY-SA 4.0), retocadas. Imagen 5: referencial.
