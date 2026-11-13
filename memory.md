@@ -20,16 +20,17 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   Cierre programado 13/11 00:30 Bolivia. Interesados serios: 0. Falta: chats del padre, lámina 3.
 - **Lotes San Ignacio de Moxos** (`propiedades/lotes-san-ignacio.md`): 10 lotes de 642 a 1.641 m², esquina Av. Circunvalación
   y Av. al Aeropuerto, **desde 13 $US el m²** (lote más chico), plano aprobado. WhatsApp: "Estoy interesado en los lotes de San
-  Ignacio. Quiero más información." Fotos listas (`fotos/lotes-san-ignacio/2026-11-12-*`). **Publicación lista (Moda, 2 imágenes)**
-  (`propiedades/lotes-san-ignacio-publicacion.md`); falta: Jorge la publica en la página y pasa el link → campaña con ese post. Pendiente:
-  lugares del público, monto, días; agua/luz/financiamiento sin confirmar (no se prometen).
+  Ignacio. Quiero más información." **Carrusel final de 6 imágenes (Canva, 13/11)** en
+  `fotos/lotes-san-ignacio/carrusel-final/` y texto en `propiedades/lotes-san-ignacio-publicacion.md`. Falta: Jorge lo publica en
+  la página y pasa el link → campaña con ese post: Trinidad 40 km + San Ignacio 40 km, misma segmentación, **13 Bs/día por ciudad,
+  2 semanas (364 Bs)**; saldo ~3 Bs → cargar antes. Agua/luz/financiamiento sin confirmar (no se prometen).
 - **Meta:** cuenta personal **`64830109` prepaga** (leer `delivery`); página "Venta estancias" `1445747361945494`; WhatsApp del
   padre (compartido con tubos). Sin Instagram. Nada de Kakau. Crear o activar campañas: solo con pedido expreso de Jorge.
 - **Herramientas:** Canva y Moda para diseño (permisos automáticos para Canva e imágenes de Higgsfield); Higgsfield gratis: el
   upscale inventa números → nunca sobre textos o planos. **Con Jorge, solo hora de Bolivia (Santa Cruz).**
 - **Repo público:** sin nombres ni teléfonos de interesados; el plano de los lotes no se sube (tiene nombres).
-- **Imágenes (12/11):** orden Higgsfield → Moda → Canva, solo mejorando fotos reales y cotizando antes (`guias/imagenes.md`,
-  skill `generar-imagenes`).
+- **Imágenes:** Higgsfield → Moda → Canva (`guias/imagenes.md`, skill `generar-imagenes`); fotos premium: skill `fotos-premium`
+  (aprobada por Jorge 13/11). Carruseles: Canva (Moda gratis pone sello). Higgsfield: 120 créditos al 13/11.
 
 ## Bitácora
 
