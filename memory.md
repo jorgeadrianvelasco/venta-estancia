@@ -282,3 +282,9 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   Ignacio."** (Jorge lo pidió así). **Trampa:** reusar el `creative_id` del boost (`1214082897934692`) dio "Page Post Can't Be
   Used"; con `object_story_id` + CTA + `page_welcome_message` inline quedó sin errores. La promoción vieja `52545259104250` sigue
   pausada. **Falta:** que Jorge cargue 182 Bs y diga "publicala" → `ads_activate_entity`.
+- **Lotes — publicada (13/11):** Jorge: *"Publicalo"*. Campaña `52545260604850` y conjunto `52545260627850` publicados (arranca sáb
+  14/11 08:00, termina vie 27/11 23:59, 182 Bs). Después Jorge pidió *"que solo se vea en Facebook"* → `publisher_platforms:
+  ["facebook"]` (todas las ubicaciones de FB, celular y computadora), publicado. Jorge dejó Advantage+ audiencia prendido (edad
+  30-54 como sugerencia) y cambió intereses: Small business, House, Family, Investor, Recently moved + bienes raíces/inversión/
+  turismo + Livestock, empleadores y Farmer. **El anuncio `52545260642250` quedó en borrador** (el primer publish no lo incluyó;
+  el segundo lo frenó el permiso automático): hay que publicarlo con el OK de Jorge. Saldo ≈ 240 Bs (cargó 236 Bs el 12/11).
