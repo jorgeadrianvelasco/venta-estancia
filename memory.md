@@ -241,3 +241,12 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   (`presentacion/lotes-san-ignacio/`), estilo de las láminas de Calocha. **0 créditos.** Pendiente: OK de Jorge para gastar
   **2 créditos** de Higgsfield (`nano_banana_pro` 2K, modo restyle) en cielo y luz de atardecer sobre la foto real.
   Mapa de ubicación: no se hizo (Overpass/OSM bloqueado y no hay coordenadas verificadas).
+- **Lotes — campaña pedida (12/11, 15:55 Bolivia):** Jorge: *"Publicalo en facebook y arma la propaganda para empezar... la misma
+  segmentación... en Trinidad a 40 km y en San Ignacio de Moxos a 40 km"*. Monto: **13 Bs por día en cada ciudad, por 2 semanas**
+  (= 182 Bs por ciudad, 364 Bs en total). Segmentación a copiar: la de `52544422384650` (30-54, feed FB celular, intereses agro
+  + bienes raíces + inversión + turismo, empleadores y cargos; `advantage_audience: 0`). San Ignacio de Moxos: -14.99444,
+  -65.64028 (Wikipedia); Trinidad -14.8333, -64.9; quedan a ~82 km, los radios de 40 km no se pisan. **Saldo: ~3 Bs** cuando
+  termine Calocha (75,17 − 72) → Jorge tiene que cargar antes. **El post lo publica Jorge** (el MCP no publica en la página).
+- **Lotes — imágenes, nuevo pedido (13/11):** no le gustó la 3.ª lámina ("Para vivir o para invertir"). Pide 3 prompts para
+  Higgsfield y 3 opciones de imagen generada, coherentes con *"terrenos en áreas urbanas en un pueblo boliviano"*: una foto de
+  San Ignacio de Moxos (para la 2.ª) y una de terrenos urbanos/rurales (para la 3.ª); él elige cuáles entran y dónde.
