@@ -229,3 +229,7 @@ Las entradas de octubre de 2026 (15 al 28/10) están en `memoria/2026-10.md`.
   `active_errors` y publicar (`ads_activate_entity`, Jorge ya dio el OK: "publicá" + "Hacé la A").
 - Memoria: entradas de octubre movidas a `memoria/2026-10.md`.
 
+- **Conector de Meta Ads borrado por Jorge (13/11)** porque fallaba. Para volver a agregarlo: claude.ai → Configuración →
+  Conectores → "Agregar conector personalizado", nombre "Meta Ads", URL **`https://mcp.facebook.com/ads`** (MCP oficial de Meta,
+  beta desde el 29/04/2026), iniciar sesión con Facebook y tildar la cuenta `64830109` y la página "Venta estancias" sin
+  destildar las demás. Después hace falta abrir una **sesión nueva** (los conectores se cargan al empezar la sesión).
