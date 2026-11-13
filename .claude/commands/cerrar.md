@@ -32,4 +32,5 @@ Incluí solo lo que le ahorraría **tiempo o un error** a la próxima sesión:
 - Si Jorge mostró una forma de trabajar que no está en `como-trabaja-jorge.md`, agregala.
 
 ## Al terminar
-Commiteá y pusheá. Después decime en dos o tres líneas qué guardaste y qué quedó pendiente para la próxima.
+Commiteá y pusheá. Después decime en dos o tres líneas qué guardaste y qué quedó pendiente para la próxima, y
+recordame que la próxima tarea va en una **sesión nueva** (retomar esta vuelve a pagar toda la conversación).
