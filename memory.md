@@ -16,8 +16,8 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   publicación en la página "Venta estancias", después la campaña con esa publicación** (`reglas.md` regla 1).
 - **Calocha:** 530 ha, laguna Suárez, frente 800 m, a 6,6 km de Trinidad; sin ganado; **precio no se publica** (`negocio.md`).
   Tercera campaña `52544422357250` (Trinidad `52544422384650`, Santa Cruz `52544422387450`), 36 Bs c/u, 11/11 08:00 → 12/11
-  23:59, WhatsApp "Estoy interesado en la estancia Calocha. Quiero más información." Al 11/11 17:39: 22,43 Bs, 3 conversaciones.
-  Cierre programado 13/11 00:30 Bolivia. Interesados serios: 0. Falta: chats del padre, lámina 3.
+  23:59, WhatsApp "Estoy interesado en la estancia Calocha. Quiero más información." **Cerrada: 70,77 Bs, 9 conversaciones** (5 Trinidad, 4
+  Santa Cruz; 7,86 Bs c/u, más del doble que en octubre). Interesados serios: pendiente que diga Jorge. Falta: chats del padre, lámina 3.
 - **Lotes San Ignacio de Moxos** (`propiedades/lotes-san-ignacio.md`): 10 lotes de 642 a 1.641 m², esquina Av. Circunvalación
   y Av. al Aeropuerto, **desde 13 $US el m²** (lote más chico), plano aprobado. WhatsApp: "Estoy interesado en los lotes de San
   Ignacio. Quiero más información." **Carrusel final de 6 imágenes (Canva, 13/11)** en
@@ -263,3 +263,9 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   de Jorge: 1 diseño "Venta de lotes" · 2 MOXOS · 3 "Elegí tu lote" · 4 pueblo desde el aire · 5 lote urbano-rural
   ("Imagen referencial") · 6 "Para vivir o para invertir" con la foto aérea arriba (antes tenía la foto fea del letrero).
   Archivos: `fotos/lotes-san-ignacio/carrusel-final/`. Falta: Jorge lo publica en la página y pasa el link; cargar saldo (364 Bs).
+- **Calocha — cierre de la tercera campaña (13/11, 00:30 Bolivia):** Trinidad 35,21 Bs, 2.268 impresiones, 1.155 personas,
+  **5 conversaciones (7,04 Bs c/u)**; Santa Cruz 35,56 Bs, 1.603 impresiones, 1.133 personas, **4 (8,89 c/u)**. Total **70,77 de
+  72 Bs, 9 conversaciones, 7,86 Bs c/u**. Comparación: 20-22/10 → 74,81 Bs, 22 conversaciones, 3,40 c/u; boost 2025 → 20,57 Bs, 6,
+  3,43 c/u. Esta vez el costo por conversación fue **más del doble**: público más chico (30-54, solo celular) y más intereses
+  (bienes raíces, inversión, turismo). Lo que importa sigue sin saberse: **cuántos son serios** y si el WhatsApp llegó con el
+  mensaje de Calocha. Se le avisó a Jorge con PushNotification. Saldo restante ≈ 75,17 − 70,77 ≈ **4,4 Bs**.

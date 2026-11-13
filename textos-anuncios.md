@@ -91,6 +91,7 @@ Catálogo completo y cuáles no usar: `fotos/README.md`.
 |---|---|---|---|---|---|
 | 16 al 18/10/2026 | V1 + carrusel de 8 láminas cuadradas (`presentacion/cuadradas/`) | Feed de Facebook, Trinidad 40 km y Santa Cruz 80 km, 30-65+ | 0,43 Bs | 0 conversaciones (Meta) | — |
 | 20 al 22/10/2026 | Lo mismo: V1 + las 8 láminas (creativo nuevo, campaña `52538379010850`) | Igual: feed de Facebook, Trinidad 40 km y Santa Cruz 80 km, 30-65+ | 74,81 Bs | **22 conversaciones (Meta)**: 13 Trinidad (2,88 Bs c/u), 9 Santa Cruz (4,16 Bs c/u) | ninguno "muy interesado" (Jorge, 24/10) |
+| 11 y 12/11/2026 | V1 + las 8 láminas, con mensaje de WhatsApp "Estoy interesado en la estancia Calocha. Quiero más información." (campaña `52544422357250`) | Feed de Facebook solo celular, Trinidad 40 km y Santa Cruz 80 km, 30-54, agro + bienes raíces + inversión + turismo | 70,77 Bs | **9 conversaciones (Meta)**: 5 Trinidad (7,04 Bs c/u), 4 Santa Cruz (8,89 Bs c/u) | pendiente (Jorge) |
 
 > **La fila del 16 al 18/10 no sirve para medir el texto ni las láminas:** el anuncio se mostró solo 38 veces (~2 h del
 > viernes) porque la cuenta se quedó sin saldo. La del 20 al 22/10 sí: corrió completa con el mismo texto y las mismas láminas.
