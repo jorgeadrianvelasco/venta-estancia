@@ -274,3 +274,11 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   **38 Bs por día**, sin fecha de fin, 18-65, San Borja 30 mi + San Ignacio 50 mi + Trinidad 25 mi, todas las ubicaciones
   (FB, IG, Audience Network, WhatsApp), Advantage+ prendido. **Gasto 0 Bs** (no había saldo, `no_ads`). La pausé a pedido de
   Jorge (*"Paralo"*). Él quiere poner la segmentación y bajar el monto. Falta el link/ID del post para armar la buena.
+- **Lotes — campaña nueva en BORRADOR (13/11, ~00:50 Bolivia):** Jorge: *"Crealo vos todo a partir de la publicación"*, 13 Bs/día
+  total, 2 semanas desde sáb 14/11 08:00. Post `1445747361945494_122116283907511431`. Campaña `52545260604850` (OUTCOME_ENGAGEMENT),
+  conjunto `52545260627850` (CONVERSATIONS → WhatsApp, **182 Bs total** = 13×14, 14/11 08:00 → vie 27/11 23:59 −04:00, 30-54, feed FB
+  celular, intereses de Calocha, `advantage_audience 0`, ubicaciones de Jorge: San Borja 30 mi, San Ignacio de Moxos 50 mi,
+  Trinidad 25 mi). Anuncio `52545260642250` con el post y WhatsApp prellenado **"Quiero más información de los terrenos de San
+  Ignacio."** (Jorge lo pidió así). **Trampa:** reusar el `creative_id` del boost (`1214082897934692`) dio "Page Post Can't Be
+  Used"; con `object_story_id` + CTA + `page_welcome_message` inline quedó sin errores. La promoción vieja `52545259104250` sigue
+  pausada. **Falta:** que Jorge cargue 182 Bs y diga "publicala" → `ads_activate_entity`.
