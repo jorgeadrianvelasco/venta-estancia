@@ -229,3 +229,10 @@ Las entradas de octubre de 2026 (15 al 28/10) están en `memoria/2026-10.md`.
   `active_errors` y publicar (`ads_activate_entity`, Jorge ya dio el OK: "publicá" + "Hacé la A").
 - Memoria: entradas de octubre movidas a `memoria/2026-10.md`.
 
+### 13 de noviembre de 2026 — Manual para gastar menos tokens
+- **Qué se probó:** nada de la venta. Desde la base llegó `guias/ahorro-de-tokens.md` (medición de una sesión real: 108.000
+  tokens al abrir, 607.000 al final; el 45 % se fue en retomar la sesión después de horas y en cambiar de modelo) y el
+  bloque "Tokens" de `CLAUDE.md`. Se corrigió `CLAUDE.md`: el dueño de Calocha no está "pendiente" (es Jorge, `negocio.md`).
+- **Qué cambiar:** una tarea por sesión; si pasó más de una hora, sesión nueva; el modelo se elige al abrir; una sesión
+  corta por campaña, porque cada control programado le manda la conversación entera.
+
