@@ -250,3 +250,8 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
 - **Lotes — imágenes, nuevo pedido (13/11):** no le gustó la 3.ª lámina ("Para vivir o para invertir"). Pide 3 prompts para
   Higgsfield y 3 opciones de imagen generada, coherentes con *"terrenos en áreas urbanas en un pueblo boliviano"*: una foto de
   San Ignacio de Moxos (para la 2.ª) y una de terrenos urbanos/rurales (para la 3.ª); él elige cuáles entran y dónde.
+- **Lotes — 3 opciones con Higgsfield (13/11, ~23:30 Bolivia del 12/11):** prompts en `propiedades/lotes-san-ignacio-prompts-higgsfield.md`.
+  `nano_banana_pro` 2K 4:5, cada una con una **foto real de San Ignacio de Moxos de Wikimedia Commons** (CC BY-SA 4.0: hay que
+  nombrar a los autores en el post) como referencia: 1 = letras MOXOS en la plaza, 2 = el pueblo desde el aire con lotes verdes,
+  3 = un lote con estacas e hilo junto a casas de ladrillo (**referencial**, no es el lote real). **6 créditos (quedan 120).**
+  Primero se hizo 1 y se revisó; después 2 y 3. Las tres salieron bien a la primera. Esperando que Jorge elija.
