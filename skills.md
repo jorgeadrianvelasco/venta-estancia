@@ -10,6 +10,7 @@ viven en `.claude/skills/<nombre>/SKILL.md` y Claude las carga solo cuando traba
 | `calificar-interesado` | Decide si una consulta es seria, cuál es el próximo paso y la anota en `interesados.md` | 15/10/2026 |
 | `crear-campana` | Armar una campaña de Meta para la estancia: revisa cuenta, categoría especial, pregunta monto y horario | 15/10/2026 |
 | `generar-imagenes` | Cualquier imagen: Higgsfield → Moda → Canva, solo mejorando las fotos reales de Calocha y cotizando créditos antes | 12/11/2026, copiada de la base |
+| `fotos-premium` | Hacer o mejorar fotos premium con Higgsfield (`nano_banana_pro`, foto real de referencia, prompt por secciones, de a una). Como las de San Ignacio que Jorge aprobó | 13/11/2026 |
 | `cerrar` (comando) | Cerrar la sesión dejando en `memory.md` lo que la próxima necesita | 15/10/2026 |
 
 ## Agentes

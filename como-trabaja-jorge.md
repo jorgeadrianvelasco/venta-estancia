@@ -57,6 +57,15 @@ mejor entiende lo que vale la estancia.
 | "Está bien lo otro" | Aprueba lo propuesto y suma sus cambios en una línea: anotarlos tal cual, con su cita |
 | "Anotá todo y mergeá" | Cerrar la sesión (`/cerrar`), commit, PR y merge a `main` |
 
+**Lección del 10/11/2026 (Jorge, molesto con razón):** le di dos veces pasos de celular sin verificarlos ("abrí el link",
+"tocá aA") y no funcionaron; después le recomendé dejarlo cuando él quería hacerlo. Lo que pide: *"no me digas cosas por
+decirme"*, *"no me des recomendaciones que no te estoy pidiendo"*, *"quiero que aprendas y no lo vuelvas a hacer"*. Entonces:
+- **No dar pasos de una pantalla que no vi.** Si no hay fuente o captura, pedir la captura primero y guiar sobre lo que se ve.
+- **Si pide ejecutar algo, ejecutarlo o decir en una línea qué lo bloquea y qué lo destraba.** No proponer abandonarlo.
+- Está mucho en el celular (iPhone, Safari en inglés): los links de `facebook.com` abren la app de Facebook. Para el
+  Administrador, la app **Meta Ads Manager** (en inglés).
+- **Horarios: siempre en hora de Bolivia (Santa Cruz).** *"No me hables nunca más de horario de Madrid"* (10/11/2026).
+
 **Su olfato comercial suele tener base:** insistió en mantener Santa Cruz cuando costaba más, y el análisis mostró que ahí las
 charlas fueron más largas. Se le muestran los datos; la decisión es suya.
 

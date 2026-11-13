@@ -19,7 +19,18 @@
       "Grep",
       "Glob",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "mcp__Canva",
+      "mcp__Higgsfield__media_upload",
+      "mcp__Higgsfield__media_confirm",
+      "mcp__Higgsfield__upscale_image",
+      "mcp__Higgsfield__generate_image",
+      "mcp__Higgsfield__jobs_wait",
+      "mcp__Higgsfield__balance",
+      "mcp__Higgsfield__models_explore",
+      "mcp__Higgsfield__get_preferences",
+      "mcp__Higgsfield__show_generation_by_ids",
+      "mcp__Higgsfield__job_display"
     ],
     "deny": [
       "Bash(rm -rf:*)",

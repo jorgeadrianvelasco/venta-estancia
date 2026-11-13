@@ -136,6 +136,45 @@ se llevaron el 48 % del gasto por 3 conversaciones, y los 22 chats llegaron sin 
 **Qué la haría cambiar:** que el público de 30 a 54 no traiga ningún interesado serio, o que aparezca un comprador serio mayor
 de 55 por otro canal.
 
+## Tercera campaña: 18 Bs por día por ciudad, 2 días, las dos ciudades iguales (09-10/11/2026)
+**Decidido:** 09/11/2026, por Jorge: *"Por 3 días, las dos ciudades. 20 Bs el día por ciudad"*, arrancando el miércoles 11/11.
+**Cambiado el 10/11/2026** por falta de saldo (75,17 Bs): *"hacé que la campaña sea de 18 Bs y que solo dure dos días. Quiero
+que empiece mañana igual"* → 36 Bs por ciudad, mié 11 y jue 12/11 (72 Bs en total). **Mensaje de WhatsApp igual en los dos
+anuncios** (Jorge): *"Estoy interesado en la estancia Calocha. Quiero más información."* La ciudad de cada chat la informa Claude
+con los números de Meta por conjunto (Meta da cuántos por ciudad, no cuál chat es de dónde).
+Reemplaza el 60/40 a favor de Santa Cruz que había quedado aprobado el 25/10. También pidió que Claude cargue los intereses
+nuevos (*"te doy el permiso"*); no se pudo: el MCP de Meta no busca intereses y Meta no acepta un interés sin su código
+exacto. Los carga Jorge en el borrador.
+**Por qué:** decisión de Jorge; las dos ciudades con el mismo público y la misma plata permiten compararlas mejor.
+**Qué la haría cambiar:** los interesados serios de cada ciudad al cierre.
+
+## Este repo es de venta de estancias y terrenos en general: Calocha, los lotes de San Ignacio de Moxos y los que vengan (10/11/2026)
+**Decidido:** 10/11/2026, por Jorge: *"Creo que sigue siendo el mismo negocio, ya que es una venta de lotes. Así que yo lo
+dejaría en el mismo repo"*. Página **"Venta estancias"** (`1445747361945494`) y el **WhatsApp del padre**.
+**Mensaje de WhatsApp del anuncio — reemplazado el 11/11/2026 por** *"Estoy interesado en los lotes de San Ignacio. Quiero más
+información."* (69 caracteres; Jorge). El de abajo queda solo como historia: *"Estoy interesado en los lotes de San Ignacio de Mojos. ¿Me podrías dar
+más información?"* — 87 caracteres; 360dialog habla de un máximo de 80 (no verificado con Meta): se prueba tal cual al crear y,
+si Meta lo rechaza, se le avisa a Jorge antes de cambiarlo.
+**Lo que se sabe:** 10 u 11 lotes (Jorge no recuerda), solo imágenes de los planos. Las ubicaciones del público las dice Jorge.
+Tamaños, papeles y precio: **pendientes**.
+**Ampliado el 10/11/2026:** *"Este repo no va a ser solo de venta [de Calocha], va a ser venta de estancias en general. Voy a
+vender más, voy a intentar vender otros terrenos y demás."*
+**Mensaje de reserva si Meta rechaza el de 87 caracteres** (Jorge): *"Tengo interés en los terrenos de San Ignacio. Dame
+información."*
+**Ampliado el 11/11/2026:** *"La idea de este repo es poder vender más estancias aún y no solo la mía."* Puede haber
+propiedades de **otras personas**: para esas, la línea "Venta directa del dueño" del texto V1 no sirve, y hay que anotar quién
+decide el precio y qué gana Jorge (`propiedades/_plantilla.md`).
+**Qué la haría cambiar:** que Jorge decida separar alguna venta en otro repo.
+
+## Primero la publicación en la página, después la campaña con esa publicación (12/11/2026)
+**Decidido por Jorge:** *"Quiero que a partir de ahora todo, primero lo publiquemos y después recién lo hagamos el meta ads y la
+campaña. No quiero que lo hagamos como la última vez, que no era una publicación, sino que solo era una campaña de marketing."*
+**Qué cambia:** las tres campañas de Calocha usaron anuncios armados solo dentro de Meta Ads (no estaban como publicación en la
+página). Desde ahora: (1) se diseña la pieza, (2) se publica en la página "Venta estancias", (3) recién ahí se arma la campaña
+usando **esa** publicación.
+**Diseño:** para los lotes de San Ignacio la publicación se hace con **Moda**, no con Canva (Jorge, 12/11/2026), después de
+inspirarse en Pinterest y en los letreros de las urbanizaciones de Santa Cruz (`investigacion/2026-11-12-*`).
+
 ## Pendientes de decidir
 
 | Tema | Por qué importa |

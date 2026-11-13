@@ -6,6 +6,8 @@ El contexto del negocio está en `negocio.md`. El porqué de cada decisión, en 
 ## 1. Nada se publica ni se gasta sin pedido expreso de Jorge
 No crear campañas, conjuntos de anuncios ni anuncios — **ni siquiera en pausa** — hasta que Jorge lo
 pida con esas palabras. Cuando lo pida, todo se crea **pausado** y no se activa sin su aprobación.
+**Orden fijo (Jorge, 12/11/2026):** primero la publicación en la página "Venta estancias", después la campaña con esa
+publicación. Nunca un anuncio que exista solo dentro de Meta Ads (`decisiones.md`).
 
 ## 2. Nada de Kakau
 No se usa la cuenta publicitaria, la página, el Instagram ni el WhatsApp de Kakau. Antes de la primera
@@ -35,6 +37,8 @@ Borrar, publicar, gastar, compartir datos de la estancia o de interesados con te
 Esta venta no se mezcla con Kakau, tubos, abanicos, estancias en alquiler, ganado, carne, carteras ni coaching.
 **Única excepción, decidida por Jorge (15/10/2026):** el WhatsApp de su padre atiende los tubos y esta venta. Cada
 línea sigue con su página y su repositorio; solo el teléfono es compartido (`decisiones.md`).
+**Este repo es de la venta de estancias y terrenos de Jorge en general** (Jorge, 10/11/2026): Calocha, los lotes de San Ignacio
+de Moxos y los que vengan. Lo que no va acá: estancias en **alquiler**, ganado, carne y las demás líneas.
 
 ## 8. Escribir en memory.md lo que una sesión futura necesitaría
 Con fecha, qué se probó, qué resultado dio y qué se aprendió. Entre sesiones no hay memoria, solo archivos.

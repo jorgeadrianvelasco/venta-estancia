@@ -112,3 +112,36 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
   inversión, agro y turismo rural; en la campaña corrieron **solo intereses agro** (Agribusiness, Milk, Dairy, Cattle,
   Livestock, Farm, Agriculture, Agronomy, Rural area, Cattle feeding + empleador Agriculture). Los perfiles B (inversionista)
   y D (quinta o turismo) no estaban en el público. Leer `targeting` con `ads_get_ad_entities` antes de publicar.
+- **Mensaje prellenado de WhatsApp: el JSON que Meta aceptó en borrador** (09/11/2026, campaña `52544422357250`). Va dentro de
+  `object_story_spec.link_data` (también en carrusel, a nivel de `link_data`, no por tarjeta) como **texto JSON**:
+  `"page_welcome_message":"{\"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\",
+  \"text_format\": {\"customer_action_type\": \"autofill_message\", \"message\": {\"autofill_message\": {\"content\": \"<texto>\"}, \"text\": \"<texto>\"}},
+  \"user_edit\": false, \"surface\": \"visual_editor_new\"}"`. Máximo 80 caracteres según 360dialog
+  ([docs](https://docs.360dialog.com/docs/whatsapp-marketing/ads-that-click-to-whatsapp-ctwa)); la forma del JSON sale de la
+  documentación de Meta ([Click to WhatsApp](https://developers.facebook.com/docs/marketing-api/ad-creative/messaging-ads/click-to-whatsapp/)),
+  que el proxy no dejó abrir entera. El borrador lo validó sin errores; **falta confirmar con el primer chat real** que le llega
+  así al papá de Jorge.
+- **Intereses: el MCP no los busca, aunque Jorge dé permiso** (09/11/2026). Se reusan los IDs que ya están en públicos de la
+  cuenta (leídos con `targeting`); los nuevos (bienes raíces, inversión, turismo) los agrega Jorge en el borrador desde el
+  Administrador. Después, releer el `targeting` antes de publicar.
+- **Saldo antes de publicar, calculado del historial** (09/11/2026): `ads_account_get_activity_logs` con `event_category: budget`
+  muestra "Money added to balance" y cada "Account billed"; saldo = cargas − cobros. Al 09/11: 150 − 74,83 = **75,17 Bs**.
+- **Cambiar el mensaje prellenado en un borrador sí se puede** (10/11/2026): `ads_update_entity` sobre el anuncio en borrador con
+  `{"creative": {...}}` (el creativo entero, con el `page_welcome_message` nuevo). Una vez publicado, el creativo no se edita.
+- **La cuenta tiene borradores viejos que no son nuestros** (10/11/2026): una "New Leads Campaign" de marzo de 2026 (categoría
+  vivienda, con errores) y cambios sin publicar del boost de 2025. Cada lectura con `ads_get_ad_entities` pide revisarlos
+  (`next_actions`). **No se publican ni se borran**: se los ignora salvo que Jorge diga otra cosa.
+- **Jorge desde el iPhone (10/11/2026):** un link de `facebook.com/adsmanager` que se toca desde el chat lo manda a la app de
+  Facebook, o le pide iniciar sesión, porque Safari no tiene la sesión de Facebook abierta. Se le dieron pasos sin prever eso y
+  los marcó como "terriblemente mal". Para editar desde el celular: **pegar** el link en la barra de Safari (tocarlo lo desvía a
+  la app), entrar a Facebook en la web con correo y contraseña, y después ••• → "Request Desktop Website". Si no tiene la
+  contraseña a mano, que lo haga desde una computadora.
+- **IDs de intereses verificados por Meta** (leídos del `targeting` publicado el 10/11/2026; se pueden reusar):
+  Real estate `6003578086487`, Real property `6003693537583`, Real estate investing `6003446239080`, Investment `6003388314512`,
+  Investment management `6003293787730`, Tourism `6003430696269`, Ecotourism `6003059385128`; empleador Real estate
+  `137672173256832`; cargo General Farmer `415734048602007`. Los agro: ver el `targeting` de `52544422387450`.
+- **Editar el público desde el iPhone de Jorge: la app "Meta Ads Manager" sí sirve** (10/11/2026): campaña → ⋮ del conjunto →
+  Edit → lápiz de Audience. En el navegador, Facebook lo manda al App Store. Guiarlo con capturas, una pantalla por vez.
+- **Copiar un público entre conjuntos publicados:** `ads_update_entity` deja el cambio en borrador (`is_draft: true`); hay que
+  publicarlo con `ads_activate_entity` (`object_ids` de los conjuntos, `publish_as_active: false`) y **pedirle a Jorge el sí
+  explícito antes**: sin él, el permiso automático lo frena.

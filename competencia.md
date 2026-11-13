@@ -19,5 +19,16 @@ que casi nunca es público.
 
 Todos son precios **pedidos**, sacados de resúmenes de buscador (el proxy bloqueó los portales); ninguno se abrió ni tiene fecha de aviso. Sin cerrados. Detalle y contradicciones en `investigacion/precios-y-canales-trinidad.md`. Ninguno está sobre la laguna Suárez ni la carretera a Loreto. Las 2 últimas filas (Century 21 Amazonía) salieron de `investigacion/identidad-visual-competidores.md`, con el mismo límite: resumen de buscador, aviso no abierto.
 
+## Lotes urbanos en Santa Cruz (referencia para los lotes de San Ignacio de Moxos)
+
+Precios **pedidos**, de resúmenes de buscador; avisos no abiertos, sin fecha de aviso. No comparables directos (otro departamento, otro mercado). Detalle en `investigacion/2026-11-12-letreros-urbanizaciones-scz.md`.
+
+| Fecha vista | Zona | Precio pedido | Fuente |
+|---|---|---|---|
+| 12/11/2026 | Cotoca, urb. La Perla (~315 m²) | 28 US$/m², inicial 1.000 US$ y cuotas | https://c21global.immobel.com/property/urb--la-perla---cotoca---manzana-255---lote-12--este-santa-cruz-00001-bolivia-C21136175344-USD |
+| 12/11/2026 | Cotoca, urb. El Dorado | 36,8 US$/m², inicial 1.000 US$ | https://c21global.immobel.com/property/urb--el-dorardo--cotoca--manzana-b--lote-25--este-santa-cruz-00001-bolivia-C21136175349-USD |
+| 12/11/2026 | Warnes, lotes de 300 m² | desde 26 US$/m², hasta 10 años (según aviso) | https://santacruz.evisos.com.bo/inmuebles/terrenos-parcelas/lotes-a-credito.htm |
+| 12/11/2026 | Urubó, Sahara del Urubó (folleto sin fecha) | 90 a 160 US$/m² | https://cdn1.infocasas.com.uy/repo/arch/59a87fddc4a43_sahara-del-urubo.pdf |
+
 ## Lectura
 pendiente — hay filas, pero **ninguna es comparable directa** (nada sobre la laguna Suárez ni la carretera a Loreto) y ninguna se abrió. Se escribe una lectura cuando alguien las verifique desde una conexión sin bloqueo.
