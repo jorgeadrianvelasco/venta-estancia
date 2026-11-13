@@ -293,3 +293,10 @@ Las entradas del 15 al 20/10/2026 están en `memoria/2026-10.md`.
   y segmentación de Jorge, WhatsApp "Quiero más información de los terrenos de San Ignacio."). **El anuncio `52545260642250` sigue
   en borrador: Jorge dijo "todavía no"** a publicarlo. **Pedido de Jorge:** si Advantage+ audiencia gasta más de lo normal, analizar
   si vale la pena tenerlo (comparar costo por conversación contra Calocha: 3,40 Bs en oct, 7,86 en nov).
+- **Lotes — el anuncio NO se pudo publicar (13/11, madrugada):** Jorge dijo *"publicá y mergeá"*. PR #6 mergeado a `main`. El anuncio
+  `52545260642250` falla al publicar: con `object_story_id` (+ `object_id`) da **"Post not owned by ad's Page"** (error 3858759) y
+  con el `creative_id` del boost borrado (`1214082897934692`) da **"Page Post Can't Be Used"** (1487472). El post es una publicación
+  de varias fotos (`1445747361945494_122116283907511431`). Campaña y conjunto publicados, pero sin anuncio no entrega (`no_ads`).
+  Dato: el boost que hizo Jorge tenía mensaje prellenado "¿Cuál es el precio total de cada lote?". Salidas: (a) armar el anuncio
+  como carrusel con las 6 imágenes del repo y el mismo texto (no es "el post", pero se ve igual y cada foto lleva botón de
+  WhatsApp); (b) que Jorge use "Usar publicación existente" en el Administrador. Esperando decisión de Jorge.
