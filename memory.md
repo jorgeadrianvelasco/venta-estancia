@@ -22,9 +22,9 @@ una línea que diga dónde están. (En Kakau el archivo llegó a 3.151 líneas y
   y Av. al Aeropuerto, **desde 13 $US el m²** (lote más chico), plano aprobado. Post carrusel de 6 imágenes publicado por Jorge.
   **Campaña única `52545260604850`** (conjunto `52545260627850`): 13 Bs/día, 182 Bs, sáb 14/11 08:00 → 27/11 23:59, solo
   Facebook, San Borja 30 mi + San Ignacio 50 mi + Trinidad 25 mi, Advantage+ audiencia, intereses de Jorge; WhatsApp "Quiero más
-  información de los terrenos de San Ignacio." **Falta el anuncio:** `52545260642250` en borrador; Jorge eligió (13/11) armarlo
-  como **carrusel de las 6 imágenes 1:1** (hashes en la bitácora) con botón de WhatsApp en cada foto, y publicarlo antes del
-  sábado 08:00. Pendiente: analizar si Advantage+ vale la pena tras unos días. Saldo ≈ 240 Bs.
+  información de los terrenos de San Ignacio." **Anuncio `52545260642250` publicado el 13/11 (11:5x Bolivia)** como carrusel de las 6 imágenes 1:1, botón WhatsApp en cada
+  tarjeta, creative `1131398163193464`; quedó en revisión de Meta (`IN_PROCESS`). Entrega desde el sáb 14/11 08:00. Pendiente:
+  verificar que pase la revisión y analizar si Advantage+ vale la pena tras unos días. Saldo ≈ 240 Bs.
 - **Meta:** cuenta personal **`64830109` prepaga** (leer `delivery`); página "Venta estancias" `1445747361945494`; WhatsApp del
   padre (compartido con tubos). Sin Instagram. Nada de Kakau. Crear o activar campañas: solo con pedido expreso de Jorge.
 - **Herramientas:** Canva y Moda para diseño (permisos automáticos para Canva e imágenes de Higgsfield); Higgsfield gratis: el
@@ -233,3 +233,11 @@ Las entradas de octubre de 2026 (15 al 28/10) están en `memoria/2026-10.md`.
   Conectores → "Agregar conector personalizado", nombre "Meta Ads", URL **`https://mcp.facebook.com/ads`** (MCP oficial de Meta,
   beta desde el 29/04/2026), iniciar sesión con Facebook y tildar la cuenta `64830109` y la página "Venta estancias" sin
   destildar las demás. Después hace falta abrir una **sesión nueva** (los conectores se cargan al empezar la sesión).
+
+### 13 de noviembre de 2026 (tarde) — Conector Meta Ads vuelto a agregar y anuncio publicado
+- Jorge agregó otra vez el conector (los de Canva/Higgsfield/Moda también volvieron). El conector se llama ahora `Meta_Ads`
+  (con A mayúscula). Cuentas visibles: `64830109` (estancias), Kakau y El Arca: **solo se toca la `64830109`**.
+- Anuncio del carrusel cargado (`ads_update_entity`, sin errores) y publicado (`ads_activate_entity`, `publish_as_active`).
+  Sin borradores pendientes. El `page_welcome_message` quedó con "Quiero más información de los terrenos de San Ignacio.".
+- Falla de las recordatorios: un `send_later` llegó 1 h 23 min tarde; no confiar en él para avisos con hora.
+
