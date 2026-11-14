@@ -50,8 +50,15 @@ tubos, abanicos, estancias en alquiler, ganado, carne, carteras, coaching—: ca
 - **No leas archivos grandes enteros** (`memoria/`, `investigacion/`, `analisis/`): `grep` y el tramo que haga falta.
 - **Juntá** comandos y lecturas en una sola llamada, recortá las salidas y no releas lo que acabás de escribir.
 - **A Meta, pedile solo los campos que vas a usar.**
+- **Si hace falta pensar más, subí el esfuerzo (`/effort high`) en vez de cambiar de modelo:** cambiar de modelo recarga
+  toda la conversación; cambiar el esfuerzo, no.
 - **Agentes solo para trabajo grande**, con modelo Sonnet: escriben su archivo y devuelven diez líneas.
 - **Respuestas cortas:** la conclusión, una tabla y lo pendiente.
+
+## Compact instructions
+Cuando se resuma la sesión, conservá: lo que Jorge pidió y aprobó, con sus palabras; los IDs de Meta creados o tocados
+y los de los controles (`trig_…`); montos, días y horarios aprobados; lo que falló y por qué; y lo que quedó pendiente.
+Descartá las salidas largas de herramientas y el contenido de archivos que ya están guardados en el repo.
 
 ## Herramientas
 - Jorge trabaja con **Excel y Outlook**, no con Google.

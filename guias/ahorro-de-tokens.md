@@ -53,7 +53,7 @@ sobre ella y cuántas veces se la retoma en frío**.
 |---|---|---|
 | 1 | **Una tarea, una sesión, un repo.** Terminó la tarea: `/cerrar` y sesión nueva para la siguiente | Una sesión nueva pesa ~108.000 tokens; una de dos días, 600.000 |
 | 2 | **Si pasó más de una hora, abrí una sesión nueva en vez de retomar la vieja** | Retomar reescribe toda la conversación. El estado está en `memory.md`: la sesión nueva lo lee en 2.000 tokens |
-| 3 | **Elegí el modelo al abrir y no lo cambies en el medio** | Cada cambio reescribe todo |
+| 3 | **Elegí el modelo al abrir y no lo cambies en el medio.** Si hace falta pensar más, subí el esfuerzo (`/effort high`) | Cada cambio de modelo reescribe todo. Cambiar el esfuerzo no, según la [documentación](https://code.claude.com/docs/en/prompt-caching) (leída por el agente el 14/11/2026) |
 | 4 | **Un mensaje completo en vez de cinco cortos**: qué querés, de qué repo, con qué datos | Cada mensaje es al menos una llamada sobre toda la conversación |
 | 5 | **Una sesión por campaña**, abierta para crearla y recibir sus controles, y nada más | Los controles programados despiertan la sesión y le mandan la conversación entera |
 | 6 | **Agentes, solo para trabajo grande** | El de los 4 PR gastó 167.000 tokens |
@@ -110,7 +110,9 @@ Recomendación (criterio propio, no medición):
 | Un problema que Opus no pudo resolver | Fable 5.2, en una sesión nueva |
 | Agente investigador | Sonnet (ya está en su archivo) |
 
-En Opus 5.5 el esfuerzo por defecto es medio. Subirlo solo para un análisis difícil.
+En Opus 5.5 el esfuerzo por defecto es medio. Para un análisis difícil, subirlo con `/effort high` **en la misma sesión**:
+sale más barato que pasar a otro modelo. Para controles y notas, `/effort low`. Por lo mismo, **ninguna skill lleva
+`model:` propio**: cuenta como cambio de modelo.
 
 ## Qué apagar en la cuenta (lo hace Jorge en claude.ai)
 
@@ -136,6 +138,16 @@ abrir una sesión antes y otra después, y comparar el primer número.
 | claude.ai → Settings → Usage | Para ver cuánto del plan va gastado |
 | Plugin Token Shield (ya instalado en la cuenta) | No lo probé. Mide lo mismo que se midió acá, y él también ocupa lugar en cada sesión |
 | Otra app externa | No hace falta |
+
+## Lo que dice la documentación sobre la nube (informe del 14/11/2026, sin probar por nosotros)
+
+| Dato | Qué hacer |
+|---|---|
+| En la nube cargan el `CLAUDE.md`, `.claude/skills`, `agents`, `commands`, `rules` y los hooks del `settings.json` del repo. No cargan `~/.claude` ni plugins declarados en el repo | Todo lo nuestro va en `.claude/` del repo, como ya está |
+| `/compact`, `/context`, `/clear`, `/model` y `/effort` funcionan en la nube. `/usage` no figura | Usar `/context` para ver qué ocupa la conversación |
+| El `CLAUDE.md` se relee del disco después de `/compact` | Por eso lleva la sección "Compact instructions" |
+| `CLAUDE_CODE_SUBAGENT_MODEL=sonnet` como variable del entorno fija el modelo de todos los agentes | Lo carga Jorge en el entorno de la nube (Editar → variables). Pendiente |
+| Una tarea programada que despierta una sesión larga reenvía toda la conversación | Confirma la regla 5: una sesión corta por campaña |
 
 ## Sin probar
 

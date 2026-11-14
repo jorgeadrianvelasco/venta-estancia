@@ -52,6 +52,18 @@
         ]
       }
     ],
+    "PreToolUse": [
+      {
+        "matcher": "mcp__Meta_[Aa]ds__ads_create_(campaign|ad_set|ad)",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$CLAUDE_PROJECT_DIR/.claude/hooks/meta-en-pausa.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
     "PostToolUse": [
       {
         "matcher": "Bash",

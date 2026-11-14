@@ -145,3 +145,23 @@ clasificador de permisos bloquea crear o activar conjuntos con presupuesto.
 - **Copiar un público entre conjuntos publicados:** `ads_update_entity` deja el cambio en borrador (`is_draft: true`); hay que
   publicarlo con `ads_activate_entity` (`object_ids` de los conjuntos, `publish_as_active: false`) y **pedirle a Jorge el sí
   explícito antes**: sin él, el permiso automático lo frena.
+
+## Herramientas del MCP oficial que todavía no usamos (sin probar)
+
+El conector oficial trae más de lo que usa la receta. Detectado el 14/11/2026 (`investigacion/marketing-meta-y-repos.md`
+en la base). **Ninguna está probada por nosotros.** Las de lectura se pueden probar en el próximo control o cierre; las
+que crean algo, solo cuando Jorge lo pida.
+
+| Herramienta | Para qué serviría | Tipo |
+|---|---|---|
+| `ads_insights_anomaly_signal` | Avisa si algo se salió de lo normal en la cuenta | Lectura |
+| `ads_insights_performance_trend` | Tendencia del rendimiento en el tiempo | Lectura |
+| `ads_insights_industry_benchmark`, `ads_insights_performance_vs_peers`, `ads_insights_auction_ranking_benchmarks` | Comparar los números propios con el rubro | Lectura |
+| `ads_get_opportunity_score` | La puntuación y las recomendaciones de Meta para la cuenta | Lectura |
+| `ads_library_search` | Ver los anuncios de la competencia en la Biblioteca de Anuncios | Lectura |
+| `ads_get_ad_preview_screenshot` | Captura de la vista previa del anuncio. Podría reemplazar el rodeo con Chromium | Lectura |
+| `ads_experiment_check_eligibility` | Dice si la cuenta puede correr una prueba A/B | Lectura |
+| `ads_experiment_abtest_create_test`, `ads_experiment_lift_create_test` | Prueba A/B armada por Meta, en vez de comparar dos campañas a ojo | **Crea y gasta: solo con pedido de Jorge** |
+
+Al probar una: anotar en "Trampas de esta línea" qué devolvió y si sirve, y avisar para llevarlo a la base.
+

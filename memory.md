@@ -236,3 +236,11 @@ Las entradas de octubre de 2026 (15 al 28/10) están en `memoria/2026-10.md`.
 - **Qué cambiar:** una tarea por sesión; si pasó más de una hora, sesión nueva; el modelo se elige al abrir; una sesión
   corta por campaña, porque cada control programado le manda la conversación entera.
 
+### 14 de noviembre de 2026 — Mejoras traídas de la investigación de la base
+- Qué se probó: nada de pauta. Se aplicó lo que Jorge aprobó el 14/11 de los informes de `investigacion/` de la base.
+- Resultado: hook `meta-en-pausa.sh`, que frena crear una campaña, un conjunto o un anuncio que no nazca en pausa
+  (probado con 7 casos fuera de Meta; **sin probar en una sesión real**); "Compact instructions" en `CLAUDE.md`; regla de
+  subir el esfuerzo en vez de cambiar de modelo; y en `como-crear-campana.md`, la lista de herramientas del MCP oficial
+  que nunca usamos (A/B, comparación con el rubro, anomalías, Biblioteca de Anuncios), todas sin probar.
+- Qué aprendimos / qué cambiar la próxima vez: probar las herramientas de lectura en el próximo control o cierre y anotar
+  qué devuelven. Si el hook frena algo que no debía, se saca de `.claude/settings.json` y se avisa en la base.
